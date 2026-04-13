@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>35114581</Id>
+	<Item Name="PubDate" Type="Date">2022 Mar</Item>
+	<Item Name="EPubDate" Type="Date">2022 Jan 20</Item>
+	<Item Name="Source" Type="String">J Biomech</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zandiyeh P</Item>
+		<Item Name="Author" Type="String">Parola LR</Item>
+		<Item Name="Author" Type="String">Fleming BC</Item>
+		<Item Name="Author" Type="String">Beveridge JE</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Beveridge JE</Item>
+	<Item Name="Title" Type="String">Wavelet analysis reveals differential lower limb muscle activity patterns long after anterior cruciate ligament reconstruction.</Item>
+	<Item Name="Volume" Type="String">133</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">110957</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0157375</Item>
+	<Item Name="ISSN" Type="String">0021-9290</Item>
+	<Item Name="ESSN" Type="String">1873-2380</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Randomized Controlled Trial</Item>
+		<Item Name="PubType" Type="String">Research Support, N.I.H., Extramural</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35114581</Item>
+		<Item Name="mid" Type="String">NIHMS1775927</Item>
+		<Item Name="pmc" Type="String">PMC8893161</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC8893161;manuscript-id: NIHMS1775927;</Item>
+		<Item Name="doi" Type="String">10.1016/j.jbiomech.2022.110957</Item>
+		<Item Name="pii" Type="String">S0021-9290(22)00016-1</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jbiomech.2022.110957</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/06/22 00:00</Item>
+		<Item Name="revised" Type="Date">2022/01/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/01/06 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/02/04 06:00</Item>
+		<Item Name="medline" Type="Date">2022/03/19 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/02/03 20:17</Item>
+		<Item Name="pmc-release" Type="Date">2023/03/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">49</Item>
+	<Item Name="FullJournalName" Type="String">Journal of biomechanics</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.jbiomech.2022.110957</Item>
+	<Item Name="SO" Type="String">2022 Mar;133:110957</Item>
+</DocSum>
+
+<DocSum>
+	<Id>31828089</Id>
+	<Item Name="PubDate" Type="Date">2019</Item>
+	<Item Name="EPubDate" Type="Date">2019 Nov 15</Item>
+	<Item Name="Source" Type="String">Biomed Res Int</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kaya D</Item>
+		<Item Name="Author" Type="String">Guney-Deniz H</Item>
+		<Item Name="Author" Type="String">Sayaca C</Item>
+		<Item Name="Author" Type="String">Calik M</Item>
+		<Item Name="Author" Type="String">Doral MN</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Doral MN</Item>
+	<Item Name="Title" Type="String">Effects on Lower Extremity Neuromuscular Control Exercises on Knee Proprioception, Muscle Strength, and Functional Level in Patients with ACL Reconstruction.</Item>
+	<Item Name="Volume" Type="String">2019</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">1694695</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101600173</Item>
+	<Item Name="ISSN" Type="String">2314-6133</Item>
+	<Item Name="ESSN" Type="String">2314-6141</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Randomized Controlled Trial</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">31828089</Item>
+		<Item Name="pmc" Type="String">PMC6881759</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC6881759;</Item>
+		<Item Name="doi" Type="String">10.1155/2019/1694695</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1155/2019/1694695</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2019/10/01 00:00</Item>
+		<Item Name="accepted" Type="Date">2019/10/31 00:00</Item>
+		<Item Name="entrez" Type="Date">2019/12/13 06:00</Item>
+		<Item Name="pubmed" Type="Date">2019/12/13 06:00</Item>
+		<Item Name="medline" Type="Date">2020/04/24 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2019/11/15 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">27</Item>
+	<Item Name="FullJournalName" Type="String">BioMed research international</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1155/2019/1694695</Item>
+	<Item Name="SO" Type="String">2019;2019:1694695</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27876265</Id>
+	<Item Name="PubDate" Type="Date">2016 Dec</Item>
+	<Item Name="EPubDate" Type="Date">2016 Nov 18</Item>
+	<Item Name="Source" Type="String">Knee</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Rose MB</Item>
+		<Item Name="Author" Type="String">Domes C</Item>
+		<Item Name="Author" Type="String">Farooqi M</Item>
+		<Item Name="Author" Type="String">Crawford DC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Crawford DC</Item>
+	<Item Name="Title" Type="String">A prospective randomized comparison of two distinct allogenic tissue constructs for anterior cruciate ligament reconstruction.</Item>
+	<Item Name="Volume" Type="String">23</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">1112-1120</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9430798</Item>
+	<Item Name="ISSN" Type="String">0968-0160</Item>
+	<Item Name="ESSN" Type="String">1873-5800</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Randomized Controlled Trial</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27876265</Item>
+		<Item Name="doi" Type="String">10.1016/j.knee.2016.08.011</Item>
+		<Item Name="pii" Type="String">S0968-0160(16)30144-2</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.knee.2016.08.011</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2016/04/26 00:00</Item>
+		<Item Name="revised" Type="Date">2016/08/24 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/08/27 00:00</Item>
+		<Item Name="pubmed" Type="Date">2016/11/24 06:00</Item>
+		<Item Name="medline" Type="Date">2017/08/16 06:00</Item>
+		<Item Name="entrez" Type="Date">2016/11/24 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Knee</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.knee.2016.08.011</Item>
+	<Item Name="SO" Type="String">2016 Dec;23(6):1112-1120</Item>
+</DocSum>
+
+<DocSum>
+	<Id>27570169</Id>
+	<Item Name="PubDate" Type="Date">2017 Jan</Item>
+	<Item Name="EPubDate" Type="Date">2016 Aug 25</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wasserman BR</Item>
+		<Item Name="Author" Type="String">Singh BC</Item>
+		<Item Name="Author" Type="String">Kaplan DJ</Item>
+		<Item Name="Author" Type="String">Weinberg M</Item>
+		<Item Name="Author" Type="String">Meislin R</Item>
+		<Item Name="Author" Type="String">Jazrawi LM</Item>
+		<Item Name="Author" Type="String">Strauss EJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Strauss EJ</Item>
+	<Item Name="Title" Type="String">Braking Reaction Time After Right-Knee Anterior Cruciate Ligament Reconstruction: A Comparison of 3 Grafts.</Item>
+	<Item Name="Volume" Type="String">33</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">173-180</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Randomized Controlled Trial</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">27570169</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2016.05.043</Item>
+		<Item Name="pii" Type="String">S0749-8063(16)30367-X</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2016.05.043</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2015/12/03 00:00</Item>
+		<Item Name="revised" Type="Date">2016/05/27 00:00</Item>
+		<Item Name="accepted" Type="Date">2016/05/31 00:00</Item>
+		<Item Name="pubmed" Type="Date">2016/08/30 06:00</Item>
+		<Item Name="medline" Type="Date">2017/10/25 06:00</Item>
+		<Item Name="entrez" Type="Date">2016/08/30 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2016.05.043</Item>
+	<Item Name="SO" Type="String">2017 Jan;33(1):173-180</Item>
+</DocSum>
+
+<DocSum>
+	<Id>26311445</Id>
+	<Item Name="PubDate" Type="Date">2015 Oct</Item>
+	<Item Name="EPubDate" Type="Date">2015 Aug 26</Item>
+	<Item Name="Source" Type="String">Am J Sports Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Bottoni CR</Item>
+		<Item Name="Author" Type="String">Smith EL</Item>
+		<Item Name="Author" Type="String">Shaha J</Item>
+		<Item Name="Author" Type="String">Shaha SS</Item>
+		<Item Name="Author" Type="String">Raybin SG</Item>
+		<Item Name="Author" Type="String">Tokish JM</Item>
+		<Item Name="Author" Type="String">Rowles DJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Rowles DJ</Item>
+	<Item Name="Title" Type="String">Autograft Versus Allograft Anterior Cruciate Ligament Reconstruction: A Prospective, Randomized Clinical Study With a Minimum 10-Year Follow-up.</Item>
+	<Item Name="Volume" Type="String">43</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">2501-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7609541</Item>
+	<Item Name="ISSN" Type="String">0363-5465</Item>
+	<Item Name="ESSN" Type="String">1552-3365</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Randomized Controlled Trial</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">26311445</Item>
+		<Item Name="doi" Type="String">10.1177/0363546515596406</Item>
+		<Item Name="pii" Type="String">0363546515596406</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/0363546515596406</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2015/08/28 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/08/28 06:00</Item>
+		<Item Name="medline" Type="Date">2016/05/04 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The American journal of sports medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/0363546515596406</Item>
+	<Item Name="SO" Type="String">2015 Oct;43(10):2501-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25891223</Id>
+	<Item Name="PubDate" Type="Date">2015 Jul</Item>
+	<Item Name="EPubDate" Type="Date">2015 Apr 17</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Li J</Item>
+		<Item Name="Author" Type="String">Wang J</Item>
+		<Item Name="Author" Type="String">Li Y</Item>
+		<Item Name="Author" Type="String">Shao D</Item>
+		<Item Name="Author" Type="String">You X</Item>
+		<Item Name="Author" Type="String">Shen Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Shen Y</Item>
+	<Item Name="Title" Type="String">A Prospective Randomized Study of Anterior Cruciate Ligament Reconstruction With Autograft, γ-Irradiated Allograft, and Hybrid Graft.</Item>
+	<Item Name="Volume" Type="String">31</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">1296-302</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Randomized Controlled Trial</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25891223</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2015.02.033</Item>
+		<Item Name="pii" Type="String">S0749-8063(15)00142-5</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2015.02.033</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2014/06/17 00:00</Item>
+		<Item Name="revised" Type="Date">2015/02/01 00:00</Item>
+		<Item Name="accepted" Type="Date">2015/02/17 00:00</Item>
+		<Item Name="entrez" Type="Date">2015/04/21 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/04/22 06:00</Item>
+		<Item Name="medline" Type="Date">2016/02/03 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2015.02.033</Item>
+	<Item Name="SO" Type="String">2015 Jul;31(7):1296-302</Item>
+</DocSum>
+
+<DocSum>
+	<Id>15363236</Id>
+	<Item Name="PubDate" Type="Date">2004 Aug 22</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Zhonghua Wai Ke Za Zhi</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Sun K</Item>
+		<Item Name="Author" Type="String">Tang JW</Item>
+		<Item Name="Author" Type="String">Xu Q</Item>
+		<Item Name="Author" Type="String">Liu XY</Item>
+		<Item Name="Author" Type="String">Zhou LG</Item>
+		<Item Name="Author" Type="String">Hao YQ</Item>
+		<Item Name="Author" Type="String">Wang L</Item>
+		<Item Name="Author" Type="String">Sun YJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Sun YJ</Item>
+	<Item Name="Title" Type="String">[A prospective study of the anterior cruciate ligament reconstruction: allograft versus autograft].</Item>
+	<Item Name="Volume" Type="String">42</Item>
+	<Item Name="Issue" Type="String">16</Item>
+	<Item Name="Pages" Type="String">989-92</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">Chinese</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0153611</Item>
+	<Item Name="ISSN" Type="String">0529-5815</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Randomized Controlled Trial</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">15363236</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2004/09/15 05:00</Item>
+		<Item Name="medline" Type="Date">2006/11/01 09:00</Item>
+		<Item Name="entrez" Type="Date">2004/09/15 05:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Zhonghua wai ke za zhi [Chinese journal of surgery]</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2004 Aug 22;42(16):989-92</Item>
+</DocSum>
+
+</eSummaryResult>

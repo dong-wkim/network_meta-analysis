@@ -1,0 +1,1 @@
+((TMIC=(anterior cruciate ligament)) OR (TI=(anterior cruciate ligament reconstruction) OR AB=(anterior cruciate ligament reconstruction))) AND ((TS=(randomized controlled trial))) AND ((TI=(tibialis anterior) OR AB=(tibialis anterior)) OR (TI=(tibialis posterior) OR AB=(tibialis posterior)))

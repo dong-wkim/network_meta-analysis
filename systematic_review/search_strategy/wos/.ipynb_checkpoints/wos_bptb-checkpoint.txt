@@ -1,0 +1,1 @@
+((TMIC=(anterior cruciate ligament)) OR (TI=(anterior cruciate ligament reconstruction) OR AB=(anterior cruciate ligament reconstruction))) AND ((TS=(randomized controlled trial))) AND ((TI=(bone-patellar tendon-bone) OR AB=(bone-patellar tendon-bone)) OR (TI=(patellar tendon) OR AB=(patellar tendon)) OR (TI=(bptb) OR AB=(bptb)))
