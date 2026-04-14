@@ -1,0 +1,1 @@
+('anterior cruciate ligament'[mh] OR 'anterior cruciate ligament reconstruction'[tiab]) AND ('review'[pt] OR 'systematic review'[pt] OR 'meta-analysis'[pt])
