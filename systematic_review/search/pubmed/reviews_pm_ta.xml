@@ -1,0 +1,3297 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>41861605</Id>
+	<Item Name="PubDate" Type="Date">2026 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2026 Mar 17</Item>
+	<Item Name="Source" Type="String">Gait Posture</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Regife-Fernández L</Item>
+		<Item Name="Author" Type="String">Radcliffe CR</Item>
+		<Item Name="Author" Type="String">Castro-Méndez A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Castro-Méndez A</Item>
+	<Item Name="Title" Type="String">Menstrual cycle effects on foot and ankle musculoeskeletal biomechanics: A systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">127</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">110164</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9416830</Item>
+	<Item Name="ISSN" Type="String">0966-6362</Item>
+	<Item Name="ESSN" Type="String">1879-2219</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41861605</Item>
+		<Item Name="doi" Type="String">10.1016/j.gaitpost.2026.110164</Item>
+		<Item Name="pii" Type="String">S0966-6362(26)00073-1</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.gaitpost.2026.110164</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/12/04 00:00</Item>
+		<Item Name="revised" Type="Date">2026/03/11 00:00</Item>
+		<Item Name="accepted" Type="Date">2026/03/16 00:00</Item>
+		<Item Name="medline" Type="Date">2026/04/13 00:31</Item>
+		<Item Name="pubmed" Type="Date">2026/03/21 00:34</Item>
+		<Item Name="entrez" Type="Date">2026/03/20 19:06</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Gait &amp; posture</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.gaitpost.2026.110164</Item>
+	<Item Name="SO" Type="String">2026 Jun;127:110164</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41776524</Id>
+	<Item Name="PubDate" Type="Date">2026 Mar 3</Item>
+	<Item Name="EPubDate" Type="Date">2026 Mar 3</Item>
+	<Item Name="Source" Type="String">BMC Musculoskelet Disord</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Abdelatif NMN</Item>
+		<Item Name="Author" Type="String">Schrempf J</Item>
+		<Item Name="Author" Type="String">Schepers T</Item>
+		<Item Name="Author" Type="String">Böcker W</Item>
+		<Item Name="Author" Type="String">Polzer H</Item>
+		<Item Name="Author" Type="String">Baumbach SF</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Baumbach SF</Item>
+	<Item Name="Title" Type="String">A systematic review on how to treat deltoid ligament injuries - are we missing a uniform standard?</Item>
+	<Item Name="Volume" Type="String">27</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968565</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2474</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - in process</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41776524</Item>
+		<Item Name="pmc" Type="String">PMC13063554</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC13063554;</Item>
+		<Item Name="doi" Type="String">10.1186/s12891-026-09660-w</Item>
+		<Item Name="pii" Type="String">10.1186/s12891-026-09660-w</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s12891-026-09660-w</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/03/18 00:00</Item>
+		<Item Name="accepted" Type="Date">2026/02/18 00:00</Item>
+		<Item Name="pubmed" Type="Date">2026/03/04 01:17</Item>
+		<Item Name="medline" Type="Date">2026/03/04 01:17</Item>
+		<Item Name="entrez" Type="Date">2026/03/03 23:50</Item>
+		<Item Name="pmc-release" Type="Date">2026/03/03 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">70</Item>
+	<Item Name="FullJournalName" Type="String">BMC musculoskeletal disorders</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s12891-026-09660-w</Item>
+	<Item Name="SO" Type="String">2026 Mar 3;27(1)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41588939</Id>
+	<Item Name="PubDate" Type="Date">2026 Jan</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Microsurgery</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jerome JTJ</Item>
+		<Item Name="Author" Type="String">Surendran G</Item>
+		<Item Name="Author" Type="String">Kuppusamy T</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kuppusamy T</Item>
+	<Item Name="Title" Type="String">Distal Nerve Transfers for Foot Drop: A Systematic Review and Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">46</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">e70187</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8309230</Item>
+	<Item Name="ISSN" Type="String">0738-1085</Item>
+	<Item Name="ESSN" Type="String">1098-2752</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41588939</Item>
+		<Item Name="doi" Type="String">10.1002/micr.70187</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/micr.70187</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2025/12/10 00:00</Item>
+		<Item Name="received" Type="Date">2025/10/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2026/01/17 00:00</Item>
+		<Item Name="medline" Type="Date">2026/01/27 07:08</Item>
+		<Item Name="pubmed" Type="Date">2026/01/27 07:07</Item>
+		<Item Name="entrez" Type="Date">2026/01/27 02:43</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Microsurgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/micr.70187</Item>
+	<Item Name="SO" Type="String">2026 Jan;46(1):e70187</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41267130</Id>
+	<Item Name="PubDate" Type="Date">2025 Nov 20</Item>
+	<Item Name="EPubDate" Type="Date">2025 Nov 20</Item>
+	<Item Name="Source" Type="String">Syst Rev</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Modi D</Item>
+		<Item Name="Author" Type="String">Gould D</Item>
+		<Item Name="Author" Type="String">Ye K</Item>
+		<Item Name="Author" Type="String">Graham K</Item>
+		<Item Name="Author" Type="String">Rutz E</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Rutz E</Item>
+	<Item Name="Title" Type="String">Gastrocsoleus lengthening in combination with tibialis anterior tendon shortening for equinus deformity in children with cerebral palsy: a systematic review.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">232</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101580575</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2046-4053</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41267130</Item>
+		<Item Name="pmc" Type="String">PMC12636153</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12636153;</Item>
+		<Item Name="doi" Type="String">10.1186/s13643-025-02985-y</Item>
+		<Item Name="pii" Type="String">10.1186/s13643-025-02985-y</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s13643-025-02985-y</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/02/09 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/10/08 00:00</Item>
+		<Item Name="medline" Type="Date">2025/11/21 06:28</Item>
+		<Item Name="pubmed" Type="Date">2025/11/21 06:27</Item>
+		<Item Name="entrez" Type="Date">2025/11/21 00:09</Item>
+		<Item Name="pmc-release" Type="Date">2025/11/20 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">37</Item>
+	<Item Name="FullJournalName" Type="String">Systematic reviews</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s13643-025-02985-y</Item>
+	<Item Name="SO" Type="String">2025 Nov 20;14(1):232</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41239376</Id>
+	<Item Name="PubDate" Type="Date">2025 Nov 14</Item>
+	<Item Name="EPubDate" Type="Date">2025 Nov 14</Item>
+	<Item Name="Source" Type="String">BMC Musculoskelet Disord</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Li YY</Item>
+		<Item Name="Author" Type="String">Liu W</Item>
+		<Item Name="Author" Type="String">Luo CL</Item>
+		<Item Name="Author" Type="String">Feng SF</Item>
+		<Item Name="Author" Type="String">Wu HD</Item>
+		<Item Name="Author" Type="String">Li L</Item>
+		<Item Name="Author" Type="String">Chen SC</Item>
+		<Item Name="Author" Type="String">Ma CZ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ma CZ</Item>
+	<Item Name="Title" Type="String">Reliability of muscle architecture assessment using clinical ultrasound in post-stroke patients: a systematic review.</Item>
+	<Item Name="Volume" Type="String">26</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">1050</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968565</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2474</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41239376</Item>
+		<Item Name="pmc" Type="String">PMC12619294</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12619294;</Item>
+		<Item Name="doi" Type="String">10.1186/s12891-025-09294-4</Item>
+		<Item Name="pii" Type="String">10.1186/s12891-025-09294-4</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s12891-025-09294-4</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/06/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/10/17 00:00</Item>
+		<Item Name="medline" Type="Date">2025/11/15 06:31</Item>
+		<Item Name="pubmed" Type="Date">2025/11/15 00:29</Item>
+		<Item Name="entrez" Type="Date">2025/11/14 23:52</Item>
+		<Item Name="pmc-release" Type="Date">2025/11/14 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">51</Item>
+	<Item Name="FullJournalName" Type="String">BMC musculoskeletal disorders</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s12891-025-09294-4</Item>
+	<Item Name="SO" Type="String">2025 Nov 14;26(1):1050</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41235442</Id>
+	<Item Name="PubDate" Type="Date">2026 Feb</Item>
+	<Item Name="EPubDate" Type="Date">2025 Nov 14</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Hasan M</Item>
+		<Item Name="Author" Type="String">Berkovich Y</Item>
+		<Item Name="Author" Type="String">Khatib M</Item>
+		<Item Name="Author" Type="String">Yonai Y</Item>
+		<Item Name="Author" Type="String">Ben Zvi L</Item>
+		<Item Name="Author" Type="String">Alhija AA</Item>
+		<Item Name="Author" Type="String">Shpigelman A</Item>
+		<Item Name="Author" Type="String">Ginesin E</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ginesin E</Item>
+	<Item Name="Title" Type="String">Graft selection in ACL reconstruction: Clinical and functional outcomes based on level I-II evidence.</Item>
+	<Item Name="Volume" Type="String">34</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">543-552</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41235442</Item>
+		<Item Name="doi" Type="String">10.1002/ksa.70167</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/ksa.70167</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2025/10/09 00:00</Item>
+		<Item Name="received" Type="Date">2025/07/25 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/10/12 00:00</Item>
+		<Item Name="medline" Type="Date">2026/01/28 19:20</Item>
+		<Item Name="pubmed" Type="Date">2025/11/14 06:28</Item>
+		<Item Name="entrez" Type="Date">2025/11/14 05:13</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/ksa.70167</Item>
+	<Item Name="SO" Type="String">2026 Feb;34(2):543-552</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41222211</Id>
+	<Item Name="PubDate" Type="Date">2025 Nov</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Eur J Pain</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yu CWG</Item>
+		<Item Name="Author" Type="String">Wongwitwichote K</Item>
+		<Item Name="Author" Type="String">Mansfield M</Item>
+		<Item Name="Author" Type="String">Deane JA</Item>
+		<Item Name="Author" Type="String">Devecchi V</Item>
+		<Item Name="Author" Type="String">Falla D</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Falla D</Item>
+	<Item Name="Title" Type="String">Physical and Psychological Predictors for Persistent and Recurrent Non-Specific Neck Pain: A Systematic Review.</Item>
+	<Item Name="Volume" Type="String">29</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">e70168</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9801774</Item>
+	<Item Name="ISSN" Type="String">1090-3801</Item>
+	<Item Name="ESSN" Type="String">1532-2149</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41222211</Item>
+		<Item Name="pmc" Type="String">PMC12611179</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12611179;</Item>
+		<Item Name="doi" Type="String">10.1002/ejp.70168</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/ejp.70168</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2025/07/10 00:00</Item>
+		<Item Name="received" Type="Date">2025/04/29 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/10/30 00:00</Item>
+		<Item Name="medline" Type="Date">2025/11/13 06:30</Item>
+		<Item Name="pubmed" Type="Date">2025/11/12 12:40</Item>
+		<Item Name="entrez" Type="Date">2025/11/12 08:33</Item>
+		<Item Name="pmc-release" Type="Date">2025/11/12 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">68</Item>
+	<Item Name="FullJournalName" Type="String">European journal of pain (London, England)</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/ejp.70168</Item>
+	<Item Name="SO" Type="String">2025 Nov;29(10):e70168</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41126135</Id>
+	<Item Name="PubDate" Type="Date">2025 Oct 22</Item>
+	<Item Name="EPubDate" Type="Date">2025 Oct 22</Item>
+	<Item Name="Source" Type="String">BMC Musculoskelet Disord</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Liu M</Item>
+		<Item Name="Author" Type="String">Pu Lu Bi S</Item>
+		<Item Name="Author" Type="String">Cao Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Cao Y</Item>
+	<Item Name="Title" Type="String">Effects of blood flow restriction training on patients with chronic ankle instability: a systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">26</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">987</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968565</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2474</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41126135</Item>
+		<Item Name="pmc" Type="String">PMC12542463</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12542463;</Item>
+		<Item Name="doi" Type="String">10.1186/s12891-025-09232-4</Item>
+		<Item Name="pii" Type="String">10.1186/s12891-025-09232-4</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s12891-025-09232-4</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/03/10 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/09/23 00:00</Item>
+		<Item Name="medline" Type="Date">2025/10/23 06:28</Item>
+		<Item Name="pubmed" Type="Date">2025/10/23 00:26</Item>
+		<Item Name="entrez" Type="Date">2025/10/22 23:49</Item>
+		<Item Name="pmc-release" Type="Date">2025/10/22 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">53</Item>
+	<Item Name="FullJournalName" Type="String">BMC musculoskeletal disorders</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s12891-025-09232-4</Item>
+	<Item Name="SO" Type="String">2025 Oct 22;26(1):987</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40922104</Id>
+	<Item Name="PubDate" Type="Date">2025 Sep</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">J Foot Ankle Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Gong Y</Item>
+		<Item Name="Author" Type="String">Xu M</Item>
+		<Item Name="Author" Type="String">Chen P</Item>
+		<Item Name="Author" Type="String">Hu X</Item>
+		<Item Name="Author" Type="String">Zhou W</Item>
+		<Item Name="Author" Type="String">Wang L</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wang L</Item>
+	<Item Name="Title" Type="String">Characteristics of Lower Extremity Kinematics, Kinetics, and Muscle Activity in Individuals With Chronic Ankle Instability During Landing With Expected and Unexpected Inversion Perturbations: A Systematic Review and Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">18</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">e70082</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101471610</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1757-1146</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40922104</Item>
+		<Item Name="pmc" Type="String">PMC12417340</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12417340;</Item>
+		<Item Name="doi" Type="String">10.1002/jfa2.70082</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/jfa2.70082</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2025/08/22 00:00</Item>
+		<Item Name="received" Type="Date">2025/06/09 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/08/31 00:00</Item>
+		<Item Name="medline" Type="Date">2025/09/09 06:36</Item>
+		<Item Name="pubmed" Type="Date">2025/09/09 06:35</Item>
+		<Item Name="entrez" Type="Date">2025/09/09 00:43</Item>
+		<Item Name="pmc-release" Type="Date">2025/09/08 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">85</Item>
+	<Item Name="FullJournalName" Type="String">Journal of foot and ankle research</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/jfa2.70082</Item>
+	<Item Name="SO" Type="String">2025 Sep;18(3):e70082</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40913923</Id>
+	<Item Name="PubDate" Type="Date">2025 Nov</Item>
+	<Item Name="EPubDate" Type="Date">2025 Aug 29</Item>
+	<Item Name="Source" Type="String">Clin Neurophysiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Shandiz E</Item>
+		<Item Name="Author" Type="String">Gaskell A</Item>
+		<Item Name="Author" Type="String">Ingram M</Item>
+		<Item Name="Author" Type="String">Trajano GS</Item>
+		<Item Name="Author" Type="String">Fernandes GL</Item>
+		<Item Name="Author" Type="String">Henkin JS</Item>
+		<Item Name="Author" Type="String">McCombe PA</Item>
+		<Item Name="Author" Type="String">Henderson RD</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Henderson RD</Item>
+	<Item Name="Title" Type="String">Applying high-density surface EMG to the study of neuromuscular disorders: a systematic review.</Item>
+	<Item Name="Volume" Type="String">179</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">2110983</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100883319</Item>
+	<Item Name="ISSN" Type="String">1388-2457</Item>
+	<Item Name="ESSN" Type="String">1872-8952</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40913923</Item>
+		<Item Name="doi" Type="String">10.1016/j.clinph.2025.2110983</Item>
+		<Item Name="pii" Type="String">S1388-2457(25)00835-1</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.clinph.2025.2110983</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/03/17 00:00</Item>
+		<Item Name="revised" Type="Date">2025/05/28 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/08/23 00:00</Item>
+		<Item Name="medline" Type="Date">2025/11/03 00:26</Item>
+		<Item Name="pubmed" Type="Date">2025/09/07 00:38</Item>
+		<Item Name="entrez" Type="Date">2025/09/06 18:05</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.clinph.2025.2110983</Item>
+	<Item Name="SO" Type="String">2025 Nov;179:2110983</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40297074</Id>
+	<Item Name="PubDate" Type="Date">2025 Apr</Item>
+	<Item Name="EPubDate" Type="Date">2024 Nov 5</Item>
+	<Item Name="Source" Type="String">Arthrosc Sports Med Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Dave U</Item>
+		<Item Name="Author" Type="String">Villarreal-Espinosa JB</Item>
+		<Item Name="Author" Type="String">Shah H</Item>
+		<Item Name="Author" Type="String">Cotter EJ</Item>
+		<Item Name="Author" Type="String">Gómez-Verdejo F</Item>
+		<Item Name="Author" Type="String">Carpenter M</Item>
+		<Item Name="Author" Type="String">Gerhold C</Item>
+		<Item Name="Author" Type="String">Mamonov A</Item>
+		<Item Name="Author" Type="String">Chahla J</Item>
+		<Item Name="Author" Type="String">Verma NN</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Verma NN</Item>
+	<Item Name="Title" Type="String">Patients Have Similar Clinical Outcomes and Failure Rates After Anterior Cruciate Ligament Reconstruction With Tibialis Anterior Tendon, Bone-Patellar Tendon-Bone, Hamstring Tendon, or Achilles Tendon Allografts: A Systematic Review.</Item>
+	<Item Name="Volume" Type="String">7</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">101035</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101765256</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2666-061X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40297074</Item>
+		<Item Name="pmc" Type="String">PMC12034080</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12034080;</Item>
+		<Item Name="doi" Type="String">10.1016/j.asmr.2024.101035</Item>
+		<Item Name="pii" Type="String">S2666-061X(24)00178-0</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.asmr.2024.101035</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/07/09 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/10/17 00:00</Item>
+		<Item Name="medline" Type="Date">2025/04/29 11:13</Item>
+		<Item Name="pubmed" Type="Date">2025/04/29 11:12</Item>
+		<Item Name="entrez" Type="Date">2025/04/29 04:56</Item>
+		<Item Name="pmc-release" Type="Date">2024/11/05 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">38</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy, sports medicine, and rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.asmr.2024.101035</Item>
+	<Item Name="SO" Type="String">2025 Apr;7(2):101035</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40095845</Id>
+	<Item Name="PubDate" Type="Date">2025 Apr 1</Item>
+	<Item Name="EPubDate" Type="Date">2025 Mar 17</Item>
+	<Item Name="Source" Type="String">J Appl Physiol (1985)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Inglis JG</Item>
+		<Item Name="Author" Type="String">Cabral HV</Item>
+		<Item Name="Author" Type="String">Cosentino C</Item>
+		<Item Name="Author" Type="String">Bonardi A</Item>
+		<Item Name="Author" Type="String">Negro F</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Negro F</Item>
+	<Item Name="Title" Type="String">Motor unit discharge behavior in human muscles throughout force gradation: a systematic review and meta-analysis with meta-regression.</Item>
+	<Item Name="Volume" Type="String">138</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">1050-1065</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8502536</Item>
+	<Item Name="ISSN" Type="String">0161-7567</Item>
+	<Item Name="ESSN" Type="String">1522-1601</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40095845</Item>
+		<Item Name="doi" Type="String">10.1152/japplphysiol.00863.2024</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1152/japplphysiol.00863.2024</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2025/04/14 18:25</Item>
+		<Item Name="pubmed" Type="Date">2025/03/17 18:30</Item>
+		<Item Name="entrez" Type="Date">2025/03/17 12:54</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of applied physiology (Bethesda, Md. : 1985)</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1152/japplphysiol.00863.2024</Item>
+	<Item Name="SO" Type="String">2025 Apr 1;138(4):1050-1065</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39930993</Id>
+	<Item Name="PubDate" Type="Date">2025 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2025 Feb 11</Item>
+	<Item Name="Source" Type="String">Disabil Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Song C</Item>
+		<Item Name="Author" Type="String">Wu W</Item>
+		<Item Name="Author" Type="String">Feng N</Item>
+		<Item Name="Author" Type="String">Li Z</Item>
+		<Item Name="Author" Type="String">Lei B</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lei B</Item>
+	<Item Name="Title" Type="String">Rehabilitative effects of Transcutaneous Electric Nerve Stimulation on limb function in stroke patients: a systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">47</Item>
+	<Item Name="Issue" Type="String">18</Item>
+	<Item Name="Pages" Type="String">4645-4652</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9207179</Item>
+	<Item Name="ISSN" Type="String">0963-8288</Item>
+	<Item Name="ESSN" Type="String">1464-5165</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39930993</Item>
+		<Item Name="doi" Type="String">10.1080/09638288.2025.2453640</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1080/09638288.2025.2453640</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2025/08/31 19:48</Item>
+		<Item Name="pubmed" Type="Date">2025/02/11 06:22</Item>
+		<Item Name="entrez" Type="Date">2025/02/11 04:03</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Disability and rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1080/09638288.2025.2453640</Item>
+	<Item Name="SO" Type="String">2025 Sep;47(18):4645-4652</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39731878</Id>
+	<Item Name="PubDate" Type="Date">2025 Mar</Item>
+	<Item Name="EPubDate" Type="Date">2024 Dec 24</Item>
+	<Item Name="Source" Type="String">Gait Posture</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ghasemi M</Item>
+		<Item Name="Author" Type="String">Gholami-Borujeni B</Item>
+		<Item Name="Author" Type="String">Babagoltabar-Samakoush H</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Babagoltabar-Samakoush H</Item>
+	<Item Name="Title" Type="String">Heeled shoes increase muscle activity during gait in healthy females: A systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">117</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">153-163</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9416830</Item>
+	<Item Name="ISSN" Type="String">0966-6362</Item>
+	<Item Name="ESSN" Type="String">1879-2219</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39731878</Item>
+		<Item Name="doi" Type="String">10.1016/j.gaitpost.2024.12.020</Item>
+		<Item Name="pii" Type="String">S0966-6362(24)00757-4</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.gaitpost.2024.12.020</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/06/05 00:00</Item>
+		<Item Name="revised" Type="Date">2024/12/11 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/12/22 00:00</Item>
+		<Item Name="medline" Type="Date">2025/02/11 00:19</Item>
+		<Item Name="pubmed" Type="Date">2024/12/29 00:20</Item>
+		<Item Name="entrez" Type="Date">2024/12/28 18:48</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Gait &amp; posture</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.gaitpost.2024.12.020</Item>
+	<Item Name="SO" Type="String">2025 Mar;117:153-163</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39674612</Id>
+	<Item Name="PubDate" Type="Date">2025 Jan</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Neufeld EV</Item>
+		<Item Name="Author" Type="String">Sgaglione J</Item>
+		<Item Name="Author" Type="String">Sgaglione NA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Sgaglione NA</Item>
+	<Item Name="Title" Type="String">Anterior Cruciate Ligament Reconstruction Graft Options.</Item>
+	<Item Name="Volume" Type="String">41</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">16-18</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39674612</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2024.10.004</Item>
+		<Item Name="pii" Type="String">S0749-8063(24)00783-7</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2024.10.004</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/09/16 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/10/07 00:00</Item>
+		<Item Name="medline" Type="Date">2024/12/15 00:42</Item>
+		<Item Name="pubmed" Type="Date">2024/12/15 00:41</Item>
+		<Item Name="entrez" Type="Date">2024/12/14 21:11</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2024.10.004</Item>
+	<Item Name="SO" Type="String">2025 Jan;41(1):16-18</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39378699</Id>
+	<Item Name="PubDate" Type="Date">2024 Dec</Item>
+	<Item Name="EPubDate" Type="Date">2024 Oct 7</Item>
+	<Item Name="Source" Type="String">Knee</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Chhabra Y</Item>
+		<Item Name="Author" Type="String">Saroha S</Item>
+		<Item Name="Author" Type="String">Hasan K</Item>
+		<Item Name="Author" Type="String">Thakrar R</Item>
+		<Item Name="Author" Type="String">Patel A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Patel A</Item>
+	<Item Name="Title" Type="String">Bone Patella Bone allografts show superior outcomes in revision ACL reconstruction: A systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">51</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">206-220</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9430798</Item>
+	<Item Name="ISSN" Type="String">0968-0160</Item>
+	<Item Name="ESSN" Type="String">1873-5800</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39378699</Item>
+		<Item Name="doi" Type="String">10.1016/j.knee.2024.09.006</Item>
+		<Item Name="pii" Type="String">S0968-0160(24)00160-1</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.knee.2024.09.006</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/01/21 00:00</Item>
+		<Item Name="revised" Type="Date">2024/09/12 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/09/13 00:00</Item>
+		<Item Name="medline" Type="Date">2024/12/06 05:30</Item>
+		<Item Name="pubmed" Type="Date">2024/10/09 04:50</Item>
+		<Item Name="entrez" Type="Date">2024/10/08 18:06</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Knee</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.knee.2024.09.006</Item>
+	<Item Name="SO" Type="String">2024 Dec;51:206-220</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39261538</Id>
+	<Item Name="PubDate" Type="Date">2024 Sep 11</Item>
+	<Item Name="EPubDate" Type="Date">2024 Sep 11</Item>
+	<Item Name="Source" Type="String">Sci Rep</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jia Y</Item>
+		<Item Name="Author" Type="String">Sai X</Item>
+		<Item Name="Author" Type="String">Zhang E</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Zhang E</Item>
+	<Item Name="Title" Type="String">Comparing the efficacy of exercise therapy on adult flexible flatfoot individuals through a network meta-analysis of randomized controlled trials.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">21186</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101563288</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2045-2322</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39261538</Item>
+		<Item Name="pmc" Type="String">PMC11390964</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC11390964;</Item>
+		<Item Name="doi" Type="String">10.1038/s41598-024-72149-w</Item>
+		<Item Name="pii" Type="String">10.1038/s41598-024-72149-w</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/s41598-024-72149-w</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/06/21 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/09/04 00:00</Item>
+		<Item Name="medline" Type="Date">2024/09/12 08:42</Item>
+		<Item Name="pubmed" Type="Date">2024/09/12 00:42</Item>
+		<Item Name="entrez" Type="Date">2024/09/11 23:30</Item>
+		<Item Name="pmc-release" Type="Date">2024/09/11 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">53</Item>
+	<Item Name="FullJournalName" Type="String">Scientific reports</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/s41598-024-72149-w</Item>
+	<Item Name="SO" Type="String">2024 Sep 11;14(1):21186</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39160505</Id>
+	<Item Name="PubDate" Type="Date">2024 Aug 19</Item>
+	<Item Name="EPubDate" Type="Date">2024 Aug 19</Item>
+	<Item Name="Source" Type="String">BMC Musculoskelet Disord</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Khou SB</Item>
+		<Item Name="Author" Type="String">Saki F</Item>
+		<Item Name="Author" Type="String">Tahayori B</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Tahayori B</Item>
+	<Item Name="Title" Type="String">Muscle activation in the lower limb muscles in individuals with dynamic knee valgus during single-leg and overhead squats: a meta-analysis study.</Item>
+	<Item Name="Volume" Type="String">25</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">652</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968565</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2474</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39160505</Item>
+		<Item Name="pmc" Type="String">PMC11331804</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC11331804;</Item>
+		<Item Name="doi" Type="String">10.1186/s12891-024-07759-6</Item>
+		<Item Name="pii" Type="String">10.1186/s12891-024-07759-6</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s12891-024-07759-6</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/01/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/08/05 00:00</Item>
+		<Item Name="medline" Type="Date">2024/08/20 00:43</Item>
+		<Item Name="pubmed" Type="Date">2024/08/20 00:42</Item>
+		<Item Name="entrez" Type="Date">2024/08/19 23:35</Item>
+		<Item Name="pmc-release" Type="Date">2024/08/19 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">44</Item>
+	<Item Name="FullJournalName" Type="String">BMC musculoskeletal disorders</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s12891-024-07759-6</Item>
+	<Item Name="SO" Type="String">2024 Aug 19;25(1):652</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39134994</Id>
+	<Item Name="PubDate" Type="Date">2024 Aug 12</Item>
+	<Item Name="EPubDate" Type="Date">2024 Aug 12</Item>
+	<Item Name="Source" Type="String">BMC Musculoskelet Disord</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Moreira A</Item>
+		<Item Name="Author" Type="String">Benjamin Ravetti L</Item>
+		<Item Name="Author" Type="String">Carrapeiro Prina D</Item>
+		<Item Name="Author" Type="String">Paschoal Nogueira M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Paschoal Nogueira M</Item>
+	<Item Name="Title" Type="String">Anterior tibial tendon transfer in idiopathic clubfoot: pull-out vs. other fixations - a systematic review.</Item>
+	<Item Name="Volume" Type="String">25</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">638</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968565</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2474</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39134994</Item>
+		<Item Name="pmc" Type="String">PMC11318294</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC11318294;</Item>
+		<Item Name="doi" Type="String">10.1186/s12891-024-07621-9</Item>
+		<Item Name="pii" Type="String">10.1186/s12891-024-07621-9</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s12891-024-07621-9</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2023/10/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/06/23 00:00</Item>
+		<Item Name="medline" Type="Date">2024/08/13 06:42</Item>
+		<Item Name="pubmed" Type="Date">2024/08/13 00:42</Item>
+		<Item Name="entrez" Type="Date">2024/08/12 23:39</Item>
+		<Item Name="pmc-release" Type="Date">2024/08/12 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">28</Item>
+	<Item Name="FullJournalName" Type="String">BMC musculoskeletal disorders</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s12891-024-07621-9</Item>
+	<Item Name="SO" Type="String">2024 Aug 12;25(1):638</Item>
+</DocSum>
+
+<DocSum>
+	<Id>38589676</Id>
+	<Item Name="PubDate" Type="Date">2024 Apr 8</Item>
+	<Item Name="EPubDate" Type="Date">2024 Apr 8</Item>
+	<Item Name="Source" Type="String">Sports Med Open</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Hu X</Item>
+		<Item Name="Author" Type="String">Feng T</Item>
+		<Item Name="Author" Type="String">Li P</Item>
+		<Item Name="Author" Type="String">Liao J</Item>
+		<Item Name="Author" Type="String">Wang L</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wang L</Item>
+	<Item Name="Title" Type="String">Bilateral Sensorimotor Impairments in Individuals with Unilateral Chronic Ankle Instability: A Systematic Review and Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">10</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">33</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101662568</Item>
+	<Item Name="ISSN" Type="String">2199-1170</Item>
+	<Item Name="ESSN" Type="String">2198-9761</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">38589676</Item>
+		<Item Name="pmc" Type="String">PMC11001848</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC11001848;</Item>
+		<Item Name="doi" Type="String">10.1186/s40798-024-00702-y</Item>
+		<Item Name="pii" Type="String">10.1186/s40798-024-00702-y</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s40798-024-00702-y</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2023/02/23 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/03/20 00:00</Item>
+		<Item Name="medline" Type="Date">2024/04/09 00:43</Item>
+		<Item Name="pubmed" Type="Date">2024/04/09 00:42</Item>
+		<Item Name="entrez" Type="Date">2024/04/08 23:35</Item>
+		<Item Name="pmc-release" Type="Date">2024/04/08 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">69</Item>
+	<Item Name="FullJournalName" Type="String">Sports medicine - open</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s40798-024-00702-y</Item>
+	<Item Name="SO" Type="String">2024 Apr 8;10(1):33</Item>
+</DocSum>
+
+<DocSum>
+	<Id>38551115</Id>
+	<Item Name="PubDate" Type="Date">2024 Dec</Item>
+	<Item Name="EPubDate" Type="Date">2024 Mar 29</Item>
+	<Item Name="Source" Type="String">Am J Sports Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Allende F</Item>
+		<Item Name="Author" Type="String">Allahabadi S</Item>
+		<Item Name="Author" Type="String">Sachdev D</Item>
+		<Item Name="Author" Type="String">Gopinatth V</Item>
+		<Item Name="Author" Type="String">Saad Berreta R</Item>
+		<Item Name="Author" Type="String">LaPrade RF</Item>
+		<Item Name="Author" Type="String">Chahla J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Chahla J</Item>
+	<Item Name="Title" Type="String">Comparing Clinical Outcomes and Knee Stability in Remnant-Preserving ACL Reconstruction Versus Standard ACL Reconstruction: A Systematic Review and Meta-analysis.</Item>
+	<Item Name="Volume" Type="String">52</Item>
+	<Item Name="Issue" Type="String">14</Item>
+	<Item Name="Pages" Type="String">3651-3661</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7609541</Item>
+	<Item Name="ISSN" Type="String">0363-5465</Item>
+	<Item Name="ESSN" Type="String">1552-3365</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">38551115</Item>
+		<Item Name="doi" Type="String">10.1177/03635465231225984</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/03635465231225984</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2024/12/01 15:24</Item>
+		<Item Name="pubmed" Type="Date">2024/03/29 06:46</Item>
+		<Item Name="entrez" Type="Date">2024/03/29 05:52</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The American journal of sports medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/03635465231225984</Item>
+	<Item Name="SO" Type="String">2024 Dec;52(14):3651-3661</Item>
+</DocSum>
+
+<DocSum>
+	<Id>38545805</Id>
+	<Item Name="PubDate" Type="Date">2024 Mar 28</Item>
+	<Item Name="EPubDate" Type="Date">2024 Mar 28</Item>
+	<Item Name="Source" Type="String">Bone Jt Open</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Syziu A</Item>
+		<Item Name="Author" Type="String">Aamir J</Item>
+		<Item Name="Author" Type="String">Mason LW</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Mason LW</Item>
+	<Item Name="Title" Type="String">Posterior tibialis tendon entrapment as a complication of posterior malleolar fractures in complex ankle fractures.</Item>
+	<Item Name="Volume" Type="String">5</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">252-259</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101770336</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2633-1462</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">38545805</Item>
+		<Item Name="pmc" Type="String">PMC10974758</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC10974758;</Item>
+		<Item Name="doi" Type="String">10.1302/2633-1462.53.BJO-2023-0139</Item>
+		<Item Name="pii" Type="String">BJO-2023-0139</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1302/2633-1462.53.BJO-2023-0139</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2024/03/28 06:46</Item>
+		<Item Name="pubmed" Type="Date">2024/03/28 06:45</Item>
+		<Item Name="entrez" Type="Date">2024/03/28 05:23</Item>
+		<Item Name="pmc-release" Type="Date">2024/03/28 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">29</Item>
+	<Item Name="FullJournalName" Type="String">Bone &amp; joint open</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1302/2633-1462.53.BJO-2023-0139</Item>
+	<Item Name="SO" Type="String">2024 Mar 28;5(3):252-259</Item>
+</DocSum>
+
+<DocSum>
+	<Id>38513375</Id>
+	<Item Name="PubDate" Type="Date">2024 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2024 Mar 11</Item>
+	<Item Name="Source" Type="String">Foot (Edinb)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Khaliliyan H</Item>
+		<Item Name="Author" Type="String">Sharafatvaziri A</Item>
+		<Item Name="Author" Type="String">Safaeepour Z</Item>
+		<Item Name="Author" Type="String">Bahramizadeh M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Bahramizadeh M</Item>
+	<Item Name="Title" Type="String">Gait and muscle activity measures after biomechanical device therapy in subjects with ankle instability: A systematic review.</Item>
+	<Item Name="Volume" Type="String">59</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">102083</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9109564</Item>
+	<Item Name="ISSN" Type="String">0958-2592</Item>
+	<Item Name="ESSN" Type="String">1532-2963</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">38513375</Item>
+		<Item Name="doi" Type="String">10.1016/j.foot.2024.102083</Item>
+		<Item Name="pii" Type="String">S0958-2592(24)00016-6</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.foot.2024.102083</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2023/10/15 00:00</Item>
+		<Item Name="revised" Type="Date">2024/02/18 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/03/08 00:00</Item>
+		<Item Name="medline" Type="Date">2024/06/16 11:58</Item>
+		<Item Name="pubmed" Type="Date">2024/03/22 00:44</Item>
+		<Item Name="entrez" Type="Date">2024/03/21 19:06</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Foot (Edinburgh, Scotland)</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.foot.2024.102083</Item>
+	<Item Name="SO" Type="String">2024 Jun;59:102083</Item>
+</DocSum>
+
+<DocSum>
+	<Id>38015923</Id>
+	<Item Name="PubDate" Type="Date">2024 Feb 21</Item>
+	<Item Name="EPubDate" Type="Date">2023 Nov 28</Item>
+	<Item Name="Source" Type="String">J Bone Joint Surg Am</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wang YY</Item>
+		<Item Name="Author" Type="String">Su YC</Item>
+		<Item Name="Author" Type="String">Tu YK</Item>
+		<Item Name="Author" Type="String">Fang CJ</Item>
+		<Item Name="Author" Type="String">Hong CK</Item>
+		<Item Name="Author" Type="String">Huang MT</Item>
+		<Item Name="Author" Type="String">Lin YC</Item>
+		<Item Name="Author" Type="String">Hsieh ML</Item>
+		<Item Name="Author" Type="String">Kuan FC</Item>
+		<Item Name="Author" Type="String">Shih CA</Item>
+		<Item Name="Author" Type="String">Lin CJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lin CJ</Item>
+	<Item Name="Title" Type="String">Determining the Optimal Treatment for Idiopathic Clubfoot: A Network Meta-Analysis of Randomized Controlled Trials.</Item>
+	<Item Name="Volume" Type="String">106</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">356-367</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0014030</Item>
+	<Item Name="ISSN" Type="String">0021-9355</Item>
+	<Item Name="ESSN" Type="String">1535-1386</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">38015923</Item>
+		<Item Name="doi" Type="String">10.2106/JBJS.22.01210</Item>
+		<Item Name="pii" Type="String">00004623-202402210-00012</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.2106/JBJS.22.01210</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2024/02/22 06:42</Item>
+		<Item Name="pubmed" Type="Date">2023/11/28 18:42</Item>
+		<Item Name="entrez" Type="Date">2023/11/28 14:04</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Journal of bone and joint surgery. American volume</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.2106/JBJS.22.01210</Item>
+	<Item Name="SO" Type="String">2024 Feb 21;106(4):356-367</Item>
+</DocSum>
+
+<DocSum>
+	<Id>37121581</Id>
+	<Item Name="PubDate" Type="Date">2023 May 1</Item>
+	<Item Name="EPubDate" Type="Date">2023 May 1</Item>
+	<Item Name="Source" Type="String">Bone Jt Open</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Hochstetter-Owen J</Item>
+		<Item Name="Author" Type="String">Stott S</Item>
+		<Item Name="Author" Type="String">Williams SA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Williams SA</Item>
+	<Item Name="Title" Type="String">The efficacy of split tibial tendon transfers on functional gait outcomes for children and youth with cerebral palsy and spastic equinovarus foot deformities.</Item>
+	<Item Name="Volume" Type="String">4</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">283-298</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101770336</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2633-1462</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">37121581</Item>
+		<Item Name="pmc" Type="String">PMC10149292</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC10149292;</Item>
+		<Item Name="doi" Type="String">10.1302/2633-1462.45.BJO-2023-0005.R1</Item>
+		<Item Name="pii" Type="String">BJO-2023-0005.R1</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1302/2633-1462.45.BJO-2023-0005.R1</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2023/05/01 00:43</Item>
+		<Item Name="pubmed" Type="Date">2023/05/01 00:42</Item>
+		<Item Name="entrez" Type="Date">2023/04/30 20:03</Item>
+		<Item Name="pmc-release" Type="Date">2023/05/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">52</Item>
+	<Item Name="FullJournalName" Type="String">Bone &amp; joint open</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1302/2633-1462.45.BJO-2023-0005.R1</Item>
+	<Item Name="SO" Type="String">2023 May 1;4(5):283-298</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36963479</Id>
+	<Item Name="PubDate" Type="Date">2023 Jul-Aug</Item>
+	<Item Name="EPubDate" Type="Date">2023 Mar 23</Item>
+	<Item Name="Source" Type="String">J Foot Ankle Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Duelfer KA</Item>
+		<Item Name="Author" Type="String">McAlister JE</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">McAlister JE</Item>
+	<Item Name="Title" Type="String">Tibialis Anterior Tendon Rupture Surgical Treatments and Outcomes: A Systematic Review and Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">62</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">628-636</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9308427</Item>
+	<Item Name="ISSN" Type="String">1067-2516</Item>
+	<Item Name="ESSN" Type="String">1542-2224</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36963479</Item>
+		<Item Name="doi" Type="String">10.1053/j.jfas.2023.01.007</Item>
+		<Item Name="pii" Type="String">S1067-2516(23)00017-0</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1053/j.jfas.2023.01.007</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2022/08/04 00:00</Item>
+		<Item Name="revised" Type="Date">2023/01/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2023/01/21 00:00</Item>
+		<Item Name="medline" Type="Date">2023/07/07 06:42</Item>
+		<Item Name="pubmed" Type="Date">2023/03/25 06:00</Item>
+		<Item Name="entrez" Type="Date">2023/03/24 20:28</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1053/j.jfas.2023.01.007</Item>
+	<Item Name="SO" Type="String">2023 Jul-Aug;62(4):628-636</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36692194</Id>
+	<Item Name="PubDate" Type="Date">2023 Apr 1</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">J Clin Sleep Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Riccardi S</Item>
+		<Item Name="Author" Type="String">Ferri R</Item>
+		<Item Name="Author" Type="String">Garbazza C</Item>
+		<Item Name="Author" Type="String">Miano S</Item>
+		<Item Name="Author" Type="String">Manconi M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Manconi M</Item>
+	<Item Name="Title" Type="String">Pharmacological responsiveness of periodic limb movements in patients with restless legs syndrome: a systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">19</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">811-822</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101231977</Item>
+	<Item Name="ISSN" Type="String">1550-9389</Item>
+	<Item Name="ESSN" Type="String">1550-9397</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36692194</Item>
+		<Item Name="pmc" Type="String">PMC10071388</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC10071388;</Item>
+		<Item Name="doi" Type="String">10.5664/jcsm.10440</Item>
+		<Item Name="pii" Type="String">jcsm.10440</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.5664/jcsm.10440</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2023/04/05 06:42</Item>
+		<Item Name="pubmed" Type="Date">2023/01/25 06:00</Item>
+		<Item Name="entrez" Type="Date">2023/01/24 08:04</Item>
+		<Item Name="pmc-release" Type="Date">2024/04/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">94</Item>
+	<Item Name="FullJournalName" Type="String">Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.5664/jcsm.10440</Item>
+	<Item Name="SO" Type="String">2023 Apr 1;19(4):811-822</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36650898</Id>
+	<Item Name="PubDate" Type="Date">2024 Jan</Item>
+	<Item Name="EPubDate" Type="Date">2023 Jan 17</Item>
+	<Item Name="Source" Type="String">Disabil Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kim KM</Item>
+		<Item Name="Author" Type="String">Needle AR</Item>
+		<Item Name="Author" Type="String">Kim JS</Item>
+		<Item Name="Author" Type="String">An YW</Item>
+		<Item Name="Author" Type="String">Cruz-Díaz D</Item>
+		<Item Name="Author" Type="String">Taube W</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Taube W</Item>
+	<Item Name="Title" Type="String">What interventions can treat arthrogenic muscle inhibition in patients with chronic ankle instability? A systematic review with meta-analysis.</Item>
+	<Item Name="Volume" Type="String">46</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">241-256</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9207179</Item>
+	<Item Name="ISSN" Type="String">0963-8288</Item>
+	<Item Name="ESSN" Type="String">1464-5165</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36650898</Item>
+		<Item Name="doi" Type="String">10.1080/09638288.2022.2161643</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1080/09638288.2022.2161643</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2024/01/10 06:42</Item>
+		<Item Name="pubmed" Type="Date">2023/01/19 06:00</Item>
+		<Item Name="entrez" Type="Date">2023/01/18 01:42</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Disability and rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1080/09638288.2022.2161643</Item>
+	<Item Name="SO" Type="String">2024 Jan;46(2):241-256</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36513380</Id>
+	<Item Name="PubDate" Type="Date">2023 Feb</Item>
+	<Item Name="EPubDate" Type="Date">2022 Dec 13</Item>
+	<Item Name="Source" Type="String">J Cachexia Sarcopenia Muscle</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Fu H</Item>
+		<Item Name="Author" Type="String">Wang L</Item>
+		<Item Name="Author" Type="String">Zhang W</Item>
+		<Item Name="Author" Type="String">Lu J</Item>
+		<Item Name="Author" Type="String">Yang M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Yang M</Item>
+	<Item Name="Title" Type="String">Diagnostic test accuracy of ultrasound for sarcopenia diagnosis: A systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">57-70</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101552883</Item>
+	<Item Name="ISSN" Type="String">2190-5991</Item>
+	<Item Name="ESSN" Type="String">2190-6009</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36513380</Item>
+		<Item Name="pmc" Type="String">PMC9891970</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC9891970;</Item>
+		<Item Name="doi" Type="String">10.1002/jcsm.13149</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/jcsm.13149</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2022/10/23 00:00</Item>
+		<Item Name="received" Type="Date">2022/07/07 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/11/16 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/12/14 06:00</Item>
+		<Item Name="medline" Type="Date">2023/02/04 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/12/13 20:32</Item>
+		<Item Name="pmc-release" Type="Date">2022/12/13 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">48</Item>
+	<Item Name="FullJournalName" Type="String">Journal of cachexia, sarcopenia and muscle</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/jcsm.13149</Item>
+	<Item Name="SO" Type="String">2023 Feb;14(1):57-70</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36419140</Id>
+	<Item Name="PubDate" Type="Date">2022 Nov 23</Item>
+	<Item Name="EPubDate" Type="Date">2022 Nov 23</Item>
+	<Item Name="Source" Type="String">Syst Rev</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Duarte MB</Item>
+		<Item Name="Author" Type="String">da Silva Almeida GC</Item>
+		<Item Name="Author" Type="String">Costa KHA</Item>
+		<Item Name="Author" Type="String">Garcez DR</Item>
+		<Item Name="Author" Type="String">de Athayde Costa E Silva A</Item>
+		<Item Name="Author" Type="String">da Silva Souza G</Item>
+		<Item Name="Author" Type="String">de Melo-Neto JS</Item>
+		<Item Name="Author" Type="String">Callegari B</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Callegari B</Item>
+	<Item Name="Title" Type="String">Anticipatory postural adjustments in older versus young adults: a systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">11</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">251</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101580575</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2046-4053</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36419140</Item>
+		<Item Name="pmc" Type="String">PMC9685888</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC9685888;</Item>
+		<Item Name="doi" Type="String">10.1186/s13643-022-02116-x</Item>
+		<Item Name="pii" Type="String">10.1186/s13643-022-02116-x</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s13643-022-02116-x</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2022/03/23 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/11/02 00:00</Item>
+		<Item Name="entrez" Type="Date">2022/11/24 00:17</Item>
+		<Item Name="pubmed" Type="Date">2022/11/25 06:00</Item>
+		<Item Name="medline" Type="Date">2022/11/26 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2022/11/23 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">52</Item>
+	<Item Name="FullJournalName" Type="String">Systematic reviews</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s13643-022-02116-x</Item>
+	<Item Name="SO" Type="String">2022 Nov 23;11(1):251</Item>
+</DocSum>
+
+<DocSum>
+	<Id>35535548</Id>
+	<Item Name="PubDate" Type="Date">2022 Aug</Item>
+	<Item Name="EPubDate" Type="Date">2022 May 10</Item>
+	<Item Name="Source" Type="String">Clin Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Tan J</Item>
+		<Item Name="Author" Type="String">Wu X</Item>
+		<Item Name="Author" Type="String">Clark CCT</Item>
+		<Item Name="Author" Type="String">Barton V</Item>
+		<Item Name="Author" Type="String">Chen S</Item>
+		<Item Name="Author" Type="String">Liu S</Item>
+		<Item Name="Author" Type="String">Zhou X</Item>
+		<Item Name="Author" Type="String">Xu C</Item>
+		<Item Name="Author" Type="String">Ma T</Item>
+		<Item Name="Author" Type="String">Qi B</Item>
+		<Item Name="Author" Type="String">Han J</Item>
+		<Item Name="Author" Type="String">Zou Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Zou Y</Item>
+	<Item Name="Title" Type="String">The effect of whole body vibration on sensorimotor deficits in people with chronic ankle instability: A systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">36</Item>
+	<Item Name="Issue" Type="String">8</Item>
+	<Item Name="Pages" Type="String">1016-1031</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8802181</Item>
+	<Item Name="ISSN" Type="String">0269-2155</Item>
+	<Item Name="ESSN" Type="String">1477-0873</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35535548</Item>
+		<Item Name="doi" Type="String">10.1177/02692155221095651</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/02692155221095651</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2022/05/11 06:00</Item>
+		<Item Name="medline" Type="Date">2022/07/14 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/05/10 04:22</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Clinical rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/02692155221095651</Item>
+	<Item Name="SO" Type="String">2022 Aug;36(8):1016-1031</Item>
+</DocSum>
+
+<DocSum>
+	<Id>35428007</Id>
+	<Item Name="PubDate" Type="Date">2022 May</Item>
+	<Item Name="EPubDate" Type="Date">2022 Apr 1</Item>
+	<Item Name="Source" Type="String">Clin Biomech (Bristol)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Malige A</Item>
+		<Item Name="Author" Type="String">Baghdadi S</Item>
+		<Item Name="Author" Type="String">Hast MW</Item>
+		<Item Name="Author" Type="String">Schmidt EC</Item>
+		<Item Name="Author" Type="String">Shea KG</Item>
+		<Item Name="Author" Type="String">Ganley TJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ganley TJ</Item>
+	<Item Name="Title" Type="String">Biomechanical properties of common graft choices for anterior cruciate ligament reconstruction: A systematic review.</Item>
+	<Item Name="Volume" Type="String">95</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">105636</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8611877</Item>
+	<Item Name="ISSN" Type="String">0268-0033</Item>
+	<Item Name="ESSN" Type="String">1879-1271</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35428007</Item>
+		<Item Name="doi" Type="String">10.1016/j.clinbiomech.2022.105636</Item>
+		<Item Name="pii" Type="String">S0268-0033(22)00066-3</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.clinbiomech.2022.105636</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/10/02 00:00</Item>
+		<Item Name="revised" Type="Date">2022/03/21 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/03/25 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/04/16 06:00</Item>
+		<Item Name="medline" Type="Date">2022/05/27 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/04/15 20:17</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Clinical biomechanics (Bristol, Avon)</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.clinbiomech.2022.105636</Item>
+	<Item Name="SO" Type="String">2022 May;95:105636</Item>
+</DocSum>
+
+<DocSum>
+	<Id>35339966</Id>
+	<Item Name="PubDate" Type="Date">2022 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2022 Mar 18</Item>
+	<Item Name="Source" Type="String">J Electromyogr Kinesiol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Rodrigues R</Item>
+		<Item Name="Author" Type="String">Daiana Klein K</Item>
+		<Item Name="Author" Type="String">Dalcero Pompeo K</Item>
+		<Item Name="Author" Type="String">Aurélio Vaz M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Aurélio Vaz M</Item>
+	<Item Name="Title" Type="String">Are there neuromuscular differences on proximal and distal joints in patellofemoral pain people? A systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">64</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">102657</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9109125</Item>
+	<Item Name="ISSN" Type="String">1050-6411</Item>
+	<Item Name="ESSN" Type="String">1873-5711</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35339966</Item>
+		<Item Name="doi" Type="String">10.1016/j.jelekin.2022.102657</Item>
+		<Item Name="pii" Type="String">S1050-6411(22)00030-X</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jelekin.2022.102657</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/08/09 00:00</Item>
+		<Item Name="revised" Type="Date">2022/02/11 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/03/16 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/03/28 06:00</Item>
+		<Item Name="medline" Type="Date">2022/06/01 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/03/27 20:27</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of electromyography and kinesiology : official journal of the International Society of Electrophysiological Kinesiology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.jelekin.2022.102657</Item>
+	<Item Name="SO" Type="String">2022 Jun;64:102657</Item>
+</DocSum>
+
+<DocSum>
+	<Id>35292215</Id>
+	<Item Name="PubDate" Type="Date">2023 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2022 Mar 12</Item>
+	<Item Name="Source" Type="String">Surgeon</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Quaranta M</Item>
+		<Item Name="Author" Type="String">Poeta N</Item>
+		<Item Name="Author" Type="String">Oliva F</Item>
+		<Item Name="Author" Type="String">Maffulli N</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Maffulli N</Item>
+	<Item Name="Title" Type="String">Muscle herniae: Conservative and surgical management. Systematic review.</Item>
+	<Item Name="Volume" Type="String">21</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">181-189</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101168329</Item>
+	<Item Name="ISSN" Type="String">1479-666X</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35292215</Item>
+		<Item Name="doi" Type="String">10.1016/j.surge.2022.02.003</Item>
+		<Item Name="pii" Type="String">S1479-666X(22)00029-4</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.surge.2022.02.003</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/01/24 00:00</Item>
+		<Item Name="revised" Type="Date">2022/01/19 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/02/09 00:00</Item>
+		<Item Name="medline" Type="Date">2023/05/10 06:42</Item>
+		<Item Name="pubmed" Type="Date">2022/03/17 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/03/16 05:42</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The surgeon : journal of the Royal Colleges of Surgeons of Edinburgh and Ireland</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.surge.2022.02.003</Item>
+	<Item Name="SO" Type="String">2023 Jun;21(3):181-189</Item>
+</DocSum>
+
+<DocSum>
+	<Id>35077021</Id>
+	<Item Name="PubDate" Type="Date">2022 Oct</Item>
+	<Item Name="EPubDate" Type="Date">2022 Jan 25</Item>
+	<Item Name="Source" Type="String">Int Wound J</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">López-López D</Item>
+		<Item Name="Author" Type="String">Larrainzar-Garijo R</Item>
+		<Item Name="Author" Type="String">Becerro-de-Bengoa-Vallejo R</Item>
+		<Item Name="Author" Type="String">Losa-Iglesias ME</Item>
+		<Item Name="Author" Type="String">Bayod-López J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Bayod-López J</Item>
+	<Item Name="Title" Type="String">Effectiveness of calcaneal osteotomy in surgical treatment of foot conditions: A Prisma statement guidelines compliant systematic review.</Item>
+	<Item Name="Volume" Type="String">19</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">1494-1501</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101230907</Item>
+	<Item Name="ISSN" Type="String">1742-4801</Item>
+	<Item Name="ESSN" Type="String">1742-481X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35077021</Item>
+		<Item Name="pmc" Type="String">PMC9493233</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC9493233;</Item>
+		<Item Name="doi" Type="String">10.1111/iwj.13745</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1111/iwj.13745</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2021/12/02 00:00</Item>
+		<Item Name="received" Type="Date">2021/11/15 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/12/14 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/01/26 06:00</Item>
+		<Item Name="medline" Type="Date">2022/09/24 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/01/25 12:23</Item>
+		<Item Name="pmc-release" Type="Date">2022/01/25 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">22</Item>
+	<Item Name="FullJournalName" Type="String">International wound journal</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1111/iwj.13745</Item>
+	<Item Name="SO" Type="String">2022 Oct;19(6):1494-1501</Item>
+</DocSum>
+
+<DocSum>
+	<Id>34564008</Id>
+	<Item Name="PubDate" Type="Date">2021 Oct</Item>
+	<Item Name="EPubDate" Type="Date">2021 Sep 20</Item>
+	<Item Name="Source" Type="String">Gait Posture</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Labanca L</Item>
+		<Item Name="Author" Type="String">Mosca M</Item>
+		<Item Name="Author" Type="String">Ghislieri M</Item>
+		<Item Name="Author" Type="String">Agostini V</Item>
+		<Item Name="Author" Type="String">Knaflitz M</Item>
+		<Item Name="Author" Type="String">Benedetti MG</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Benedetti MG</Item>
+	<Item Name="Title" Type="String">Muscle activations during functional tasks in individuals with chronic ankle instability: a systematic review of electromyographical studies.</Item>
+	<Item Name="Volume" Type="String">90</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">340-373</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9416830</Item>
+	<Item Name="ISSN" Type="String">0966-6362</Item>
+	<Item Name="ESSN" Type="String">1879-2219</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">34564008</Item>
+		<Item Name="doi" Type="String">10.1016/j.gaitpost.2021.09.182</Item>
+		<Item Name="pii" Type="String">S0966-6362(21)00492-6</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.gaitpost.2021.09.182</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/02/26 00:00</Item>
+		<Item Name="revised" Type="Date">2021/09/14 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/09/15 00:00</Item>
+		<Item Name="pubmed" Type="Date">2021/09/27 06:00</Item>
+		<Item Name="medline" Type="Date">2021/12/15 06:00</Item>
+		<Item Name="entrez" Type="Date">2021/09/26 20:56</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Gait &amp; posture</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.gaitpost.2021.09.182</Item>
+	<Item Name="SO" Type="String">2021 Oct;90:340-373</Item>
+</DocSum>
+
+<DocSum>
+	<Id>34524486</Id>
+	<Item Name="PubDate" Type="Date">2023 Feb</Item>
+	<Item Name="EPubDate" Type="Date">2021 Sep 15</Item>
+	<Item Name="Source" Type="String">Arch Orthop Trauma Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Stevoska S</Item>
+		<Item Name="Author" Type="String">Pisecky L</Item>
+		<Item Name="Author" Type="String">Stadler C</Item>
+		<Item Name="Author" Type="String">Gahleitner M</Item>
+		<Item Name="Author" Type="String">Klasan A</Item>
+		<Item Name="Author" Type="String">Klotz MC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Klotz MC</Item>
+	<Item Name="Title" Type="String">Tendon transfer in foot drop: a systematic review.</Item>
+	<Item Name="Volume" Type="String">143</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">773-784</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9011043</Item>
+	<Item Name="ISSN" Type="String">0936-8051</Item>
+	<Item Name="ESSN" Type="String">1434-3916</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">34524486</Item>
+		<Item Name="pmc" Type="String">PMC9925604</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC9925604;</Item>
+		<Item Name="doi" Type="String">10.1007/s00402-021-04162-x</Item>
+		<Item Name="pii" Type="String">10.1007/s00402-021-04162-x</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00402-021-04162-x</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/04/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/09/01 00:00</Item>
+		<Item Name="pubmed" Type="Date">2021/09/16 06:00</Item>
+		<Item Name="medline" Type="Date">2023/02/16 06:00</Item>
+		<Item Name="entrez" Type="Date">2021/09/15 12:40</Item>
+		<Item Name="pmc-release" Type="Date">2021/09/15 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">55</Item>
+	<Item Name="FullJournalName" Type="String">Archives of orthopaedic and trauma surgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00402-021-04162-x</Item>
+	<Item Name="SO" Type="String">2023 Feb;143(2):773-784</Item>
+</DocSum>
+
+<DocSum>
+	<Id>34253434</Id>
+	<Item Name="PubDate" Type="Date">2021 Nov-Dec</Item>
+	<Item Name="EPubDate" Type="Date">2021 Jun 17</Item>
+	<Item Name="Source" Type="String">J Foot Ankle Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Modha RK</Item>
+		<Item Name="Author" Type="String">Kilmartin TE</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kilmartin TE</Item>
+	<Item Name="Title" Type="String">Lateral Column Lengthening For Flexible Adult Acquired Flatfoot: Systematic Review and Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">60</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">1254-1269</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9308427</Item>
+	<Item Name="ISSN" Type="String">1067-2516</Item>
+	<Item Name="ESSN" Type="String">1542-2224</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">34253434</Item>
+		<Item Name="doi" Type="String">10.1053/j.jfas.2021.02.015</Item>
+		<Item Name="pii" Type="String">S1067-2516(21)00205-2</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1053/j.jfas.2021.02.015</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/07/08 00:00</Item>
+		<Item Name="revised" Type="Date">2021/01/30 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/02/21 00:00</Item>
+		<Item Name="pubmed" Type="Date">2021/07/14 06:00</Item>
+		<Item Name="medline" Type="Date">2021/11/17 06:00</Item>
+		<Item Name="entrez" Type="Date">2021/07/13 05:44</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1053/j.jfas.2021.02.015</Item>
+	<Item Name="SO" Type="String">2021 Nov-Dec;60(6):1254-1269</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33829681</Id>
+	<Item Name="PubDate" Type="Date">2021 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2021 May 6</Item>
+	<Item Name="Source" Type="String">Pain Pract</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Nunes AMP</Item>
+		<Item Name="Author" Type="String">Moita JPAM</Item>
+		<Item Name="Author" Type="String">Espanha MMMR</Item>
+		<Item Name="Author" Type="String">Petersen KK</Item>
+		<Item Name="Author" Type="String">Arendt-Nielsen L</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Arendt-Nielsen L</Item>
+	<Item Name="Title" Type="String">Pressure pain thresholds in office workers with chronic neck pain: A systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">21</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">799-814</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101130835</Item>
+	<Item Name="ISSN" Type="String">1530-7085</Item>
+	<Item Name="ESSN" Type="String">1533-2500</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33829681</Item>
+		<Item Name="doi" Type="String">10.1111/papr.13014</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1111/papr.13014</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2021/02/01 00:00</Item>
+		<Item Name="received" Type="Date">2020/07/17 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/03/25 00:00</Item>
+		<Item Name="pubmed" Type="Date">2021/04/09 06:00</Item>
+		<Item Name="medline" Type="Date">2021/10/26 06:00</Item>
+		<Item Name="entrez" Type="Date">2021/04/08 06:54</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Pain practice : the official journal of World Institute of Pain</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1111/papr.13014</Item>
+	<Item Name="SO" Type="String">2021 Sep;21(7):799-814</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33511862</Id>
+	<Item Name="PubDate" Type="Date">2022 Aug</Item>
+	<Item Name="EPubDate" Type="Date">2021 Jan 29</Item>
+	<Item Name="Source" Type="String">Foot Ankle Spec</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Baryeh KW</Item>
+		<Item Name="Author" Type="String">Ismail H</Item>
+		<Item Name="Author" Type="String">Sobti A</Item>
+		<Item Name="Author" Type="String">Harb Z</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Harb Z</Item>
+	<Item Name="Title" Type="String">Outcomes Following the Use of Subtalar Arthroereisis in the Correction of Adult Acquired Flatfoot: A Systematic Review.</Item>
+	<Item Name="Volume" Type="String">15</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">384-393</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101473598</Item>
+	<Item Name="ISSN" Type="String">1938-6400</Item>
+	<Item Name="ESSN" Type="String">1938-7636</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33511862</Item>
+		<Item Name="doi" Type="String">10.1177/1938640020987775</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/1938640020987775</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2021/01/30 06:00</Item>
+		<Item Name="medline" Type="Date">2022/08/03 06:00</Item>
+		<Item Name="entrez" Type="Date">2021/01/29 08:37</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Foot &amp; ankle specialist</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/1938640020987775</Item>
+	<Item Name="SO" Type="String">2022 Aug;15(4):384-393</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33303857</Id>
+	<Item Name="PubDate" Type="Date">2020 Dec 10</Item>
+	<Item Name="EPubDate" Type="Date">2020 Dec 10</Item>
+	<Item Name="Source" Type="String">Sci Rep</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Haque F</Item>
+		<Item Name="Author" Type="String">Reaz MBI</Item>
+		<Item Name="Author" Type="String">Ali SHM</Item>
+		<Item Name="Author" Type="String">Arsad N</Item>
+		<Item Name="Author" Type="String">Chowdhury MEH</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Chowdhury MEH</Item>
+	<Item Name="Title" Type="String">Performance analysis of noninvasive electrophysiological methods for the assessment of diabetic sensorimotor polyneuropathy in clinical research: a systematic review and meta-analysis with trial sequential analysis.</Item>
+	<Item Name="Volume" Type="String">10</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">21770</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101563288</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2045-2322</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33303857</Item>
+		<Item Name="pmc" Type="String">PMC7730399</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC7730399;</Item>
+		<Item Name="doi" Type="String">10.1038/s41598-020-78787-0</Item>
+		<Item Name="pii" Type="String">10.1038/s41598-020-78787-0</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/s41598-020-78787-0</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/05/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/11/12 00:00</Item>
+		<Item Name="entrez" Type="Date">2020/12/11 05:55</Item>
+		<Item Name="pubmed" Type="Date">2020/12/12 06:00</Item>
+		<Item Name="medline" Type="Date">2021/05/08 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2020/12/10 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">68</Item>
+	<Item Name="FullJournalName" Type="String">Scientific reports</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/s41598-020-78787-0</Item>
+	<Item Name="SO" Type="String">2020 Dec 10;10(1):21770</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33135006</Id>
+	<Item Name="PubDate" Type="Date">2020 Oct</Item>
+	<Item Name="EPubDate" Type="Date">2020 Sep 25</Item>
+	<Item Name="Source" Type="String">Arthrosc Sports Med Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Mo Z</Item>
+		<Item Name="Author" Type="String">Li D</Item>
+		<Item Name="Author" Type="String">Yang B</Item>
+		<Item Name="Author" Type="String">Tang S</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Tang S</Item>
+	<Item Name="Title" Type="String">Comparative Efficacy of Graft Options in Anterior Cruciate Ligament Reconstruction: A Systematic Review and Network Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">e645-e654</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101765256</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2666-061X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33135006</Item>
+		<Item Name="pmc" Type="String">PMC7588648</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC7588648;</Item>
+		<Item Name="doi" Type="String">10.1016/j.asmr.2020.05.007</Item>
+		<Item Name="pii" Type="String">S2666-061X(20)30049-3</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.asmr.2020.05.007</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2019/08/23 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/05/13 00:00</Item>
+		<Item Name="entrez" Type="Date">2020/11/02 06:23</Item>
+		<Item Name="pubmed" Type="Date">2020/11/03 06:00</Item>
+		<Item Name="medline" Type="Date">2020/11/03 06:01</Item>
+		<Item Name="pmc-release" Type="Date">2020/09/25 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">77</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy, sports medicine, and rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.asmr.2020.05.007</Item>
+	<Item Name="SO" Type="String">2020 Oct;2(5):e645-e654</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33026536</Id>
+	<Item Name="PubDate" Type="Date">2021 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2020 Oct 7</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Johnston PT</Item>
+		<Item Name="Author" Type="String">McClelland JA</Item>
+		<Item Name="Author" Type="String">Feller JA</Item>
+		<Item Name="Author" Type="String">Webster KE</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Webster KE</Item>
+	<Item Name="Title" Type="String">Knee muscle strength after quadriceps tendon autograft anterior cruciate ligament reconstruction: systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">29</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">2918-2933</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33026536</Item>
+		<Item Name="doi" Type="String">10.1007/s00167-020-06311-y</Item>
+		<Item Name="pii" Type="String">10.1007/s00167-020-06311-y</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00167-020-06311-y</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/06/30 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/09/28 00:00</Item>
+		<Item Name="pubmed" Type="Date">2020/10/08 06:00</Item>
+		<Item Name="medline" Type="Date">2021/08/27 06:00</Item>
+		<Item Name="entrez" Type="Date">2020/10/07 12:10</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00167-020-06311-y</Item>
+	<Item Name="SO" Type="String">2021 Sep;29(9):2918-2933</Item>
+</DocSum>
+
+<DocSum>
+	<Id>32978244</Id>
+	<Item Name="PubDate" Type="Date">2020 Sep</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">BMJ Open Respir Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Alqahtani JS</Item>
+		<Item Name="Author" Type="String">Oyelade T</Item>
+		<Item Name="Author" Type="String">Sreedharan J</Item>
+		<Item Name="Author" Type="String">Aldhahir AM</Item>
+		<Item Name="Author" Type="String">Alghamdi SM</Item>
+		<Item Name="Author" Type="String">Alrajeh AM</Item>
+		<Item Name="Author" Type="String">Alqahtani AS</Item>
+		<Item Name="Author" Type="String">Alsulayyim A</Item>
+		<Item Name="Author" Type="String">Aldabayan YS</Item>
+		<Item Name="Author" Type="String">Alobaidi NY</Item>
+		<Item Name="Author" Type="String">AlAhmari MD</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">AlAhmari MD</Item>
+	<Item Name="Title" Type="String">Diagnostic and clinical values of non-cardiac ultrasound in COPD: A systematic review.</Item>
+	<Item Name="Volume" Type="String">7</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101638061</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2052-4439</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">32978244</Item>
+		<Item Name="pmc" Type="String">PMC7520906</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC7520906;</Item>
+		<Item Name="doi" Type="String">10.1136/bmjresp-2020-000717</Item>
+		<Item Name="pii" Type="String">7/1/e000717</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1136/bmjresp-2020-000717</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/07/16 00:00</Item>
+		<Item Name="revised" Type="Date">2020/08/12 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/08/13 00:00</Item>
+		<Item Name="entrez" Type="Date">2020/09/26 05:24</Item>
+		<Item Name="pubmed" Type="Date">2020/09/27 06:00</Item>
+		<Item Name="medline" Type="Date">2021/07/24 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2020/09/25 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">76</Item>
+	<Item Name="FullJournalName" Type="String">BMJ open respiratory research</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1136/bmjresp-2020-000717</Item>
+	<Item Name="SO" Type="String">2020 Sep;7(1)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>32605065</Id>
+	<Item Name="PubDate" Type="Date">2020 Jun 27</Item>
+	<Item Name="EPubDate" Type="Date">2020 Jun 27</Item>
+	<Item Name="Source" Type="String">Int J Environ Res Public Health</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Martín-Fuentes I</Item>
+		<Item Name="Author" Type="String">Oliva-Lozano JM</Item>
+		<Item Name="Author" Type="String">Muyor JM</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Muyor JM</Item>
+	<Item Name="Title" Type="String">Evaluation of the Lower Limb Muscles' Electromyographic Activity during the Leg Press Exercise and Its Variants: A Systematic Review.</Item>
+	<Item Name="Volume" Type="String">17</Item>
+	<Item Name="Issue" Type="String">13</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101238455</Item>
+	<Item Name="ISSN" Type="String">1661-7827</Item>
+	<Item Name="ESSN" Type="String">1660-4601</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">32605065</Item>
+		<Item Name="pmc" Type="String">PMC7369968</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC7369968;</Item>
+		<Item Name="doi" Type="String">10.3390/ijerph17134626</Item>
+		<Item Name="pii" Type="String">ijerph17134626</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3390/ijerph17134626</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/05/04 00:00</Item>
+		<Item Name="revised" Type="Date">2020/06/17 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/06/24 00:00</Item>
+		<Item Name="entrez" Type="Date">2020/07/02 06:00</Item>
+		<Item Name="pubmed" Type="Date">2020/07/02 06:00</Item>
+		<Item Name="medline" Type="Date">2020/11/21 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2020/07/01 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">43</Item>
+	<Item Name="FullJournalName" Type="String">International journal of environmental research and public health</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.3390/ijerph17134626</Item>
+	<Item Name="SO" Type="String">2020 Jun 27;17(13)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>31853457</Id>
+	<Item Name="PubDate" Type="Date">2019 Dec</Item>
+	<Item Name="EPubDate" Type="Date">2019 Dec 11</Item>
+	<Item Name="Source" Type="String">Orthop J Sports Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Tejpal T</Item>
+		<Item Name="Author" Type="String">Gupta A</Item>
+		<Item Name="Author" Type="String">Shanmugaraj A</Item>
+		<Item Name="Author" Type="String">Horner NS</Item>
+		<Item Name="Author" Type="String">Simunovic N</Item>
+		<Item Name="Author" Type="String">Peterson DC</Item>
+		<Item Name="Author" Type="String">Ayeni OR</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ayeni OR</Item>
+	<Item Name="Title" Type="String">Anteromedial Portal Double-Bundle Anterior Cruciate Ligament Reconstruction Yields Similar Outcomes to Non-AMP Femoral Drilling Double-Bundle Techniques: A Systematic Review of Comparative Studies.</Item>
+	<Item Name="Volume" Type="String">7</Item>
+	<Item Name="Issue" Type="String">12</Item>
+	<Item Name="Pages" Type="String">2325967119888140</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101620522</Item>
+	<Item Name="ISSN" Type="String">2325-9671</Item>
+	<Item Name="ESSN" Type="String">2325-9671</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">31853457</Item>
+		<Item Name="pmc" Type="String">PMC6906356</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC6906356;</Item>
+		<Item Name="doi" Type="String">10.1177/2325967119888140</Item>
+		<Item Name="pii" Type="String">10.1177_2325967119888140</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/2325967119888140</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2019/12/20 06:00</Item>
+		<Item Name="pubmed" Type="Date">2019/12/20 06:00</Item>
+		<Item Name="medline" Type="Date">2019/12/20 06:01</Item>
+		<Item Name="pmc-release" Type="Date">2019/12/11 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">36</Item>
+	<Item Name="FullJournalName" Type="String">Orthopaedic journal of sports medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/2325967119888140</Item>
+	<Item Name="SO" Type="String">2019 Dec;7(12):2325967119888140</Item>
+</DocSum>
+
+<DocSum>
+	<Id>31547793</Id>
+	<Item Name="PubDate" Type="Date">2019 Dec</Item>
+	<Item Name="EPubDate" Type="Date">2019 Sep 24</Item>
+	<Item Name="Source" Type="String">Prosthet Orthot Int</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Reeves J</Item>
+		<Item Name="Author" Type="String">Jones R</Item>
+		<Item Name="Author" Type="String">Liu A</Item>
+		<Item Name="Author" Type="String">Bent L</Item>
+		<Item Name="Author" Type="String">Plater E</Item>
+		<Item Name="Author" Type="String">Nester C</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Nester C</Item>
+	<Item Name="Title" Type="String">A systematic review of the effect of footwear, foot orthoses and taping on lower limb muscle activity during walking and running.</Item>
+	<Item Name="Volume" Type="String">43</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">576-596</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7707720</Item>
+	<Item Name="ISSN" Type="String">0309-3646</Item>
+	<Item Name="ESSN" Type="String">1746-1553</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">31547793</Item>
+		<Item Name="doi" Type="String">10.1177/0309364619870666</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/0309364619870666</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2019/09/25 06:00</Item>
+		<Item Name="medline" Type="Date">2020/04/25 06:00</Item>
+		<Item Name="entrez" Type="Date">2019/09/25 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Prosthetics and orthotics international</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/0309364619870666</Item>
+	<Item Name="SO" Type="String">2019 Dec;43(6):576-596</Item>
+</DocSum>
+
+<DocSum>
+	<Id>31057474</Id>
+	<Item Name="PubDate" Type="Date">2019</Item>
+	<Item Name="EPubDate" Type="Date">2019 Apr 17</Item>
+	<Item Name="Source" Type="String">Front Neurol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Delafontaine A</Item>
+		<Item Name="Author" Type="String">Vialleron T</Item>
+		<Item Name="Author" Type="String">Hussein T</Item>
+		<Item Name="Author" Type="String">Yiou E</Item>
+		<Item Name="Author" Type="String">Honeine JL</Item>
+		<Item Name="Author" Type="String">Colnaghi S</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Colnaghi S</Item>
+	<Item Name="Title" Type="String">Anticipatory Postural Adjustments During Gait Initiation in Stroke Patients.</Item>
+	<Item Name="Volume" Type="String">10</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">352</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101546899</Item>
+	<Item Name="ISSN" Type="String">1664-2295</Item>
+	<Item Name="ESSN" Type="String">1664-2295</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">31057474</Item>
+		<Item Name="pmc" Type="String">PMC6478808</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC6478808;</Item>
+		<Item Name="doi" Type="String">10.3389/fneur.2019.00352</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3389/fneur.2019.00352</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2018/12/28 00:00</Item>
+		<Item Name="accepted" Type="Date">2019/03/22 00:00</Item>
+		<Item Name="entrez" Type="Date">2019/05/07 06:00</Item>
+		<Item Name="pubmed" Type="Date">2019/05/07 06:00</Item>
+		<Item Name="medline" Type="Date">2019/05/07 06:01</Item>
+		<Item Name="pmc-release" Type="Date">2019/04/17 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">42</Item>
+	<Item Name="FullJournalName" Type="String">Frontiers in neurology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.3389/fneur.2019.00352</Item>
+	<Item Name="SO" Type="String">2019;10:352</Item>
+</DocSum>
+
+<DocSum>
+	<Id>30905215</Id>
+	<Item Name="PubDate" Type="Date">2020 Oct</Item>
+	<Item Name="EPubDate" Type="Date">2019 Mar 23</Item>
+	<Item Name="Source" Type="String">Disabil Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Van Criekinge T</Item>
+		<Item Name="Author" Type="String">Vermeulen J</Item>
+		<Item Name="Author" Type="String">Wagemans K</Item>
+		<Item Name="Author" Type="String">Schröder J</Item>
+		<Item Name="Author" Type="String">Embrechts E</Item>
+		<Item Name="Author" Type="String">Truijen S</Item>
+		<Item Name="Author" Type="String">Hallemans A</Item>
+		<Item Name="Author" Type="String">Saeys W</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Saeys W</Item>
+	<Item Name="Title" Type="String">Lower limb muscle synergies during walking after stroke: a systematic review.</Item>
+	<Item Name="Volume" Type="String">42</Item>
+	<Item Name="Issue" Type="String">20</Item>
+	<Item Name="Pages" Type="String">2836-2845</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9207179</Item>
+	<Item Name="ISSN" Type="String">0963-8288</Item>
+	<Item Name="ESSN" Type="String">1464-5165</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">30905215</Item>
+		<Item Name="doi" Type="String">10.1080/09638288.2019.1578421</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1080/09638288.2019.1578421</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2019/03/25 06:00</Item>
+		<Item Name="medline" Type="Date">2021/06/24 06:00</Item>
+		<Item Name="entrez" Type="Date">2019/03/26 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Disability and rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1080/09638288.2019.1578421</Item>
+	<Item Name="SO" Type="String">2020 Oct;42(20):2836-2845</Item>
+</DocSum>
+
+<DocSum>
+	<Id>30554867</Id>
+	<Item Name="PubDate" Type="Date">2019 Mar</Item>
+	<Item Name="EPubDate" Type="Date">2018 Dec 13</Item>
+	<Item Name="Source" Type="String">J Foot Ankle Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Tickner A</Item>
+		<Item Name="Author" Type="String">Thorng S</Item>
+		<Item Name="Author" Type="String">Martin M</Item>
+		<Item Name="Author" Type="String">Marmolejo V</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Marmolejo V</Item>
+	<Item Name="Title" Type="String">Management of Isolated Anterior Tibial Tendon Rupture: A Systematic Review and Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">58</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">213-220</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9308427</Item>
+	<Item Name="ISSN" Type="String">1067-2516</Item>
+	<Item Name="ESSN" Type="String">1542-2224</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">30554867</Item>
+		<Item Name="doi" Type="String">10.1053/j.jfas.2018.08.001</Item>
+		<Item Name="pii" Type="String">S1067-2516(18)30310-7</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1053/j.jfas.2018.08.001</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2018/07/28 00:00</Item>
+		<Item Name="pubmed" Type="Date">2018/12/18 06:00</Item>
+		<Item Name="medline" Type="Date">2019/07/31 06:00</Item>
+		<Item Name="entrez" Type="Date">2018/12/18 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Journal of foot and ankle surgery : official publication of the American College of Foot and Ankle Surgeons</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1053/j.jfas.2018.08.001</Item>
+	<Item Name="SO" Type="String">2019 Mar;58(2):213-220</Item>
+</DocSum>
+
+<DocSum>
+	<Id>30186369</Id>
+	<Item Name="PubDate" Type="Date">2018</Item>
+	<Item Name="EPubDate" Type="Date">2018 Aug 30</Item>
+	<Item Name="Source" Type="String">J Foot Ankle Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Ross MH</Item>
+		<Item Name="Author" Type="String">Smith M</Item>
+		<Item Name="Author" Type="String">Plinsinga ML</Item>
+		<Item Name="Author" Type="String">Vicenzino B</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Vicenzino B</Item>
+	<Item Name="Title" Type="String">Self-reported social and activity restrictions accompany local impairments in posterior tibial tendon dysfunction: a systematic review.</Item>
+	<Item Name="Volume" Type="String">11</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">49</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101471610</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1757-1146</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">30186369</Item>
+		<Item Name="pmc" Type="String">PMC6117981</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC6117981;</Item>
+		<Item Name="doi" Type="String">10.1186/s13047-018-0292-z</Item>
+		<Item Name="pii" Type="String">292</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s13047-018-0292-z</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2018/07/11 00:00</Item>
+		<Item Name="accepted" Type="Date">2018/08/21 00:00</Item>
+		<Item Name="entrez" Type="Date">2018/09/07 06:00</Item>
+		<Item Name="pubmed" Type="Date">2018/09/07 06:00</Item>
+		<Item Name="medline" Type="Date">2019/01/11 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2018/08/30 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">40</Item>
+	<Item Name="FullJournalName" Type="String">Journal of foot and ankle research</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s13047-018-0292-z</Item>
+	<Item Name="SO" Type="String">2018;11:49</Item>
+</DocSum>
+
+<DocSum>
+	<Id>30134446</Id>
+	<Item Name="PubDate" Type="Date">2019 Jan</Item>
+	<Item Name="EPubDate" Type="Date">2018 Aug 22</Item>
+	<Item Name="Source" Type="String">J Reconstr Microsurg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Head LK</Item>
+		<Item Name="Author" Type="String">Hicks K</Item>
+		<Item Name="Author" Type="String">Wolff G</Item>
+		<Item Name="Author" Type="String">Boyd KU</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Boyd KU</Item>
+	<Item Name="Title" Type="String">Clinical Outcomes of Nerve Transfers in Peroneal Nerve Palsy: A Systematic Review and Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">35</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">57-65</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8502670</Item>
+	<Item Name="ISSN" Type="String">0743-684X</Item>
+	<Item Name="ESSN" Type="String">1098-8947</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">30134446</Item>
+		<Item Name="doi" Type="String">10.1055/s-0038-1667047</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1055/s-0038-1667047</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2018/08/23 06:00</Item>
+		<Item Name="medline" Type="Date">2019/06/27 06:00</Item>
+		<Item Name="entrez" Type="Date">2018/08/23 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of reconstructive microsurgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1055/s-0038-1667047</Item>
+	<Item Name="SO" Type="String">2019 Jan;35(1):57-65</Item>
+</DocSum>
+
+<DocSum>
+	<Id>29991077</Id>
+	<Item Name="PubDate" Type="Date">2019 Jul</Item>
+	<Item Name="EPubDate" Type="Date">2018 Jul 10</Item>
+	<Item Name="Source" Type="String">J Knee Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Shanmugaraj A</Item>
+		<Item Name="Author" Type="String">de Sa D</Item>
+		<Item Name="Author" Type="String">Skelly MM</Item>
+		<Item Name="Author" Type="String">Duong A</Item>
+		<Item Name="Author" Type="String">Simunovic N</Item>
+		<Item Name="Author" Type="String">Musahl V</Item>
+		<Item Name="Author" Type="String">Peterson DC</Item>
+		<Item Name="Author" Type="String">Ayeni OR</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ayeni OR</Item>
+	<Item Name="Title" Type="String">Primary Allograft ACL Reconstruction in Skeletally Immature Patients-A Systematic Review of Surgical Techniques, Outcomes, and Complications.</Item>
+	<Item Name="Volume" Type="String">32</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">673-685</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101137599</Item>
+	<Item Name="ISSN" Type="String">1538-8506</Item>
+	<Item Name="ESSN" Type="String">1938-2480</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">29991077</Item>
+		<Item Name="doi" Type="String">10.1055/s-0038-1666833</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1055/s-0038-1666833</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2018/07/11 06:00</Item>
+		<Item Name="medline" Type="Date">2019/10/29 06:00</Item>
+		<Item Name="entrez" Type="Date">2018/07/11 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The journal of knee surgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1055/s-0038-1666833</Item>
+	<Item Name="SO" Type="String">2019 Jul;32(7):673-685</Item>
+</DocSum>
+
+<DocSum>
+	<Id>29728834</Id>
+	<Item Name="PubDate" Type="Date">2018 Aug</Item>
+	<Item Name="EPubDate" Type="Date">2018 May 4</Item>
+	<Item Name="Source" Type="String">Arch Orthop Trauma Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Lee YS</Item>
+		<Item Name="Author" Type="String">Lee SH</Item>
+		<Item Name="Author" Type="String">Lee OS</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lee OS</Item>
+	<Item Name="Title" Type="String">Graft sources do not affect to the outcome of transtibial posterior cruciate ligament reconstruction: a systematic review.</Item>
+	<Item Name="Volume" Type="String">138</Item>
+	<Item Name="Issue" Type="String">8</Item>
+	<Item Name="Pages" Type="String">1103-1116</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9011043</Item>
+	<Item Name="ISSN" Type="String">0936-8051</Item>
+	<Item Name="ESSN" Type="String">1434-3916</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">29728834</Item>
+		<Item Name="doi" Type="String">10.1007/s00402-018-2946-5</Item>
+		<Item Name="pii" Type="String">10.1007/s00402-018-2946-5</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00402-018-2946-5</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2017/08/31 00:00</Item>
+		<Item Name="pubmed" Type="Date">2018/05/08 06:00</Item>
+		<Item Name="medline" Type="Date">2018/10/20 06:00</Item>
+		<Item Name="entrez" Type="Date">2018/05/06 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Archives of orthopaedic and trauma surgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00402-018-2946-5</Item>
+	<Item Name="SO" Type="String">2018 Aug;138(8):1103-1116</Item>
+</DocSum>
+
+<DocSum>
+	<Id>29502464</Id>
+	<Item Name="PubDate" Type="Date">2019 Jul</Item>
+	<Item Name="EPubDate" Type="Date">2018 Mar 5</Item>
+	<Item Name="Source" Type="String">Disabil Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Van Criekinge T</Item>
+		<Item Name="Author" Type="String">Truijen S</Item>
+		<Item Name="Author" Type="String">Verbruggen C</Item>
+		<Item Name="Author" Type="String">Van de Venis L</Item>
+		<Item Name="Author" Type="String">Saeys W</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Saeys W</Item>
+	<Item Name="Title" Type="String">The effect of trunk training on muscle thickness and muscle activity: a systematic review.</Item>
+	<Item Name="Volume" Type="String">41</Item>
+	<Item Name="Issue" Type="String">15</Item>
+	<Item Name="Pages" Type="String">1751-1759</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9207179</Item>
+	<Item Name="ISSN" Type="String">0963-8288</Item>
+	<Item Name="ESSN" Type="String">1464-5165</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">29502464</Item>
+		<Item Name="doi" Type="String">10.1080/09638288.2018.1445785</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1080/09638288.2018.1445785</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2018/03/06 06:00</Item>
+		<Item Name="medline" Type="Date">2020/05/07 06:00</Item>
+		<Item Name="entrez" Type="Date">2018/03/06 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Disability and rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1080/09638288.2018.1445785</Item>
+	<Item Name="SO" Type="String">2019 Jul;41(15):1751-1759</Item>
+</DocSum>
+
+<DocSum>
+	<Id>28636429</Id>
+	<Item Name="PubDate" Type="Date">2018 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2017 Jun 21</Item>
+	<Item Name="Source" Type="String">Am J Sports Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Belk JW</Item>
+		<Item Name="Author" Type="String">Kraeutler MJ</Item>
+		<Item Name="Author" Type="String">Purcell JM</Item>
+		<Item Name="Author" Type="String">McCarty EC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">McCarty EC</Item>
+	<Item Name="Title" Type="String">Autograft Versus Allograft for Posterior Cruciate Ligament Reconstruction: An Updated Systematic Review and Meta-analysis.</Item>
+	<Item Name="Volume" Type="String">46</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">1752-1757</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7609541</Item>
+	<Item Name="ISSN" Type="String">0363-5465</Item>
+	<Item Name="ESSN" Type="String">1552-3365</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">28636429</Item>
+		<Item Name="doi" Type="String">10.1177/0363546517713164</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/0363546517713164</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2017/06/22 06:00</Item>
+		<Item Name="medline" Type="Date">2019/09/24 06:00</Item>
+		<Item Name="entrez" Type="Date">2017/06/22 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The American journal of sports medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/0363546517713164</Item>
+	<Item Name="SO" Type="String">2018 Jun;46(7):1752-1757</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25844597</Id>
+	<Item Name="PubDate" Type="Date">2015 Apr</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Am J Orthop (Belle Mead NJ)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Christman-Skieller C</Item>
+		<Item Name="Author" Type="String">Merz MK</Item>
+		<Item Name="Author" Type="String">Tansey JP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Tansey JP</Item>
+	<Item Name="Title" Type="String">A systematic review of tibialis anterior tendon rupture treatments and outcomes.</Item>
+	<Item Name="Volume" Type="String">44</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">E94-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9502918</Item>
+	<Item Name="ISSN" Type="String">1078-4519</Item>
+	<Item Name="ESSN" Type="String">1934-3418</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25844597</Item>
+	</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2015/04/07 06:00</Item>
+		<Item Name="pubmed" Type="Date">2015/04/07 06:00</Item>
+		<Item Name="medline" Type="Date">2015/12/29 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">American journal of orthopedics (Belle Mead, N.J.)</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2015 Apr;44(4):E94-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>25108904</Id>
+	<Item Name="PubDate" Type="Date">2014 Dec</Item>
+	<Item Name="EPubDate" Type="Date">2014 Aug 6</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Cvetanovich GL</Item>
+		<Item Name="Author" Type="String">Mascarenhas R</Item>
+		<Item Name="Author" Type="String">Saccomanno MF</Item>
+		<Item Name="Author" Type="String">Verma NN</Item>
+		<Item Name="Author" Type="String">Cole BJ</Item>
+		<Item Name="Author" Type="String">Bush-Joseph CA</Item>
+		<Item Name="Author" Type="String">Bach BR</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Bach BR</Item>
+	<Item Name="Title" Type="String">Hamstring autograft versus soft-tissue allograft in anterior cruciate ligament reconstruction: a systematic review and meta-analysis of randomized controlled trials.</Item>
+	<Item Name="Volume" Type="String">30</Item>
+	<Item Name="Issue" Type="String">12</Item>
+	<Item Name="Pages" Type="String">1616-24</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">25108904</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2014.05.040</Item>
+		<Item Name="pii" Type="String">S0749-8063(14)00501-5</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2014.05.040</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/12/30 00:00</Item>
+		<Item Name="revised" Type="Date">2014/05/03 00:00</Item>
+		<Item Name="accepted" Type="Date">2014/05/28 00:00</Item>
+		<Item Name="entrez" Type="Date">2014/08/11 06:00</Item>
+		<Item Name="pubmed" Type="Date">2014/08/12 06:00</Item>
+		<Item Name="medline" Type="Date">2015/04/17 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2014.05.040</Item>
+	<Item Name="SO" Type="String">2014 Dec;30(12):1616-24</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24725986</Id>
+	<Item Name="PubDate" Type="Date">2014 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2014 Apr 13</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Cychosz CC</Item>
+		<Item Name="Author" Type="String">Phisitkul P</Item>
+		<Item Name="Author" Type="String">Barg A</Item>
+		<Item Name="Author" Type="String">Nickisch F</Item>
+		<Item Name="Author" Type="String">van Dijk CN</Item>
+		<Item Name="Author" Type="String">Glazebrook MA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Glazebrook MA</Item>
+	<Item Name="Title" Type="String">Foot and ankle tendoscopy: evidence-based recommendations.</Item>
+	<Item Name="Volume" Type="String">30</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">755-65</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24725986</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2014.02.022</Item>
+		<Item Name="pii" Type="String">S0749-8063(14)00133-9</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2014.02.022</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2013/12/16 00:00</Item>
+		<Item Name="revised" Type="Date">2014/02/07 00:00</Item>
+		<Item Name="accepted" Type="Date">2014/02/13 00:00</Item>
+		<Item Name="entrez" Type="Date">2014/04/15 06:00</Item>
+		<Item Name="pubmed" Type="Date">2014/04/15 06:00</Item>
+		<Item Name="medline" Type="Date">2014/07/16 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2014.02.022</Item>
+	<Item Name="SO" Type="String">2014 Jun;30(6):755-65</Item>
+</DocSum>
+
+<DocSum>
+	<Id>24011236</Id>
+	<Item Name="PubDate" Type="Date">2013 Sep 8</Item>
+	<Item Name="EPubDate" Type="Date">2013 Sep 8</Item>
+	<Item Name="Source" Type="String">BMC Neurol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Nalysnyk L</Item>
+		<Item Name="Author" Type="String">Papapetropoulos S</Item>
+		<Item Name="Author" Type="String">Rotella P</Item>
+		<Item Name="Author" Type="String">Simeone JC</Item>
+		<Item Name="Author" Type="String">Alter KE</Item>
+		<Item Name="Author" Type="String">Esquenazi A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Esquenazi A</Item>
+	<Item Name="Title" Type="String">OnabotulinumtoxinA muscle injection patterns in adult spasticity: a systematic literature review.</Item>
+	<Item Name="Volume" Type="String">13</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">118</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968555</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2377</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">24011236</Item>
+		<Item Name="pmc" Type="String">PMC3848723</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC3848723;</Item>
+		<Item Name="doi" Type="String">10.1186/1471-2377-13-118</Item>
+		<Item Name="pii" Type="String">1471-2377-13-118</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/1471-2377-13-118</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2012/08/16 00:00</Item>
+		<Item Name="accepted" Type="Date">2013/09/03 00:00</Item>
+		<Item Name="entrez" Type="Date">2013/09/10 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/09/10 06:00</Item>
+		<Item Name="medline" Type="Date">2014/04/05 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2013/09/08 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">90</Item>
+	<Item Name="FullJournalName" Type="String">BMC neurology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/1471-2377-13-118</Item>
+	<Item Name="SO" Type="String">2013 Sep 8;13:118</Item>
+</DocSum>
+
+<DocSum>
+	<Id>23928319</Id>
+	<Item Name="PubDate" Type="Date">2014 Feb</Item>
+	<Item Name="EPubDate" Type="Date">2013 Aug 8</Item>
+	<Item Name="Source" Type="String">Am J Sports Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Mariscalco MW</Item>
+		<Item Name="Author" Type="String">Magnussen RA</Item>
+		<Item Name="Author" Type="String">Mehta D</Item>
+		<Item Name="Author" Type="String">Hewett TE</Item>
+		<Item Name="Author" Type="String">Flanigan DC</Item>
+		<Item Name="Author" Type="String">Kaeding CC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kaeding CC</Item>
+	<Item Name="Title" Type="String">Autograft versus nonirradiated allograft tissue for anterior cruciate ligament reconstruction: a systematic review.</Item>
+	<Item Name="Volume" Type="String">42</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">492-9</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7609541</Item>
+	<Item Name="ISSN" Type="String">0363-5465</Item>
+	<Item Name="ESSN" Type="String">1552-3365</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">23928319</Item>
+		<Item Name="mid" Type="String">NIHMS623538</Item>
+		<Item Name="pmc" Type="String">PMC4163684</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC4163684;manuscript-id: NIHMS623538;</Item>
+		<Item Name="doi" Type="String">10.1177/0363546513497566</Item>
+		<Item Name="pii" Type="String">0363546513497566</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/0363546513497566</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2013/08/10 06:00</Item>
+		<Item Name="pubmed" Type="Date">2013/08/10 06:00</Item>
+		<Item Name="medline" Type="Date">2014/10/17 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2014/09/15 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">42</Item>
+	<Item Name="FullJournalName" Type="String">The American journal of sports medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/0363546513497566</Item>
+	<Item Name="SO" Type="String">2014 Feb;42(2):492-9</Item>
+</DocSum>
+
+<DocSum>
+	<Id>18922696</Id>
+	<Item Name="PubDate" Type="Date">2009 Feb</Item>
+	<Item Name="EPubDate" Type="Date">2008 Oct 14</Item>
+	<Item Name="Source" Type="String">Gait Posture</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Murley GS</Item>
+		<Item Name="Author" Type="String">Landorf KB</Item>
+		<Item Name="Author" Type="String">Menz HB</Item>
+		<Item Name="Author" Type="String">Bird AR</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Bird AR</Item>
+	<Item Name="Title" Type="String">Effect of foot posture, foot orthoses and footwear on lower limb muscle activity during walking and running: a systematic review.</Item>
+	<Item Name="Volume" Type="String">29</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">172-87</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9416830</Item>
+	<Item Name="ISSN" Type="String">0966-6362</Item>
+	<Item Name="ESSN" Type="String">1879-2219</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">18922696</Item>
+		<Item Name="doi" Type="String">10.1016/j.gaitpost.2008.08.015</Item>
+		<Item Name="pii" Type="String">S0966-6362(08)00261-0</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.gaitpost.2008.08.015</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2008/04/06 00:00</Item>
+		<Item Name="revised" Type="Date">2008/08/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2008/08/25 00:00</Item>
+		<Item Name="pubmed" Type="Date">2008/10/17 09:00</Item>
+		<Item Name="medline" Type="Date">2009/06/12 09:00</Item>
+		<Item Name="entrez" Type="Date">2008/10/17 09:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Gait &amp; posture</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.gaitpost.2008.08.015</Item>
+	<Item Name="SO" Type="String">2009 Feb;29(2):172-87</Item>
+</DocSum>
+
+<DocSum>
+	<Id>16464119</Id>
+	<Item Name="PubDate" Type="Date">2006</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Sports Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zelle BA</Item>
+		<Item Name="Author" Type="String">Brucker PU</Item>
+		<Item Name="Author" Type="String">Feng MT</Item>
+		<Item Name="Author" Type="String">Fu FH</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Fu FH</Item>
+	<Item Name="Title" Type="String">Anatomical double-bundle anterior cruciate ligament reconstruction.</Item>
+	<Item Name="Volume" Type="String">36</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">99-108</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8412297</Item>
+	<Item Name="ISSN" Type="String">0112-1642</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">16464119</Item>
+		<Item Name="doi" Type="String">10.2165/00007256-200636020-00001</Item>
+		<Item Name="pii" Type="String">3621</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.2165/00007256-200636020-00001</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2006/02/09 09:00</Item>
+		<Item Name="medline" Type="Date">2006/07/06 09:00</Item>
+		<Item Name="entrez" Type="Date">2006/02/09 09:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Sports medicine (Auckland, N.Z.)</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2006;36(2):99-108</Item>
+</DocSum>
+
+<DocSum>
+	<Id>10355342</Id>
+	<Item Name="PubDate" Type="Date">1999 Apr</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Unfallchirurg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Willy C</Item>
+		<Item Name="Author" Type="String">Sterk J</Item>
+		<Item Name="Author" Type="String">Völker HU</Item>
+		<Item Name="Author" Type="String">Benesch S</Item>
+		<Item Name="Author" Type="String">Gerngross H</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Gerngross H</Item>
+	<Item Name="Title" Type="String">[The significance of intracompartmental pressure values for the diagnosis of chronic functional compartment syndrome. A meta-analysis of research studies of pressures in anterior M. tibialis during exercise stress].</Item>
+	<Item Name="Volume" Type="String">102</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">267-77</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">German</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8502736</Item>
+	<Item Name="ISSN" Type="String">0177-5537</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">English Abstract</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">10355342</Item>
+		<Item Name="doi" Type="String">10.1007/s001130050402</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s001130050402</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">1999/06/04 00:00</Item>
+		<Item Name="medline" Type="Date">1999/06/04 00:01</Item>
+		<Item Name="entrez" Type="Date">1999/06/04 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Der Unfallchirurg</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">1999 Apr;102(4):267-77</Item>
+</DocSum>
+
+</eSummaryResult>
