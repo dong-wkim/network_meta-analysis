@@ -1,3 +1,26 @@
+<style>
+  .text {
+    white-space: pre;
+  }
+</style>
+
+<div style="font-family:Times New Roman;float:center;"><p>What is the optimal graft choice for anterior cruciate ligament reconstruction surgery?</p></div>
+
+<div align="center">
+	<a href="https://dongwkim.com"><img src="logo.svg" alt="Logo" width="200" height="200"></a><br>
+	<font size="20" style="font-family:Times New Roman;font-variant: small-caps;">  Network Meta-Analysis</font><br>
+</div>
+
+</div>	
+<br>
+<hline></hline>
+<font size = "1em">
+<sup>1</sup> Department of Anatomy, Jagiellonian University, Kraków, Poland  <br/>
+<sup>2</sup> Whiting College of Engineering, Johns Hopkins University, Baltimore, MD, United States  <br/>
+<sup>3</sup> Harvard Dataverse, Harvard University, Cambridge, MA, United States
+</font>
+</div>
+
 <details><summary>Table of Contents</summary>
     
 <a id="toc"></a>
