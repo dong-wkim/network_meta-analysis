@@ -1,4 +1,3 @@
-::: {#60a2cb4f-08fd-4b71-beca-29f72e57b338 .cell .markdown}
 <!-- Notes:
 
 Read this and follow the steps to organize and stuff.
@@ -7,9 +6,7 @@ https://medium.com/@caneuenschwander/how-to-turn-a-messy-jupyter-notebook-into-a
 
 
 -->
-:::
 
-::: {#3963aa21-61c3-448e-9a26-f21b97d39bba .cell .markdown}
 <style>
   .text {
     white-space: pre;
@@ -25,16 +22,12 @@ https://medium.com/@caneuenschwander/how-to-turn-a-messy-jupyter-notebook-into-a
     <div align="center"><font size="3" style="font-family:Times New Roman;font-variant: small-caps;">doctor of philosophy</font></div>
 </div>
 
-`<br>`{=html} `</div>`{=html} `<br>`{=html} `<font size = "1em">`{=html}
-`<sup>`{=html}1`</sup>`{=html} Department of Anatomy, Jagiellonian
-University, Kraków, Poland `<br/>`{=html} `<sup>`{=html}2`</sup>`{=html}
-Whiting College of Engineering, Johns Hopkins University, Baltimore, MD,
-United States `<br/>`{=html} `<sup>`{=html}3`</sup>`{=html} Harvard
-Dataverse, Harvard University, Cambridge, MA, United States
-`</font>`{=html} `</div>`{=html}
-:::
+<br> </div> <br> <font size = "1em"> <sup>1</sup> Department of Anatomy,
+Jagiellonian University, Kraków, Poland <br/> <sup>2</sup> Whiting
+College of Engineering, Johns Hopkins University, Baltimore, MD, United
+States <br/> <sup>3</sup> Harvard Dataverse, Harvard University,
+Cambridge, MA, United States </font> </div>
 
-::: {#1370ab4e-67a5-4962-b418-90da4313b85b .cell .markdown}
 <div>
 <details>
     <summary style="font-family:Times New Roman;">Table of Contents</summary>  
@@ -592,46 +585,114 @@ information in full detail for items in this section.
 
 
 </details>
-:::
 
-::: {#a57fbc61-c21b-45aa-b0ff-7da6ef6ca746 .cell .markdown}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                  pubmed                                                                                                                                                                       embase                                                                                                                                                                  web of science                                                                                
-  ------------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----
-  patellar     [pm_bptb](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_bptb.csv)`<br>`{=html}`<sup>`{=html}(*n* = [em_bptb](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_bptb.csv)`<br>`{=html}`<sup>`{=html}(*n* = [wos_bptb](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_bptb.csv)`<br>`{=html}`<sup>`{=html}(*n* = 
-                                                                                           190)`</sup>`{=html}                                                                                                                                                           73)`</sup>`{=html}                                                                                                                                                          186)`</sup>`{=html}                                                                             
-
-  hamstring      [pm_ht](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_ht.csv)`<br>`{=html}`<sup>`{=html}(*n* =     [em_ht](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_ht.csv)`<br>`{=html}`<sup>`{=html}(*n* =      [wos_ht](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_ht.csv)`<br>`{=html}`<sup>`{=html}(*n*    
-                                                                                           202)`</sup>`{=html}                                                                                                                                                           97)`</sup>`{=html}                                                                                                                                                         =253)`</sup>`{=html}                                                                             
-
-  quadriceps     [pm_qt](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_qt.csv)`<br>`{=html}`<sup>`{=html}(*n* =     [em_qt](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_qt.csv)`<br>`{=html}`<sup>`{=html}(*n* =     [wos_qt](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_qt.csv)`<br>`{=html}`<sup>`{=html}(*n* =   
-                                                                                           165)`</sup>`{=html}                                                                                                                                                          114)`</sup>`{=html}                                                                                                                                                          70)`</sup>`{=html}                                                                              
-
-  peroneus      [pm_plt](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_plt.csv)`<br>`{=html}`<sup>`{=html}(*n* =   [em_plt](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_plt.csv)`<br>`{=html}`<sup>`{=html}(*n* =   [wos_plt](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_plt.csv)`<br>`{=html}`<sup>`{=html}(*n* =  
-  longus                                                                                    2)`</sup>`{=html}                                                                                                                                                            25)`</sup>`{=html}                                                                                                                                                           4)`</sup>`{=html}                                                                              
-
-  Achilles       [pm_at](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_at.csv)`<br>`{=html}`<sup>`{=html}(*n* =     [em_at](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_at.csv)`<br>`{=html}`<sup>`{=html}(*n* =     [wos_at](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_at.csv)`<br>`{=html}`<sup>`{=html}(*n* =   
-                                                                                            7)`</sup>`{=html}                                                                                                                                                            5)`</sup>`{=html}                                                                                                                                                           10)`</sup>`{=html}                                                                              
-
-  tibialis       [pm_ta](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_ta.csv)`<br>`{=html}`<sup>`{=html}(*n* =     [em_ta](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_ta.csv)`<br>`{=html}`<sup>`{=html}(*n* =     [wos_ta](https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_ta.csv)`<br>`{=html}`<sup>`{=html}(*n* =   
-                                                                                            7)`</sup>`{=html}                                                                                                                                                            3)`</sup>`{=html}                                                                                                                                                            8)`</sup>`{=html}                                                                              
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:::
-
-::: {#1d80c0a7-7085-4f66-92e9-c9888cfcf523 .cell .markdown}
+<table>
+<colgroup>
+<col style="width: 2%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
+<col style="width: 6%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: center;">pubmed</th>
+<th style="text-align: center;">embase</th>
+<th style="text-align: center;">web of science</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">patellar</td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_bptb.csv">pm_bptb</a><br><sup>(<em>n</em>
+= 190)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_bptb.csv">em_bptb</a><br><sup>(<em>n</em>
+= 73)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_bptb.csv">wos_bptb</a><br><sup>(<em>n</em>
+= 186)</sup></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: left;">hamstring</td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_ht.csv">pm_ht</a><br><sup>(<em>n</em>
+= 202)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_ht.csv">em_ht</a><br><sup>(<em>n</em>
+= 97)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_ht.csv">wos_ht</a><br><sup>(<em>n</em>
+=253)</sup></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: left;">quadriceps</td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_qt.csv">pm_qt</a><br><sup>(<em>n</em>
+= 165)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_qt.csv">em_qt</a><br><sup>(<em>n</em>
+= 114)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_qt.csv">wos_qt</a><br><sup>(<em>n</em>
+= 70)</sup></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: left;">peroneus longus</td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_plt.csv">pm_plt</a><br><sup>(<em>n</em>
+= 2)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_plt.csv">em_plt</a><br><sup>(<em>n</em>
+= 25)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_plt.csv">wos_plt</a><br><sup>(<em>n</em>
+= 4)</sup></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: left;">Achilles</td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_at.csv">pm_at</a><br><sup>(<em>n</em>
+= 7)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_at.csv">em_at</a><br><sup>(<em>n</em>
+= 5)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_at.csv">wos_at</a><br><sup>(<em>n</em>
+= 10)</sup></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: left;">tibialis</td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//pubmed/pm_ta.csv">pm_ta</a><br><sup>(<em>n</em>
+= 7)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//embase/em_ta.csv">em_ta</a><br><sup>(<em>n</em>
+= 3)</sup></td>
+<td style="text-align: center;"><a
+href="https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search//wos/wos_ta.csv">wos_ta</a><br><sup>(<em>n</em>
+= 8)</sup></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ------------------------------------------------------------------------
 
-`<a id="systematic-review">`{=html}`</a>`{=html}
+<a id="systematic-review"></a>
 
 <h1 align="center" style="font-family:Times New Roman;font-variant:small-caps;">Systematic Review</h1>
-:::
 
-::: {#21087bf9-4181-4397-8e10-dee41e958637 .cell .markdown}
 Define directory structure and store paths as global variables.
-:::
 
-::: {#1c51cdb3-ee2e-4fd9-9fb4-971278dfdeae .cell .markdown}
     ./research/
     ├── ./research/systematic_review/
     |   |   
@@ -670,112 +731,84 @@ Define directory structure and store paths as global variables.
     ├── ./research/README.ipynb
     ├── ./research/docs
     └── ./research/src
-:::
 
-::: {#313ab029-4543-4d62-9052-0f678a537ccc .cell .markdown}
 Install `PyPI` modules in `requirements.txt`.
-:::
 
-::: {#32daa4dc-d5f9-4ad8-8468-227356840bd7 .cell .code}
-``` python
-%pip install -q pandas mermaid-py biopython
+    %pip install -q pandas mermaid-py biopython
 
-!cd .venv; Scripts/Activate.ps1 
-!pip install -r requirements.txt
-```
-:::
+    !cd .venv; Scripts/Activate.ps1 
+    !pip install -r requirements.txt
 
-::: {#eedfe910-f3b3-487f-879b-6928801e7908 .cell .markdown}
 Exclude certain files from syncing with remote github repository with
 `gitignore` file.
-:::
 
-::: {#b3db5113-25fd-41c2-8517-2adc1e3d9048 .cell .code execution_count="2"}
-``` python
-ignore = f""".venv/
-*/*.gsheet
-*/*.gdoc"""
+    ignore = f""".venv/
+    */*.gsheet
+    */*.gdoc"""
 
-gitignore = ['.venv/', '.gsheet', '.gdoc']
-ignore = "\n".join(gitignore)
-with open(f"./.gitignore", "w") as f:
-    f.write(ignore)
-```
-:::
+    gitignore = ['.venv/', '.gsheet', '.gdoc']
+    ignore = "\n".join(gitignore)
+    with open(f"./.gitignore", "w") as f:
+        f.write(ignore)
 
-::: {#f1cedad7-1235-4008-9dbb-5f34414c77bd .cell .markdown}
 Import the necessary modules.
-:::
 
-::: {#ee98e7bc-08ac-45ca-b0fd-bacd14a99af3 .cell .code execution_count="3"}
-``` python
-import subprocess
-import sys
-import os
-import pandas as pd
-from Bio import Entrez, Medline
-import ssl
-import certifi
-import re
-from pathlib import Path
-```
-:::
+    import subprocess
+    import sys
+    import os
+    import pandas as pd
+    from Bio import Entrez, Medline
+    import ssl
+    import certifi
+    import re
+    from pathlib import Path
 
-::: {#f762c238-20bd-4098-a90c-ab68e29a4caf .cell .markdown}
 Set absolute directory paths for important sub-project folders as
 variables in the global environment for use in scripts downstream and
 make them in order to start the project.
-:::
 
-::: {#2edd3fb9-c57f-4858-83d3-056e44a9caff .cell .code execution_count="4"}
-``` python
-root = os.getcwd()
-folders = {
-"systematic_review": f"{root}/systematic_review",
-    "protocol": f"{root}/systematic_review/protocol",
-        "prospero": f"{root}/systematic_review/protocol/prospero",
-        "cochrane": f"{root}/systematic_review/protocol/cochrane",
-    "search_strategy": f"{root}/systematic_review/search_strategy",
-        "search_strategy_pubmed": f"{root}/systematic_review/search_strategy/pubmed/",
-        "search_strategy_embase": f"{root}/systematic_review/search_strategy/embase/",
-        "search_strategy_wos": f"{root}/systematic_review/search_strategy/wos/",
-    "search": f"{root}/systematic_review/search",
-        "search_pubmed": f"{root}/systematic_review/search/pubmed/",
-        "search_embase": f"{root}/systematic_review/search/embase/",
-        "search_wos": f"{root}/systematic_review/search/wos/",
-    "deduplication": f"{root}/systematic_review/deduplication/",
-    "screening": f"{root}/systematic_review/screening/",
-        "title_abstract": f"{root}/systematic_review/screening/title_abstract_screening", 
-        "pdf": f"{root}/systematic_review/screening/PDF",
-        "full_text": f"{root}/systematic_review/screening/full_text_screening", 
-"meta-analysis": f"{root}/meta-analysis",
-"manuscript": f"{root}/manuscript",    
+    root = os.getcwd()
+    folders = {
+    "systematic_review": f"{root}/systematic_review",
+        "protocol": f"{root}/systematic_review/protocol",
+            "prospero": f"{root}/systematic_review/protocol/prospero",
+            "cochrane": f"{root}/systematic_review/protocol/cochrane",
+        "search_strategy": f"{root}/systematic_review/search_strategy",
+            "search_strategy_pubmed": f"{root}/systematic_review/search_strategy/pubmed/",
+            "search_strategy_embase": f"{root}/systematic_review/search_strategy/embase/",
+            "search_strategy_wos": f"{root}/systematic_review/search_strategy/wos/",
+        "search": f"{root}/systematic_review/search",
+            "search_pubmed": f"{root}/systematic_review/search/pubmed/",
+            "search_embase": f"{root}/systematic_review/search/embase/",
+            "search_wos": f"{root}/systematic_review/search/wos/",
+        "deduplication": f"{root}/systematic_review/deduplication/",
+        "screening": f"{root}/systematic_review/screening/",
+            "title_abstract": f"{root}/systematic_review/screening/title_abstract_screening", 
+            "pdf": f"{root}/systematic_review/screening/PDF",
+            "full_text": f"{root}/systematic_review/screening/full_text_screening", 
+    "meta-analysis": f"{root}/meta-analysis",
+    "manuscript": f"{root}/manuscript",    
 
-}
+    }
 
-for var, f in folders.items():
-    directory = Path(f)
-    globals()[f"{var}"] = directory
-    os.makedirs(directory, exist_ok = True)
-```
-:::
+    for var, f in folders.items():
+        directory = Path(f)
+        globals()[f"{var}"] = directory
+        os.makedirs(directory, exist_ok = True)
 
-::: {#9be6a593-9d7d-4e2a-8575-75bba8868349 .cell .markdown}
-[top](#toc) \| [next](#search)\
-[search strategy](#search-strategy) \| [search](#search) \|
-[deduplication](#deduplication) \| [screening](#screening)
+[top](#toc) | [next](#search)  
+[search strategy](#search-strategy) | [search](#search) |
+[deduplication](#deduplication) | [screening](#screening)
 
-`<a id="search-strategy">`{=html}`</a>`{=html}
+<a id="search-strategy"></a>
 
 <div align="center">
 	<font size="5" style="font-family:Times New Roman;font-variant: small-caps;">Search Strategy</font><br>
 </div>
 
 ------------------------------------------------------------------------
-:::
 
-::: {#67f2d17b-cc9a-4159-8dad-2502363d22bc .cell .markdown}
-`<a Section_id="here">`{=html}`</a>`{=html}
+<a Section_id="here"></a>
 
 **Search strategies** were developed for randomized controlled trials:
 `pm_bptb.txt`, `pm_ht.txt`, `pm_qt.txt`, `pm_plt.txt`, `pm_at.txt` and
@@ -785,247 +818,230 @@ and posterior tendones, respectively. From the protocol that was
 developed, extract key terms from the eligibility criteria for inclusion
 and exclusion of studies in order to develop a *search strategy*.
 
-The search strategies were \'translated\' via regular expressions from
+The search strategies were 'translated' via regular expressions from
 PubMed syntax to Embase and Web of Science syntax, store them into the
 global environment, and save them as plain text files for importing and
 use as queries for search.
-:::
-
-::: {#26c864f8-342a-4886-9910-9d779f459198 .cell .markdown}
 
 ------------------------------------------------------------------------
-:::
 
-::: {#f37b080a-394b-4087-8fd4-74173057ca33 .cell .code}
-``` python
-acl = f"""("anterior cruciate ligament"[mh] OR "anterior cruciate ligament reconstruction"[tiab])"""
-rct = f"""("randomized controlled trial"[pt] OR "randomized controlled trial"[tiab] OR "randomised controlled trial"[tiab])"""
-reviews = f"""("review"[pt] OR "review"[tiab] OR "systematic review"[pt] OR "systematic review"[tiab] OR "meta-analysis"[pt] OR "meta-analysis"[tiab])"""
-outcomes = f"""("ikdc"[tiab] OR "lysholm"[tiab] OR "tegner"[tiab] OR (("instrumental laxity"[tiab] OR "kt-1000"[tiab] OR "kt-2000"[tiab] OR "rolimeter"[tiab]) OR "pivot shift"[tiab] OR "lachman"[tiab]) OR ("graft failure"[tiab] OR "graft rupture"[tiab]))"""
+    acl = f"""("anterior cruciate ligament"[mh] OR "anterior cruciate ligament reconstruction"[tiab])"""
+    rct = f"""("randomized controlled trial"[pt] OR "randomized controlled trial"[tiab] OR "randomised controlled trial"[tiab])"""
+    reviews = f"""("review"[pt] OR "review"[tiab] OR "systematic review"[pt] OR "systematic review"[tiab] OR "meta-analysis"[pt] OR "meta-analysis"[tiab])"""
+    outcomes = f"""("ikdc"[tiab] OR "lysholm"[tiab] OR "tegner"[tiab] OR (("instrumental laxity"[tiab] OR "kt-1000"[tiab] OR "kt-2000"[tiab] OR "rolimeter"[tiab]) OR "pivot shift"[tiab] OR "lachman"[tiab]) OR ("graft failure"[tiab] OR "graft rupture"[tiab]))"""
 
-bptb = f"""("bone-patellar tendon-bone"[tiab] OR "patellar tendon"[tiab] OR "bptb"[tiab])"""
-ht = f"""("hamstring tendon"[tiab] OR "semitendinosus"[tiab] OR "gracilis"[tiab])"""
-qt = f"""("quadriceps"[tiab] OR "qt"[tiab])"""
-plt = f"""("peroneus longus"[tiab] OR "fibularis longus"[tiab])"""
-at = f"""("achilles"[tiab])"""
-ta = f"""("tibialis anterior"[tiab] OR "tibialis posterior"[tiab])"""
+    bptb = f"""("bone-patellar tendon-bone"[tiab] OR "patellar tendon"[tiab] OR "bptb"[tiab])"""
+    ht = f"""("hamstring tendon"[tiab] OR "semitendinosus"[tiab] OR "gracilis"[tiab])"""
+    qt = f"""("quadriceps"[tiab] OR "qt"[tiab])"""
+    plt = f"""("peroneus longus"[tiab] OR "fibularis longus"[tiab])"""
+    at = f"""("achilles"[tiab])"""
+    ta = f"""("tibialis anterior"[tiab] OR "tibialis posterior"[tiab])"""
 
-subgroups = {"bptb": bptb, 
-             "ht": ht, 
-             "qt": qt, 
-             "plt": plt, 
-             "at": at, 
-             "ta": ta}
+    subgroups = {"bptb": bptb, 
+                 "ht": ht, 
+                 "qt": qt, 
+                 "plt": plt, 
+                 "at": at, 
+                 "ta": ta}
 
-queries = {}
+    queries = {}
 
-# Create pm_bptb, etc.
-for x, y in subgroups.items():
-    globals()[f"pm_{x}"] = f"{acl} AND {rct} AND {y} NOT {reviews}"
-    with open(f"{search_strategy}/pubmed/pm_{x}.txt", 'w') as f:
-        f.write(f"{acl} AND {rct} AND {y}")
-    #globals()[f"reviews_pm_{x}"] = f"{acl} AND {rct} AND {y}"
-    with open(f"{search_strategy}/pubmed/reviews_pm_{x}.txt", 'w') as f:
-        f.write(f"{acl} AND {reviews} AND {y} AND {outcomes}")
+    # Create pm_bptb, etc.
+    for x, y in subgroups.items():
+        globals()[f"pm_{x}"] = f"{acl} AND {rct} AND {y} NOT {reviews}"
+        with open(f"{search_strategy}/pubmed/pm_{x}.txt", 'w') as f:
+            f.write(f"{acl} AND {rct} AND {y}")
+        #globals()[f"reviews_pm_{x}"] = f"{acl} AND {rct} AND {y}"
+        with open(f"{search_strategy}/pubmed/reviews_pm_{x}.txt", 'w') as f:
+            f.write(f"{acl} AND {reviews} AND {y} AND {outcomes}")
 
-pm_queries = {
-    "bptb": pm_bptb,
-    "ht": pm_ht,
-    "qt": pm_qt,
-    "plt": pm_plt,
-    "at": pm_at,
-    "ta": pm_ta
-}
+    pm_queries = {
+        "bptb": pm_bptb,
+        "ht": pm_ht,
+        "qt": pm_qt,
+        "plt": pm_plt,
+        "at": pm_at,
+        "ta": pm_ta
+    }
 
-# Create em_bptb, etc.
-for x, y in pm_queries.items():
-    query = re.sub(r"\[(.*?)\]",":\\1", y)
-    query = re.sub(r"\:tiab",":ti,ab", query)
-    query = re.sub(r"\:mh","/exp", query)
-    query = re.sub(r"\:pt",":it,ti,ab", query)
-    query = re.sub(r'"',"'", query)
-    globals()[f"em_{x}"] = query
-    with open(f"{search_strategy}/embase/em_{x}.txt", 'w') as f:
-        f.write(query)
+    # Create em_bptb, etc.
+    for x, y in pm_queries.items():
+        query = re.sub(r"\[(.*?)\]",":\\1", y)
+        query = re.sub(r"\:tiab",":ti,ab", query)
+        query = re.sub(r"\:mh","/exp", query)
+        query = re.sub(r"\:pt",":it,ti,ab", query)
+        query = re.sub(r'"',"'", query)
+        globals()[f"em_{x}"] = query
+        with open(f"{search_strategy}/embase/em_{x}.txt", 'w') as f:
+            f.write(query)
 
-# Create wos_bptb, etc.
-for x, y in pm_queries.items():
-    query = re.sub(r'"(.*?)"\[(.*?)\]','\\2="\\1"', y)
-    query = re.sub(r'tiab="(.*?)"','(TI=(\\1) OR AB=(\\1))', query)
-    query = re.sub(r'mh="(.*?)"','(TMIC=(\\1))', query)
-    query = re.sub(r'pt="(.*?)"','(TS=(\\1))', query)
-    globals()[f"wos_{x}"] = query
+    # Create wos_bptb, etc.
+    for x, y in pm_queries.items():
+        query = re.sub(r'"(.*?)"\[(.*?)\]','\\2="\\1"', y)
+        query = re.sub(r'tiab="(.*?)"','(TI=(\\1) OR AB=(\\1))', query)
+        query = re.sub(r'mh="(.*?)"','(TMIC=(\\1))', query)
+        query = re.sub(r'pt="(.*?)"','(TS=(\\1))', query)
+        globals()[f"wos_{x}"] = query
 
-    with open(f"{search_strategy}/wos/wos_{x}.txt", 'w') as f:
-        f.write(query)
-```
-:::
+        with open(f"{search_strategy}/wos/wos_{x}.txt", 'w') as f:
+            f.write(query)
 
-:::: {#c87f8e5c-7b36-4ad0-8bf0-0bd897221065 .cell .code execution_count="104"}
-``` python
-import ipywidgets as widgets
-from IPython.display import display, clear_output
+    import ipywidgets as widgets
+    from IPython.display import display, clear_output
 
-entries = []
+    entries = []
 
-term_input = widgets.Text(
-    placeholder="Search term",
-    layout=widgets.Layout(width="75%")
-)
-
-field_tag = widgets.Dropdown(
-    options=[
-        ("MeSH term", "mh"),
-        ("Title", "ti"),
-        ("Title / Abstract", "tiab"),
-        ("Publication Type", "pt"),
-    ],
-    value="mh",
-    layout=widgets.Layout(width="15%")
-)
-
-boolean = widgets.Dropdown(
-    options=["OR", "AND", "NOT", ""],
-    value="",
-    layout=widgets.Layout(width="10%")
-)
-
-filename_input = widgets.Text(
-    placeholder="File name",
-    layout=widgets.Layout(width="75%")
-)
-
-add_button = widgets.Button(description="Add")
-delete_button = widgets.Button(description="Delete")
-clear_button = widgets.Button(description="Clear")
-save_button = widgets.Button(description="Save")
-
-output = widgets.Output()
-
-
-def build_query(entries):
-    parts = []
-    current_or_group = []
-
-    for entry in entries:
-        term = entry["term"].strip()
-        field = entry["field"]
-        op = entry["boolean"]
-
-        if not term:
-            continue
-
-        current_or_group.append(f'"{term}"[{field}]')
-
-        if op == "OR":
-            continue
-
-        parts.append("(" + " OR ".join(current_or_group) + ")")
-        current_or_group = []
-
-        if op in ("AND", "NOT"):
-            parts.append(op)
-
-    if current_or_group:
-        parts.append("(" + " OR ".join(current_or_group) + ")")
-
-    return " ".join(parts)
-
-
-def refresh_output(message=""):
-    with output:
-        clear_output()
-        if message:
-            print(message)
-            print()
-
-        print("Entries:")
-        if entries:
-            for i, entry in enumerate(entries, start=1):
-                op_label = entry["boolean"] if entry["boolean"] != "" else "END"
-                print(f'{i}. "{entry["term"]}" [{entry["field"]}] -> {op_label}')
-        else:
-            print("[none]")
-
-        print("\nCurrent query:")
-        query = build_query(entries)
-        print(query if query else "[empty]")
-
-
-def add_entry(_):
-    term = term_input.value.strip()
-    field = field_tag.value
-    op = boolean.value
-
-    if not term:
-        refresh_output("Please enter a term.")
-        return
-
-    entries.append({
-        "term": term,
-        "field": field,
-        "boolean": op
-    })
-
-    term_input.value = ""
-    refresh_output(f'Added: "{term}"[{field}] -> {op if op else "END"}')
-
-
-def delete_last_entry(_):
-    if not entries:
-        refresh_output("Nothing to delete.")
-        return
-
-    removed = entries.pop()
-    refresh_output(
-        f'Removed: "{removed["term"]}"[{removed["field"]}] -> {removed["boolean"] if removed["boolean"] else "END"}'
+    term_input = widgets.Text(
+        placeholder="Search term",
+        layout=widgets.Layout(width="75%")
     )
 
+    field_tag = widgets.Dropdown(
+        options=[
+            ("MeSH term", "mh"),
+            ("Title", "ti"),
+            ("Title / Abstract", "tiab"),
+            ("Publication Type", "pt"),
+        ],
+        value="mh",
+        layout=widgets.Layout(width="15%")
+    )
 
-def clear_all_entries(_):
-    entries.clear()
-    refresh_output("Cleared all entries.")
+    boolean = widgets.Dropdown(
+        options=["OR", "AND", "NOT", ""],
+        value="",
+        layout=widgets.Layout(width="10%")
+    )
+
+    filename_input = widgets.Text(
+        placeholder="File name",
+        layout=widgets.Layout(width="75%")
+    )
+
+    add_button = widgets.Button(description="Add")
+    delete_button = widgets.Button(description="Delete")
+    clear_button = widgets.Button(description="Clear")
+    save_button = widgets.Button(description="Save")
+
+    output = widgets.Output()
 
 
-def save_query(_):
-    query = build_query(entries)
-    filename = filename_input.value.strip() or "default_strategy"
-    filepath = f"{filename}.txt"
+    def build_query(entries):
+        parts = []
+        current_or_group = []
 
-    with open(filepath, "w", encoding="utf-8") as f:
-        f.write(query)
+        for entry in entries:
+            term = entry["term"].strip()
+            field = entry["field"]
+            op = entry["boolean"]
 
-    refresh_output(f"Saved query to {filepath}")
+            if not term:
+                continue
+
+            current_or_group.append(f'"{term}"[{field}]')
+
+            if op == "OR":
+                continue
+
+            parts.append("(" + " OR ".join(current_or_group) + ")")
+            current_or_group = []
+
+            if op in ("AND", "NOT"):
+                parts.append(op)
+
+        if current_or_group:
+            parts.append("(" + " OR ".join(current_or_group) + ")")
+
+        return " ".join(parts)
 
 
-add_button.on_click(add_entry)
-delete_button.on_click(delete_last_entry)
-clear_button.on_click(clear_all_entries)
-save_button.on_click(save_query)
+    def refresh_output(message=""):
+        with output:
+            clear_output()
+            if message:
+                print(message)
+                print()
 
-entry_row = widgets.HBox(
-    [term_input, field_tag, boolean],
-    layout=widgets.Layout(align_items="center", gap="10px")
-)
+            print("Entries:")
+            if entries:
+                for i, entry in enumerate(entries, start=1):
+                    op_label = entry["boolean"] if entry["boolean"] != "" else "END"
+                    print(f'{i}. "{entry["term"]}" [{entry["field"]}] -> {op_label}')
+            else:
+                print("[none]")
 
-controls = widgets.VBox([
-    filename_input,
-    entry_row,
-    widgets.HBox([add_button, delete_button, clear_button, save_button]),
-    output
-])
-display(controls)
-refresh_output("Ready.")
-```
+            print("\nCurrent query:")
+            query = build_query(entries)
+            print(query if query else "[empty]")
 
-::: {.output .display_data}
-``` json
-{"model_id":"825bfabe1d2d437e97552bd5664fc70d","version_major":2,"version_minor":0}
-```
-:::
-::::
 
-::: {#12c1ca76 .cell .markdown}
+    def add_entry(_):
+        term = term_input.value.strip()
+        field = field_tag.value
+        op = boolean.value
+
+        if not term:
+            refresh_output("Please enter a term.")
+            return
+
+        entries.append({
+            "term": term,
+            "field": field,
+            "boolean": op
+        })
+
+        term_input.value = ""
+        refresh_output(f'Added: "{term}"[{field}] -> {op if op else "END"}')
+
+
+    def delete_last_entry(_):
+        if not entries:
+            refresh_output("Nothing to delete.")
+            return
+
+        removed = entries.pop()
+        refresh_output(
+            f'Removed: "{removed["term"]}"[{removed["field"]}] -> {removed["boolean"] if removed["boolean"] else "END"}'
+        )
+
+
+    def clear_all_entries(_):
+        entries.clear()
+        refresh_output("Cleared all entries.")
+
+
+    def save_query(_):
+        query = build_query(entries)
+        filename = filename_input.value.strip() or "default_strategy"
+        filepath = f"{filename}.txt"
+
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write(query)
+
+        refresh_output(f"Saved query to {filepath}")
+
+
+    add_button.on_click(add_entry)
+    delete_button.on_click(delete_last_entry)
+    clear_button.on_click(clear_all_entries)
+    save_button.on_click(save_query)
+
+    entry_row = widgets.HBox(
+        [term_input, field_tag, boolean],
+        layout=widgets.Layout(align_items="center", gap="10px")
+    )
+
+    controls = widgets.VBox([
+        filename_input,
+        entry_row,
+        widgets.HBox([add_button, delete_button, clear_button, save_button]),
+        output
+    ])
+    display(controls)
+    refresh_output("Ready.")
+
+    {"model_id":"825bfabe1d2d437e97552bd5664fc70d","version_major":2,"version_minor":0}
+
 <form method="POST" action="/submit">
     <label for="term" align="left" style="font-family:Times New Roman;"></label>
     <input type="text" id="term" name="term" style="width:50%"></input> 
@@ -1043,88 +1059,13 @@ refresh_output("Ready.")
     <button type="submit" style="font-family:Times New Roman;">Add </button>
 </div>
 </form>
-:::
 
-:::: {#68c55cc5-c650-4c16-91fe-fd246c2afaa2 .cell .code execution_count="106"}
-``` python
-filename = input("Enter the file name of the search strategy: ")
-file = f"{search_strategy}/pubmed/{filename}.txt"
+    filename = input("Enter the file name of the search strategy: ")
+    file = f"{search_strategy}/pubmed/{filename}.txt"
 
-parts = []
-string = []
-
-while True:
-    term = input("Enter the search string: ")
-    field = input("Enter the field type: ")
-    string.append(f"'{term}'[{field}]")
-    boolean = input("Enter the Boolean operator (e.g., OR, AND, NOT): ")
-    
-    if boolean == "OR":
-        continue
-
-    parts.append("(" + " OR ".join(string) + ")")
-    string = []
-
-    if boolean == "":
-        break
-        
-    parts.append(boolean)
-    
-query = " ".join(parts) # query = search strategy FROM HERE
-with open(file, "w") as f:
-    f.write(query)
-
-with open(file, "r") as f:
-    query = f.read()
-
-query = f"{query}"
-```
-
-::: {.output .stream .stdin}
-    Enter the file name of the search strategy:  
-    Enter the search string:  
-    Enter the field type:  
-    Enter the Boolean operator (e.g., OR, AND, NOT):  
-:::
-::::
-
-::: {#d8fea9ab-4fbc-4357-b3fa-9777c1b5b977 .cell .markdown}
-[previous](#search-strategy) \| [top](#toc) \| [next](#deduplication)\
-[search strategy](#search-strategy) \| [search](#search) \|
-[deduplication](#deduplication) \| [screening](#screening)
-
-`<a id="search">`{=html}`</a>`{=html} `<div align="center">`{=html}
-`<font size="5" style="font-family:Times New Roman;font-variant: small-caps;">`{=html}Search`</font>`{=html}`<br>`{=html}
-`</div>`{=html}
-
-------------------------------------------------------------------------
-:::
-
-::: {#2a081847-333d-47ed-bdcc-3fbdbd45b078 .cell .markdown}
-A script to either create a search strategy using the terms, field tags,
-and Boolean operators and save them as plain text files or load already
-written and saved plain text files for import into the API search
-scripts. This uses the search strategies (e.g., `pm_bptb.txt`, search
-strategy in plain text written in PubMed syntax for bone-patellar
-tendon-bone (BPTB) subgroup search) and pulls data from PubMed to output
-PMIDs (`pmid_pm_bptb.txt`) and search results in XML (`pm_bptb.xml`) and
-parses this into CSV files (`pm_bptb.csv`).
-:::
-
-::::: {#1fda7696-1363-48ba-8834-abf37cf86cb9 .cell .code execution_count="11" slideshow="{\"slide_type\":\"\"}" tags="[]"}
-``` python
-ssl._create_default_https_context = lambda: ssl.create_default_context(
-    cafile=certifi.where()
-)
-# create search strategy using structured inputs
-
-question = input("Do you already have a search strategy file saved?")
-filename = input("Enter the file name of the search strategy: ")
-file = f"{search_strategy}/pubmed/{filename}.txt"
-
-if question == "no":
     parts = []
     string = []
+
     while True:
         term = input("Enter the search string: ")
         field = input("Enter the field type: ")
@@ -1133,10 +1074,10 @@ if question == "no":
         
         if boolean == "OR":
             continue
-    
+
         parts.append("(" + " OR ".join(string) + ")")
         string = []
-    
+
         if boolean == "":
             break
             
@@ -1145,109 +1086,167 @@ if question == "no":
     query = " ".join(parts) # query = search strategy FROM HERE
     with open(file, "w") as f:
         f.write(query)
-    
-with open(file, "r") as f:
-    query = f.read()
 
-query = f"{query}"
+    with open(file, "r") as f:
+        query = f.read()
 
-# use NCBI's e-utitilies to pull PMIDs using e-search.
+    query = f"{query}"
 
-Entrez.email = "dkim246@jhmi.edu"
-Entrez.api_key = 'bb1c481d8e167acd16f3616593c18b3aab08'
+    Enter the file name of the search strategy:  
+    Enter the search string:  
+    Enter the field type:  
+    Enter the Boolean operator (e.g., OR, AND, NOT):  
 
-handle = Entrez.esearch(db= "pubmed", 
-                        term = query, 
-                        usehistory = "y", 
-                        retmax = 2000,
-                        retmode = "xml")
+[previous](#search-strategy) | [top](#toc) | [next](#deduplication)  
+[search strategy](#search-strategy) | [search](#search) |
+[deduplication](#deduplication) | [screening](#screening)
 
-pmid = Entrez.read(handle)
+<a id="search"></a> <div align="center">
+<font size="5" style="font-family:Times New Roman;font-variant: small-caps;">Search</font><br>
+</div>
 
-pmid = pmid['IdList']
-pmid = ",".join(pmid) # list to string
-#with open(f"./data/pmid_{filename}.txt", 'w') as f:
-#    f.write(pmid)
-os.makedirs(f"{search}/pubmed/pmid/", exist_ok = True)
-with open(f"{search}/pubmed/pmid/{filename}.txt", 'w') as f:
-    f.write(pmid)
-handle.close()
+------------------------------------------------------------------------
 
-# ncbi e-summary
-handle = Entrez.esummary(db= "pubmed", 
-                         id = pmid, 
-                         retmode = "xml", 
-                         usehistory = "y", 
-                         retmax = 2000)
+A script to either create a search strategy using the terms, field tags,
+and Boolean operators and save them as plain text files or load already
+written and saved plain text files for import into the API search
+scripts. This uses the search strategies (e.g., `pm_bptb.txt`, search
+strategy in plain text written in PubMed syntax for bone-patellar
+tendon-bone (BPTB) subgroup search) and pulls data from PubMed to output
+PMIDs (`pmid_pm_bptb.txt`) and search results in XML (`pm_bptb.xml`) and
+parses this into CSV files (`pm_bptb.csv`).
 
-xml = handle.read()
-#xml_file = f"./data/{filename}.xml"
-os.makedirs(f"{search}/pubmed/xml/", exist_ok = True)
-xml_file = f"{search}/pubmed/xml/{filename}.xml"
-with open(xml_file, "wb") as f:
-    f.write(xml)   
-handle.close()
+    ssl._create_default_https_context = lambda: ssl.create_default_context(
+        cafile=certifi.where()
+    )
+    # create search strategy using structured inputs
 
-import xml.etree.ElementTree as ET
+    question = input("Do you already have a search strategy file saved?")
+    filename = input("Enter the file name of the search strategy: ")
+    file = f"{search_strategy}/pubmed/{filename}.txt"
 
-tree = ET.parse(f"{xml_file}")
-root = tree.getroot()
+    if question == "no":
+        parts = []
+        string = []
+        while True:
+            term = input("Enter the search string: ")
+            field = input("Enter the field type: ")
+            string.append(f"'{term}'[{field}]")
+            boolean = input("Enter the Boolean operator (e.g., OR, AND, NOT): ")
+            
+            if boolean == "OR":
+                continue
+        
+            parts.append("(" + " OR ".join(string) + ")")
+            string = []
+        
+            if boolean == "":
+                break
+                
+            parts.append(boolean)
+            
+        query = " ".join(parts) # query = search strategy FROM HERE
+        with open(file, "w") as f:
+            f.write(query)
+        
+    with open(file, "r") as f:
+        query = f.read()
 
-docsum = root[0]
+    query = f"{query}"
 
-def xml_parse(docsum):
-    df = {}
-    df["pmid"] = docsum.find("Id").text
-    for item in docsum.findall("Item"):
-        key = item.attrib.get("Name")
-        if item.attrib.get("Type") == "List":
-            values = [sub.text for sub in item.findall("Item") if sub.text]
-            df[key] = values
-        else:
-            df[key] = item.text
-    return df
-records = [xml_parse(doc) for doc in root.findall(".//DocSum")]
-df = pd.DataFrame(records)
+    # use NCBI's e-utitilies to pull PMIDs using e-search.
 
-os.makedirs(f"{search}/pubmed/", exist_ok = True)
-csv_file = f"{search}/pubmed/{filename}.csv"
-df.to_csv(csv_file, encoding = "utf-8")
+    Entrez.email = "dkim246@jhmi.edu"
+    Entrez.api_key = 'bb1c481d8e167acd16f3616593c18b3aab08'
 
-# using e-fetch, the abstracts are pulled
+    handle = Entrez.esearch(db= "pubmed", 
+                            term = query, 
+                            usehistory = "y", 
+                            retmax = 2000,
+                            retmode = "xml")
 
-handle = Entrez.efetch(
-    db="pubmed",
-    id=pmid,
-    rettype="medline",
-    retmode="text"
-)
+    pmid = Entrez.read(handle)
 
-text = list(Medline.parse(handle))
-data = pd.DataFrame(text)
-data_csv = data.map(lambda x: ", ".join(map(str, x)) if isinstance(x, list) else x)
-os.makedirs(f"{search}/pubmed/medline/", exist_ok = True)
-data_csv.to_csv(f"{search}/pubmed/medline/{filename.replace("pm","md")}.csv", index=False)
-globals()[f"{filename.replace("pm","md")}"] = data
-handle.close()
+    pmid = pmid['IdList']
+    pmid = ",".join(pmid) # list to string
+    #with open(f"./data/pmid_{filename}.txt", 'w') as f:
+    #    f.write(pmid)
+    os.makedirs(f"{search}/pubmed/pmid/", exist_ok = True)
+    with open(f"{search}/pubmed/pmid/{filename}.txt", 'w') as f:
+        f.write(pmid)
+    handle.close()
 
-abstracts = pd.DataFrame(text)[["PMID", "AB"]]
-abstracts.rename(columns = {"PMID":"pmid", "AB":"abstract"}, inplace = True)
-df = df.merge(abstracts, on = "pmid", how = "left")
-df['year'] = df['PubDate'].str[:4]
-globals()[f"{filename}"] = df
-csv_file = f"{search}/pubmed/{filename}.csv"
-df.to_csv(csv_file, encoding = "utf-8")
-num = len(df)
-print(f"Number of records found: {num}")
-data.info()
-```
+    # ncbi e-summary
+    handle = Entrez.esummary(db= "pubmed", 
+                             id = pmid, 
+                             retmode = "xml", 
+                             usehistory = "y", 
+                             retmax = 2000)
 
-::: {.output .stream .stdin}
+    xml = handle.read()
+    #xml_file = f"./data/{filename}.xml"
+    os.makedirs(f"{search}/pubmed/xml/", exist_ok = True)
+    xml_file = f"{search}/pubmed/xml/{filename}.xml"
+    with open(xml_file, "wb") as f:
+        f.write(xml)   
+    handle.close()
+
+    import xml.etree.ElementTree as ET
+
+    tree = ET.parse(f"{xml_file}")
+    root = tree.getroot()
+
+    docsum = root[0]
+
+    def xml_parse(docsum):
+        df = {}
+        df["pmid"] = docsum.find("Id").text
+        for item in docsum.findall("Item"):
+            key = item.attrib.get("Name")
+            if item.attrib.get("Type") == "List":
+                values = [sub.text for sub in item.findall("Item") if sub.text]
+                df[key] = values
+            else:
+                df[key] = item.text
+        return df
+    records = [xml_parse(doc) for doc in root.findall(".//DocSum")]
+    df = pd.DataFrame(records)
+
+    os.makedirs(f"{search}/pubmed/", exist_ok = True)
+    csv_file = f"{search}/pubmed/{filename}.csv"
+    df.to_csv(csv_file, encoding = "utf-8")
+
+    # using e-fetch, the abstracts are pulled
+
+    handle = Entrez.efetch(
+        db="pubmed",
+        id=pmid,
+        rettype="medline",
+        retmode="text"
+    )
+
+    text = list(Medline.parse(handle))
+    data = pd.DataFrame(text)
+    data_csv = data.map(lambda x: ", ".join(map(str, x)) if isinstance(x, list) else x)
+    os.makedirs(f"{search}/pubmed/medline/", exist_ok = True)
+    data_csv.to_csv(f"{search}/pubmed/medline/{filename.replace("pm","md")}.csv", index=False)
+    globals()[f"{filename.replace("pm","md")}"] = data
+    handle.close()
+
+    abstracts = pd.DataFrame(text)[["PMID", "AB"]]
+    abstracts.rename(columns = {"PMID":"pmid", "AB":"abstract"}, inplace = True)
+    df = df.merge(abstracts, on = "pmid", how = "left")
+    df['year'] = df['PubDate'].str[:4]
+    globals()[f"{filename}"] = df
+    csv_file = f"{search}/pubmed/{filename}.csv"
+    df.to_csv(csv_file, encoding = "utf-8")
+    num = len(df)
+    print(f"Number of records found: {num}")
+    data.info()
+
     Do you already have a search strategy file saved? yes
     Enter the file name of the search strategy:  pm_ta
-:::
 
-::: {.output .stream .stdout}
     Number of records found: 9
     <class 'pandas.DataFrame'>
     RangeIndex: 9 entries, 0 to 8
@@ -1297,334 +1296,314 @@ data.info()
      40  IP      6 non-null      str   
     dtypes: object(17), str(24)
     memory usage: 3.0+ KB
-:::
-:::::
 
-::: {#2874372b-6f87-482f-9b32-4b1cdf673499 .cell .markdown}
 The CSV files from the three databases were now cleaned, prepared, and
-transformed; this is otherwise known as \'data wrangling\' in Data
+transformed; this is otherwise known as 'data wrangling' in Data
 Science.
 
 Step 1: import the csv files and read them into the global environment
-for each subgroup and concat them into one dataframe per database.\
-Step 2: rename the columns for each dataframe.\
+for each subgroup and concat them into one dataframe per database.  
+Step 2: rename the columns for each dataframe.  
 Step 3: write them as csv files into the appropriate directory.
-:::
 
-::: {#820fad24-3a40-4d2d-9cc3-69f2f40a1c96 .cell .markdown}
-``` mermaid
----
-config:
-  theme: light
-  curve: step
----
+    ---
+    config:
+      theme: light
+      curve: step
+    ---
 
-flowchart TD
+    flowchart TD
 
-A1["pm_bptb"]
-B1["pm_ht"]
-C1["pm_qt"]
-D1["pm_plt"]
-E1["pm_at"]
-F1["pm_ta"]
+    A1["pm_bptb"]
+    B1["pm_ht"]
+    C1["pm_qt"]
+    D1["pm_plt"]
+    E1["pm_at"]
+    F1["pm_ta"]
 
-A2["em_bptb"]
-B2["em_ht"]
-C2["em_qt"]
-D2["em_plt"]
-E2["em_at"]
-F2["em_ta"]
+    A2["em_bptb"]
+    B2["em_ht"]
+    C2["em_qt"]
+    D2["em_plt"]
+    E2["em_at"]
+    F2["em_ta"]
 
-A3["wos_bptb"]
-B3["wos_ht"]
-C3["wos_qt"]
-D3["wos_plt"]
-E3["wos_at"]
-F3["wos_ta"]
+    A3["wos_bptb"]
+    B3["wos_ht"]
+    C3["wos_qt"]
+    D3["wos_plt"]
+    E3["wos_at"]
+    F3["wos_ta"]
 
-G["pubmed"]
-H["embase"]
-I["wos"]
+    G["pubmed"]
+    H["embase"]
+    I["wos"]
 
-A1 & B1 & C1 & D1 & E1 & F1 --> G
-A2 & B2 & C2 & D2 & E2 & F2 --> H
-A3 & B3 & C3 & D3 & E3 & F3 --> I
+    A1 & B1 & C1 & D1 & E1 & F1 --> G
+    A2 & B2 & C2 & D2 & E2 & F2 --> H
+    A3 & B3 & C3 & D3 & E3 & F3 --> I
 
-G & H & I --> J["records"]
-```
-:::
+    G & H & I --> J["records"]
 
-::: {#636d0011-31ef-4fb2-a8ad-fc642240ca0b .cell .code execution_count="17" scrolled="true"}
-``` python
-# import the exported csv files into the global environment
-# convert Web of Science exports to csv
+    # import the exported csv files into the global environment
+    # convert Web of Science exports to csv
 
-import pandas as pd
+    import pandas as pd
 
-subgroups = {
-    "bptb": "patellar",
-    "ht": "hamstring",
-    "qt": "quadriceps",
-    "plt": "peroneus",
-    "at": "achilles",
-    "ta": "tibialis"}
+    subgroups = {
+        "bptb": "patellar",
+        "ht": "hamstring",
+        "qt": "quadriceps",
+        "plt": "peroneus",
+        "at": "achilles",
+        "ta": "tibialis"}
 
-# For web of science, there is no CSV export option (go figure), so TSV files were converted in CSV files.
-for x, y in subgroups.items():
-    df = pd.read_csv(f"{search}/wos/tsv/wos_{x}.tsv", sep = '\t', encoding = "latin-1")
-    df.to_csv(f"{search}/wos/wos_{x}.csv", encoding = "utf-8", sep = ",", index = False)
-    globals()[f"wos_{x}"] = df
-    
-import pandas as pd 
-search = f"./systematic_review/search"
-
-databases = {"pm": "pubmed", 
-             "em": "embase", 
-             "wos": "wos"}
-
-subgroups = {"bptb": "patellar", 
-             "ht": "hamstring", 
-             "qt": "quadriceps", 
-             "plt": "peroneus", 
-             "at": "achilles", 
-             "ta": "tibialis"}
-
-# Step 1
-for a, b in databases.items():
-    dfs = []
+    # For web of science, there is no CSV export option (go figure), so TSV files were converted in CSV files.
     for x, y in subgroups.items():
-        df = pd.read_csv(f"{search}/{b}/{a}_{x}.csv", encoding = "utf-8")
-        df['source'] = b
-        df['subgroup'] = x
-        dfs.append(df)
-        globals()[f"{a}_{x}"] = df
-        data = pd.concat(dfs, ignore_index = True)
-        data.insert(0, "id", range(1, len(data) + 1))
-        data.to_csv(f"{search}/{b}/{b}.csv", encoding = "utf-8", index = False)
-        globals()[f"{b}"] = data
+        df = pd.read_csv(f"{search}/wos/tsv/wos_{x}.tsv", sep = '\t', encoding = "latin-1")
+        df.to_csv(f"{search}/wos/wos_{x}.csv", encoding = "utf-8", sep = ",", index = False)
+        globals()[f"wos_{x}"] = df
+        
+    import pandas as pd 
+    search = f"./systematic_review/search"
 
-databases = {"pm": "pubmed", 
-             "em": "embase", 
-             "wos": "wos"}
+    databases = {"pm": "pubmed", 
+                 "em": "embase", 
+                 "wos": "wos"}
 
-subgroups = {"bptb": "patellar", 
-             "ht": "hamstring", 
-             "qt": "quadriceps", 
-             "plt": "peroneus", 
-             "at": "achilles", 
-             "ta": "tibialis"}
+    subgroups = {"bptb": "patellar", 
+                 "ht": "hamstring", 
+                 "qt": "quadriceps", 
+                 "plt": "peroneus", 
+                 "at": "achilles", 
+                 "ta": "tibialis"}
 
-# Step 2: Rename columns
-embase.rename(columns = {
-	"Title" : "title",
-	"Original Title" : "original_title",
-	"Author Names" : "authors",
-	"Author Addresses" : "author_addresses",
-	"Correspondence Address" : "correspondence_address",
-	"Editors" : "editors",
-	"AiP/IP Entry Date" : "aip/ip_entry_date",
-	"Full Record Entry Date" : "full_record_entry_date",
-	"Source" : "journal_full",
-	"Source title" : "journal",
-	"Publication Year" : "year",
-	"Volume" : "volume",
-	"Issue" : "issue",
-	"First Page" : "first_page",
-	"Last Page" : "last_page",
-	"Date of Publication" : "date",
-	"Publication Type" : "study_design",
-	"Conference Name" : "conference_name",
-	"Conference Location" : "conference_location",
-	"Conference Date" : "conference_date",
-	"Conference Editors" : "conference_editors",
-	"ISSN" : "issn",
-	"ISBN" : "isbn",
-	"Name" : "name",
-	"Location" : "location",
-	"Date" : "date",
-	"Editors" : "editors",
-	"Book Publisher" : "book_publisher",
-	"Abstract" : "abstract",
-	"Original Abstract" : "original_abstract",
-	"Author Keywords" : "author_keywords",
-	"Emtree Drug Index Terms (Major Focus)" : "emtree_drug_index_terms_(major_focus)",
-	"Emtree Drug Index Terms" : "emtree_drug_index_terms",
-	"Emtree Medical Index Terms (Major Focus)" : "emtree_medical_index_terms_(major_focus)",
-	"Emtree Medical Index Terms" : "emtree_medical_index_terms",
-	"Drug Tradenames" : "drug_tradenames",
-	"Drug Manufacturer" : "drug_manufacturer",
-	"Device Tradenames" : "device_tradenames",
-	"Device Manufacturer" : "device_manufacturer",
-	"CAS Registry Numbers" : "cas_registry_numbers",
-	"Molecular Sequence Numbers" : "molecular_sequence_numbers",
-	"Embase Classification" : "embase_classification",
-	"Clinical Trial Numbers" : "clinical_trial_numbers",
-	"Article Language" : "language",
-	"Summary Language" : "summary_language",
-	"Embase Accession ID" : "embase_accession_id",
-	"Medline PMID" : "pmid",
-	"PUI" : "pui",
-	"DOI" : "doi",
-	"Full Text Link" : "full_text_link",
-	"Embase Link" : "embase_link",
-	"Open IJRL Link" : "open_ijrl_link",
-	"Copyright" : "copyright",
-	"source" : "source",
-	"subgroup" : "subgroup"
-}, inplace = True)
+    # Step 1
+    for a, b in databases.items():
+        dfs = []
+        for x, y in subgroups.items():
+            df = pd.read_csv(f"{search}/{b}/{a}_{x}.csv", encoding = "utf-8")
+            df['source'] = b
+            df['subgroup'] = x
+            dfs.append(df)
+            globals()[f"{a}_{x}"] = df
+            data = pd.concat(dfs, ignore_index = True)
+            data.insert(0, "id", range(1, len(data) + 1))
+            data.to_csv(f"{search}/{b}/{b}.csv", encoding = "utf-8", index = False)
+            globals()[f"{b}"] = data
 
-pubmed.rename(columns = {
-	"id" : "id",
-	"pmid" : "pmid",
-	"PubDate" : "date",
-	"EPubDate" : "epubdate",
-	"Source" : "journal_abbr",
-	"AuthorList" : "authors",
-	"LastAuthor" : "last_author",
-	"Title" : "title",
-	"Volume" : "volume",
-	"Issue" : "issue",
-	"Pages" : "pages",
-	"LangList" : "language",
-	"NlmUniqueID" : "nlmuniqueid",
-	"ISSN" : "issn",
-	"ESSN" : "essn",
-	"PubTypeList" : "study_design",
-	"RecordStatus" : "recordstatus",
-	"PubStatus" : "pubstatus",
-	"Articlelds" : "articlelds",
-	"DOI" : "doi",
-	"History" : "history",
-	"References" : "references",
-	"HasAbstract" : "hasabstract",
-	"PmcRefCount" : "pmcrefcount",
-	"FullJournalName" : "journal",
-	"ELocationID" : "elocationid",
-	"SO" : "so",
-	"abstract" : "abstract",
-	"source" : "source",
-	"subgroup" : "subgroup"
-}, inplace = True)
+    databases = {"pm": "pubmed", 
+                 "em": "embase", 
+                 "wos": "wos"}
 
-wos.rename(columns = {
-    "id": "id",
-	"ï»¿PT" : "study_design",
-	"AU" : "authors",
-	"BA" : "book_authors",
-	"BE" : "book_editors",
-	"GP" : "book_group_authors",
-	"AF" : "authors_full",
-	"BF" : "book_author_full_names",
-	"CA" : "group_authors",
-	"TI" : "title",
-	"SO" : "journal",
-	"SE" : "book_series_title",
-	"BS" : "book_series_subtitle",
-	"LA" : "language",
-	"DT" : "document_type",
-	"CT" : "conference_title",
-	"CY" : "conference_date",
-	"CL" : "conference_location",
-	"SP" : "conference_sponsor",
-	"HO" : "conference_host",
-	"DE" : "author_keywords",
-	"ID" : "keywords_plus",
-	"AB" : "abstract",
-	"C1" : "addresses",
-	"C3" : "affiliations",
-	"RP" : "reprint_addresses",
-	"EM" : "email_addresses",
-	"RI" : "researcher_ids",
-	"OI" : "orcids",
-	"FU" : "funding_orgs",
-	"FP" : "funding_name_preferred",
-	"FX" : "funding_text",
-	"CR" : "cited_references",
-	"NR" : "cited_reference_count",
-	"TC" : "times_cited, wos_core",
-	"Z9" : "times_cited, all_databases",
-	"U1" : "180_day_usage_count",
-	"U2" : "since_2013_usage_count",
-	"PU" : "publisher",
-	"PI" : "publisher_city",
-	"PA" : "publisher_address",
-	"SN" : "issn",
-	"EI" : "eissn",
-	"BN" : "isbn",
-	"J9" : "journal_9",
-	"JI" : "journal_abbr",
-	"PD" : "date",
-	"PY" : "year",
-	"VL" : "volume",
-	"IS" : "issue",
-	"PN" : "part_number",
-	"SU" : "supplement",
-	"SI" : "special_issue",
-	"MA" : "meeting_abstract",
-	"BP" : "start_page",
-	"EP" : "end_page",
-	"AR" : "article_number",
-	"DI" : "doi",
-	"DL" : "doi_link",
-	"D2" : "book_doi",
-	"EA" : "early_access_date",
-	"PG" : "number_of_pages",
-	"WC" : "wos_categories",
-	"WE" : "web_of_science_index",
-	"SC" : "research_areas",
-	"GA" : "ids_number",
-	"PM" : "pmid",
-	"OA" : "open_access_designations",
-	"HC" : "highly_cited_status",
-	"HP" : "hot_paper_status",
-	"DA" : "date_of_export",
-	"UT" : "ut (unique_wos_id)",
-	"source" : "source",
-    "subgroup": "subgroup"
-}, inplace = True)
+    subgroups = {"bptb": "patellar", 
+                 "ht": "hamstring", 
+                 "qt": "quadriceps", 
+                 "plt": "peroneus", 
+                 "at": "achilles", 
+                 "ta": "tibialis"}
 
-# Step 3: write the CSV files
-pubmed.to_csv(f"{search}/pubmed.csv", encoding = "utf-8")
-embase.to_csv(f"{search}/embase.csv", encoding = "utf-8")
-wos.to_csv(f"{search}/wos.csv", encoding = "latin-1")
-```
-:::
+    # Step 2: Rename columns
+    embase.rename(columns = {
+    	"Title" : "title",
+    	"Original Title" : "original_title",
+    	"Author Names" : "authors",
+    	"Author Addresses" : "author_addresses",
+    	"Correspondence Address" : "correspondence_address",
+    	"Editors" : "editors",
+    	"AiP/IP Entry Date" : "aip/ip_entry_date",
+    	"Full Record Entry Date" : "full_record_entry_date",
+    	"Source" : "journal_full",
+    	"Source title" : "journal",
+    	"Publication Year" : "year",
+    	"Volume" : "volume",
+    	"Issue" : "issue",
+    	"First Page" : "first_page",
+    	"Last Page" : "last_page",
+    	"Date of Publication" : "date",
+    	"Publication Type" : "study_design",
+    	"Conference Name" : "conference_name",
+    	"Conference Location" : "conference_location",
+    	"Conference Date" : "conference_date",
+    	"Conference Editors" : "conference_editors",
+    	"ISSN" : "issn",
+    	"ISBN" : "isbn",
+    	"Name" : "name",
+    	"Location" : "location",
+    	"Date" : "date",
+    	"Editors" : "editors",
+    	"Book Publisher" : "book_publisher",
+    	"Abstract" : "abstract",
+    	"Original Abstract" : "original_abstract",
+    	"Author Keywords" : "author_keywords",
+    	"Emtree Drug Index Terms (Major Focus)" : "emtree_drug_index_terms_(major_focus)",
+    	"Emtree Drug Index Terms" : "emtree_drug_index_terms",
+    	"Emtree Medical Index Terms (Major Focus)" : "emtree_medical_index_terms_(major_focus)",
+    	"Emtree Medical Index Terms" : "emtree_medical_index_terms",
+    	"Drug Tradenames" : "drug_tradenames",
+    	"Drug Manufacturer" : "drug_manufacturer",
+    	"Device Tradenames" : "device_tradenames",
+    	"Device Manufacturer" : "device_manufacturer",
+    	"CAS Registry Numbers" : "cas_registry_numbers",
+    	"Molecular Sequence Numbers" : "molecular_sequence_numbers",
+    	"Embase Classification" : "embase_classification",
+    	"Clinical Trial Numbers" : "clinical_trial_numbers",
+    	"Article Language" : "language",
+    	"Summary Language" : "summary_language",
+    	"Embase Accession ID" : "embase_accession_id",
+    	"Medline PMID" : "pmid",
+    	"PUI" : "pui",
+    	"DOI" : "doi",
+    	"Full Text Link" : "full_text_link",
+    	"Embase Link" : "embase_link",
+    	"Open IJRL Link" : "open_ijrl_link",
+    	"Copyright" : "copyright",
+    	"source" : "source",
+    	"subgroup" : "subgroup"
+    }, inplace = True)
 
-::: {#24d92b75-3253-4a8c-9f78-0b04e7ba9813 .cell .code execution_count="18" scrolled="true"}
-``` python
-databases = {
-    'pubmed': pubmed, 
-    'embase': embase,
-    'wos': wos
-}
+    pubmed.rename(columns = {
+    	"id" : "id",
+    	"pmid" : "pmid",
+    	"PubDate" : "date",
+    	"EPubDate" : "epubdate",
+    	"Source" : "journal_abbr",
+    	"AuthorList" : "authors",
+    	"LastAuthor" : "last_author",
+    	"Title" : "title",
+    	"Volume" : "volume",
+    	"Issue" : "issue",
+    	"Pages" : "pages",
+    	"LangList" : "language",
+    	"NlmUniqueID" : "nlmuniqueid",
+    	"ISSN" : "issn",
+    	"ESSN" : "essn",
+    	"PubTypeList" : "study_design",
+    	"RecordStatus" : "recordstatus",
+    	"PubStatus" : "pubstatus",
+    	"Articlelds" : "articlelds",
+    	"DOI" : "doi",
+    	"History" : "history",
+    	"References" : "references",
+    	"HasAbstract" : "hasabstract",
+    	"PmcRefCount" : "pmcrefcount",
+    	"FullJournalName" : "journal",
+    	"ELocationID" : "elocationid",
+    	"SO" : "so",
+    	"abstract" : "abstract",
+    	"source" : "source",
+    	"subgroup" : "subgroup"
+    }, inplace = True)
 
-for text, var in databases.items():
-    df = pd.DataFrame({
-        "id": var["id"],
-        "pmid": var["pmid"],
-        "source": var["source"],
-        "subgroup": var["subgroup"],
-        "doi": var["doi"],
-        "authors": var["authors"],
-        "journal": var["journal"],
-        "title": var["title"],
-        "abstract": var["abstract"],
-        "year": var["year"],
-        "language": var["language"]
-    })
-    df['pmid'] = round(df['pmid'],0)
-    df['pmid'] = df['pmid'].astype(str)
-    df['language'] = df['language'].str.replace(r"[\'\[\]]","", regex = True)
-    globals()[f"{text}"] = df
-```
-:::
+    wos.rename(columns = {
+        "id": "id",
+    	"ï»¿PT" : "study_design",
+    	"AU" : "authors",
+    	"BA" : "book_authors",
+    	"BE" : "book_editors",
+    	"GP" : "book_group_authors",
+    	"AF" : "authors_full",
+    	"BF" : "book_author_full_names",
+    	"CA" : "group_authors",
+    	"TI" : "title",
+    	"SO" : "journal",
+    	"SE" : "book_series_title",
+    	"BS" : "book_series_subtitle",
+    	"LA" : "language",
+    	"DT" : "document_type",
+    	"CT" : "conference_title",
+    	"CY" : "conference_date",
+    	"CL" : "conference_location",
+    	"SP" : "conference_sponsor",
+    	"HO" : "conference_host",
+    	"DE" : "author_keywords",
+    	"ID" : "keywords_plus",
+    	"AB" : "abstract",
+    	"C1" : "addresses",
+    	"C3" : "affiliations",
+    	"RP" : "reprint_addresses",
+    	"EM" : "email_addresses",
+    	"RI" : "researcher_ids",
+    	"OI" : "orcids",
+    	"FU" : "funding_orgs",
+    	"FP" : "funding_name_preferred",
+    	"FX" : "funding_text",
+    	"CR" : "cited_references",
+    	"NR" : "cited_reference_count",
+    	"TC" : "times_cited, wos_core",
+    	"Z9" : "times_cited, all_databases",
+    	"U1" : "180_day_usage_count",
+    	"U2" : "since_2013_usage_count",
+    	"PU" : "publisher",
+    	"PI" : "publisher_city",
+    	"PA" : "publisher_address",
+    	"SN" : "issn",
+    	"EI" : "eissn",
+    	"BN" : "isbn",
+    	"J9" : "journal_9",
+    	"JI" : "journal_abbr",
+    	"PD" : "date",
+    	"PY" : "year",
+    	"VL" : "volume",
+    	"IS" : "issue",
+    	"PN" : "part_number",
+    	"SU" : "supplement",
+    	"SI" : "special_issue",
+    	"MA" : "meeting_abstract",
+    	"BP" : "start_page",
+    	"EP" : "end_page",
+    	"AR" : "article_number",
+    	"DI" : "doi",
+    	"DL" : "doi_link",
+    	"D2" : "book_doi",
+    	"EA" : "early_access_date",
+    	"PG" : "number_of_pages",
+    	"WC" : "wos_categories",
+    	"WE" : "web_of_science_index",
+    	"SC" : "research_areas",
+    	"GA" : "ids_number",
+    	"PM" : "pmid",
+    	"OA" : "open_access_designations",
+    	"HC" : "highly_cited_status",
+    	"HP" : "hot_paper_status",
+    	"DA" : "date_of_export",
+    	"UT" : "ut (unique_wos_id)",
+    	"source" : "source",
+        "subgroup": "subgroup"
+    }, inplace = True)
 
-:::: {#fd216fd2-2ab6-43ac-b358-043b69e216e2 .cell .code execution_count="19"}
-``` python
-wos.info()
-```
+    # Step 3: write the CSV files
+    pubmed.to_csv(f"{search}/pubmed.csv", encoding = "utf-8")
+    embase.to_csv(f"{search}/embase.csv", encoding = "utf-8")
+    wos.to_csv(f"{search}/wos.csv", encoding = "latin-1")
 
-::: {.output .stream .stdout}
+    databases = {
+        'pubmed': pubmed, 
+        'embase': embase,
+        'wos': wos
+    }
+
+    for text, var in databases.items():
+        df = pd.DataFrame({
+            "id": var["id"],
+            "pmid": var["pmid"],
+            "source": var["source"],
+            "subgroup": var["subgroup"],
+            "doi": var["doi"],
+            "authors": var["authors"],
+            "journal": var["journal"],
+            "title": var["title"],
+            "abstract": var["abstract"],
+            "year": var["year"],
+            "language": var["language"]
+        })
+        df['pmid'] = round(df['pmid'],0)
+        df['pmid'] = df['pmid'].astype(str)
+        df['language'] = df['language'].str.replace(r"[\'\[\]]","", regex = True)
+        globals()[f"{text}"] = df
+
+    wos.info()
+
     <class 'pandas.DataFrame'>
     RangeIndex: 531 entries, 0 to 530
     Data columns (total 11 columns):
@@ -1643,153 +1622,66 @@ wos.info()
      10  language  531 non-null    str  
     dtypes: int64(2), str(9)
     memory usage: 45.8 KB
-:::
-::::
 
-::: {#aac9bb35-f65a-40a3-9f7c-fb96c8c6c638 .cell .code execution_count="20"}
-``` python
 
-wos['authors'] = wos['authors'].str.replace(r"[\'\[\].,]","", regex = True)
-wos['authors'] = wos['authors'].str.replace(r";",",", regex = True)
-```
-:::
+    wos['authors'] = wos['authors'].str.replace(r"[\'\[\].,]","", regex = True)
+    wos['authors'] = wos['authors'].str.replace(r";",",", regex = True)
 
-:::: {#bfb89528-6aaf-4669-8087-a24896b6f1e7 .cell .code execution_count="21"}
-``` python
-pubmed['authors'] = pubmed['authors'].str.replace(r"[\'\[\]]","", regex = True)
-pubmed['journal'] = pubmed['journal'].str.replace(r"[\'\[,\]]","", regex = True)
-pubmed['journal'] = pubmed['journal'].str.replace(r"\(.*?\)","", regex=True)
-pubmed['journal'] = pubmed['journal'].str.capitalize()
-pubmed.head()
-```
+    pubmed['authors'] = pubmed['authors'].str.replace(r"[\'\[\]]","", regex = True)
+    pubmed['journal'] = pubmed['journal'].str.replace(r"[\'\[,\]]","", regex = True)
+    pubmed['journal'] = pubmed['journal'].str.replace(r"\(.*?\)","", regex=True)
+    pubmed['journal'] = pubmed['journal'].str.capitalize()
+    pubmed.head()
 
-::: {.output .execute_result execution_count="21"}
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+       id      pmid  source subgroup                           doi  \
+    0   1  41562143  pubmed     bptb             10.1002/ksa.70275   
+    1   2  41536854  pubmed     bptb  10.1016/j.lanepe.2025.101561   
+    2   3  41522461  pubmed     bptb     10.1177/23259671251401596   
+    3   4  40308075  pubmed     bptb     10.1177/03635465251328609   
+    4   5  39886263  pubmed     bptb     10.1177/23259671241302348   
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
+                                                 authors  \
+    0  Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...   
+    1  Sonnery-Cottet B, Carrozzo A, Poilvache H, Fay...   
+    2  Johns WL, Voskeridjian A, Miltenberg B, Muchin...   
+    3  Rao N, Triana J, Avila A, Campbell KA, Alaia M...   
+    4  Lucidi GA, Agostinone P, Di Paolo S, Dal Fabbr...   
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>id</th>
-      <th>pmid</th>
-      <th>source</th>
-      <th>subgroup</th>
-      <th>doi</th>
-      <th>authors</th>
-      <th>journal</th>
-      <th>title</th>
-      <th>abstract</th>
-      <th>year</th>
-      <th>language</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1</td>
-      <td>41562143</td>
-      <td>pubmed</td>
-      <td>bptb</td>
-      <td>10.1002/ksa.70275</td>
-      <td>Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...</td>
-      <td>Knee surgery sports traumatology arthroscopy :...</td>
-      <td>Similar dynamic tibiofemoral movements during ...</td>
-      <td>PURPOSE: Dynamic tibiofemoral movements follow...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2</td>
-      <td>41536854</td>
-      <td>pubmed</td>
-      <td>bptb</td>
-      <td>10.1016/j.lanepe.2025.101561</td>
-      <td>Sonnery-Cottet B, Carrozzo A, Poilvache H, Fay...</td>
-      <td>The lancet regional health. europe</td>
-      <td>Anterior cruciate ligament reconstruction comb...</td>
-      <td>BACKGROUND: Anterior Cruciate Ligament (ACL) r...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>3</td>
-      <td>41522461</td>
-      <td>pubmed</td>
-      <td>bptb</td>
-      <td>10.1177/23259671251401596</td>
-      <td>Johns WL, Voskeridjian A, Miltenberg B, Muchin...</td>
-      <td>Orthopaedic journal of sports medicine</td>
-      <td>Regional Anesthesia Utilizing Liposomal Bupiva...</td>
-      <td>BACKGROUND: Perioperative nerve blocks are com...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>4</td>
-      <td>40308075</td>
-      <td>pubmed</td>
-      <td>bptb</td>
-      <td>10.1177/03635465251328609</td>
-      <td>Rao N, Triana J, Avila A, Campbell KA, Alaia M...</td>
-      <td>The american journal of sports medicine</td>
-      <td>Postoperative Pain and Opioid Usage With Combi...</td>
-      <td>BACKGROUND: Efforts to decrease pain, improve ...</td>
-      <td>2025</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>5</td>
-      <td>39886263</td>
-      <td>pubmed</td>
-      <td>bptb</td>
-      <td>10.1177/23259671241302348</td>
-      <td>Lucidi GA, Agostinone P, Di Paolo S, Dal Fabbr...</td>
-      <td>Orthopaedic journal of sports medicine</td>
-      <td>Long-term Outcomes After Anterior Cruciate Lig...</td>
-      <td>BACKGROUND: In recent years, lateral extra-art...</td>
-      <td>2025</td>
-      <td>English</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-:::
-::::
+                                                 journal  \
+    0  Knee surgery sports traumatology arthroscopy :...   
+    1                 The lancet regional health. europe   
+    2             Orthopaedic journal of sports medicine   
+    3            The american journal of sports medicine   
+    4             Orthopaedic journal of sports medicine   
 
-::::: {#65103fb4-0ddb-4cb0-be7f-fd827eff2e71 .cell .code execution_count="22"}
-``` python
-embase['authors'] = embase['authors'].dropna()
-embase['authors'] = embase['authors'].fillna("")
-embase['doi'] = embase['doi'].fillna("")
-embase['pmid'] = embase['pmid'].fillna("")
-embase['pmid'] = round(embase['pmid'],0)
-embase['pmid'] = embase['pmid'].astype(str).replace(r"\.0","",regex=True)
-embase['authors'] = embase['authors'].str.replace(r"[\'\[\].]","", regex = True)
-pubmed['journal'] = pubmed['journal'].str.replace(r"\(.*?\)","", regex=True)
-embase['journal'] = embase['journal'].str.replace(r"[\'\[,\]]","", regex = True)
-embase['journal'] = embase['journal'].str.capitalize()
+                                                   title  \
+    0  Similar dynamic tibiofemoral movements during ...   
+    1  Anterior cruciate ligament reconstruction comb...   
+    2  Regional Anesthesia Utilizing Liposomal Bupiva...   
+    3  Postoperative Pain and Opioid Usage With Combi...   
+    4  Long-term Outcomes After Anterior Cruciate Lig...   
 
-embase.info()
-embase.head()
-```
+                                                abstract  year language  
+    0  PURPOSE: Dynamic tibiofemoral movements follow...  2026  English  
+    1  BACKGROUND: Anterior Cruciate Ligament (ACL) r...  2026  English  
+    2  BACKGROUND: Perioperative nerve blocks are com...  2026  English  
+    3  BACKGROUND: Efforts to decrease pain, improve ...  2025  English  
+    4  BACKGROUND: In recent years, lateral extra-art...  2025  English  
 
-::: {.output .stream .stdout}
+    embase['authors'] = embase['authors'].dropna()
+    embase['authors'] = embase['authors'].fillna("")
+    embase['doi'] = embase['doi'].fillna("")
+    embase['pmid'] = embase['pmid'].fillna("")
+    embase['pmid'] = round(embase['pmid'],0)
+    embase['pmid'] = embase['pmid'].astype(str).replace(r"\.0","",regex=True)
+    embase['authors'] = embase['authors'].str.replace(r"[\'\[\].]","", regex = True)
+    pubmed['journal'] = pubmed['journal'].str.replace(r"\(.*?\)","", regex=True)
+    embase['journal'] = embase['journal'].str.replace(r"[\'\[,\]]","", regex = True)
+    embase['journal'] = embase['journal'].str.capitalize()
+
+    embase.info()
+    embase.head()
+
     <class 'pandas.DataFrame'>
     RangeIndex: 317 entries, 0 to 316
     Data columns (total 11 columns):
@@ -1808,533 +1700,236 @@ embase.head()
      10  language  317 non-null    str  
     dtypes: int64(2), str(9)
     memory usage: 27.4 KB
-:::
 
-::: {.output .execute_result execution_count="22"}
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+       id      pmid  source subgroup                        doi  \
+    0   1  41562143  embase     bptb          10.1002/ksa.70275   
+    1   2            embase     bptb  10.1177/23259671251401596   
+    2   3            embase     bptb                              
+    3   4  40308075  embase     bptb  10.1177/03635465251328609   
+    4   5            embase     bptb   10.1177/2325967125S00004   
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
+                                                 authors  \
+    0  Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...   
+    1  Johns WL, Voskeridjian A, Miltenberg B, Muchin...   
+    2                                                      
+    3  Rao N, Triana J, Avila A, Campbell KA, Alaia M...   
+    4  Miltenberg B, Voskeridjian A, Dodson C, Ciccot...   
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>id</th>
-      <th>pmid</th>
-      <th>source</th>
-      <th>subgroup</th>
-      <th>doi</th>
-      <th>authors</th>
-      <th>journal</th>
-      <th>title</th>
-      <th>abstract</th>
-      <th>year</th>
-      <th>language</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1</td>
-      <td>41562143</td>
-      <td>embase</td>
-      <td>bptb</td>
-      <td>10.1002/ksa.70275</td>
-      <td>Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...</td>
-      <td>Knee surgery sports traumatology arthroscopy :...</td>
-      <td>Similar dynamic tibiofemoral movements during ...</td>
-      <td>PURPOSE: Dynamic tibiofemoral movements follow...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2</td>
-      <td></td>
-      <td>embase</td>
-      <td>bptb</td>
-      <td>10.1177/23259671251401596</td>
-      <td>Johns WL, Voskeridjian A, Miltenberg B, Muchin...</td>
-      <td>Orthopaedic journal of sports medicine</td>
-      <td>Regional Anesthesia Utilizing Liposomal Bupiva...</td>
-      <td>Background: Perioperative nerve blocks are com...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>3</td>
-      <td></td>
-      <td>embase</td>
-      <td>bptb</td>
-      <td></td>
-      <td></td>
-      <td>Clinicaltrials.gov</td>
-      <td>Extended Post-Operative Oral Tranexamic Acid D...</td>
-      <td>Brief SummaryThis is a prospective, multi-cent...</td>
-      <td>2025</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>4</td>
-      <td>40308075</td>
-      <td>embase</td>
-      <td>bptb</td>
-      <td>10.1177/03635465251328609</td>
-      <td>Rao N, Triana J, Avila A, Campbell KA, Alaia M...</td>
-      <td>The american journal of sports medicine</td>
-      <td>Postoperative Pain and Opioid Usage With Combi...</td>
-      <td>BACKGROUND: Efforts to decrease pain, improve ...</td>
-      <td>2025</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>5</td>
-      <td></td>
-      <td>embase</td>
-      <td>bptb</td>
-      <td>10.1177/2325967125S00004</td>
-      <td>Miltenberg B, Voskeridjian A, Dodson C, Ciccot...</td>
-      <td>Orthopaedic journal of sports medicine</td>
-      <td>Liposomal Bupivacaine-Based Regional Anesthesi...</td>
-      <td>Objectives: Femoral nerve blockade (FNB), addu...</td>
-      <td>2025</td>
-      <td>English</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-:::
-:::::
+                                                 journal  \
+    0  Knee surgery sports traumatology arthroscopy :...   
+    1             Orthopaedic journal of sports medicine   
+    2                                 Clinicaltrials.gov   
+    3            The american journal of sports medicine   
+    4             Orthopaedic journal of sports medicine   
 
-:::: {#3f12c27e-b6c8-4f68-9464-9b9060dcab28 .cell .code execution_count="23"}
-``` python
-wos['journal'] = wos['journal'].str.replace(r"[\'\[,\]]","", regex = True)
-wos['journal'] = wos['journal'].str.capitalize()
-wos.head()
-```
+                                                   title  \
+    0  Similar dynamic tibiofemoral movements during ...   
+    1  Regional Anesthesia Utilizing Liposomal Bupiva...   
+    2  Extended Post-Operative Oral Tranexamic Acid D...   
+    3  Postoperative Pain and Opioid Usage With Combi...   
+    4  Liposomal Bupivacaine-Based Regional Anesthesi...   
 
-::: {.output .execute_result execution_count="23"}
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+                                                abstract  year language  
+    0  PURPOSE: Dynamic tibiofemoral movements follow...  2026  English  
+    1  Background: Perioperative nerve blocks are com...  2026  English  
+    2  Brief SummaryThis is a prospective, multi-cent...  2025  English  
+    3  BACKGROUND: Efforts to decrease pain, improve ...  2025  English  
+    4  Objectives: Femoral nerve blockade (FNB), addu...  2025  English  
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
+    wos['journal'] = wos['journal'].str.replace(r"[\'\[,\]]","", regex = True)
+    wos['journal'] = wos['journal'].str.capitalize()
+    wos.head()
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>id</th>
-      <th>pmid</th>
-      <th>source</th>
-      <th>subgroup</th>
-      <th>doi</th>
-      <th>authors</th>
-      <th>journal</th>
-      <th>title</th>
-      <th>abstract</th>
-      <th>year</th>
-      <th>language</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1</td>
-      <td>41758993.0</td>
-      <td>wos</td>
-      <td>bptb</td>
-      <td>10.1002/ksa.70354</td>
-      <td>Boer BC, Brouwer RW, Heuvel JO, de Vries AJ, v...</td>
-      <td>Knee surgery sports traumatology arthroscopy</td>
-      <td>Quadriceps tendon autograft is not inferior to...</td>
-      <td>Purpose: To evaluate the effectiveness of quad...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2</td>
-      <td>41733021.0</td>
-      <td>wos</td>
-      <td>bptb</td>
-      <td>10.1177/03635465261415842</td>
-      <td>Petit CB, Hussain ZB, Read PJ, Mcpherson AL, P...</td>
-      <td>American journal of sports medicine</td>
-      <td>Graft Failure Rates in Bone-Patellar Tendon-Bo...</td>
-      <td>Background: Anterior cruciate ligament reconst...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>3</td>
-      <td>41717284.0</td>
-      <td>wos</td>
-      <td>bptb</td>
-      <td>10.1002/jeo2.70665</td>
-      <td>Heinz M, Lettner J, Topkarci YB, KrÃ³likowska ...</td>
-      <td>Journal of experimental orthopaedics</td>
-      <td>Hamstring autografts favour knee extension str...</td>
-      <td>Purpose Quadriceps tendon (QT), hamstring tend...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>4</td>
-      <td>41562143.0</td>
-      <td>wos</td>
-      <td>bptb</td>
-      <td>10.1002/ksa.70275</td>
-      <td>Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...</td>
-      <td>Knee surgery sports traumatology arthroscopy</td>
-      <td>Similar dynamic tibiofemoral movements during ...</td>
-      <td>Purpose: Dynamic tibiofemoral movements follow...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>5</td>
-      <td>41522461.0</td>
-      <td>wos</td>
-      <td>bptb</td>
-      <td>10.1177/23259671251401596</td>
-      <td>Johns WL, Voskeridjian A, Miltenberg B, Muchin...</td>
-      <td>Orthopaedic journal of sports medicine</td>
-      <td>Regional Anesthesia Utilizing Liposomal Bupiva...</td>
-      <td>Background: Perioperative nerve blocks are com...</td>
-      <td>2026</td>
-      <td>English</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-:::
-::::
+       id        pmid source subgroup                        doi  \
+    0   1  41758993.0    wos     bptb          10.1002/ksa.70354   
+    1   2  41733021.0    wos     bptb  10.1177/03635465261415842   
+    2   3  41717284.0    wos     bptb         10.1002/jeo2.70665   
+    3   4  41562143.0    wos     bptb          10.1002/ksa.70275   
+    4   5  41522461.0    wos     bptb  10.1177/23259671251401596   
 
-::: {#a69486a2-b450-4396-85aa-13c42de80855 .cell .markdown}
+                                                 authors  \
+    0  Boer BC, Brouwer RW, Heuvel JO, de Vries AJ, v...   
+    1  Petit CB, Hussain ZB, Read PJ, Mcpherson AL, P...   
+    2  Heinz M, Lettner J, Topkarci YB, KrÃ³likowska ...   
+    3  Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...   
+    4  Johns WL, Voskeridjian A, Miltenberg B, Muchin...   
+
+                                            journal  \
+    0  Knee surgery sports traumatology arthroscopy   
+    1           American journal of sports medicine   
+    2          Journal of experimental orthopaedics   
+    3  Knee surgery sports traumatology arthroscopy   
+    4        Orthopaedic journal of sports medicine   
+
+                                                   title  \
+    0  Quadriceps tendon autograft is not inferior to...   
+    1  Graft Failure Rates in Bone-Patellar Tendon-Bo...   
+    2  Hamstring autografts favour knee extension str...   
+    3  Similar dynamic tibiofemoral movements during ...   
+    4  Regional Anesthesia Utilizing Liposomal Bupiva...   
+
+                                                abstract  year language  
+    0  Purpose: To evaluate the effectiveness of quad...  2026  English  
+    1  Background: Anterior cruciate ligament reconst...  2026  English  
+    2  Purpose Quadriceps tendon (QT), hamstring tend...  2026  English  
+    3  Purpose: Dynamic tibiofemoral movements follow...  2026  English  
+    4  Background: Perioperative nerve blocks are com...  2026  English  
+
 Finally, create a `records.csv` file, representing the search results of
 all database searches.
-:::
 
-:::: {#92773818-cb1d-4856-85c1-a636f851cc1b .cell .code execution_count="24" scrolled="true"}
-``` python
-records = pd.concat([pubmed, embase, wos], ignore_index = True)
+    records = pd.concat([pubmed, embase, wos], ignore_index = True)
 
-records['first_author'] = records['authors'].str.replace(r"[\'\[\],.;]","", regex = True).str.split().str[0]
-records['authors'] = records['authors'].str.replace(r"[\'\[\].;]","", regex = True)
-records['short_title'] = records['title'].str.replace(r'[\[\]\s,.;-]','',regex = True).str.lower().str[:60]
-records['title+author+year'] = records['first_author'] + '+' + records['short_title'] + '+' + records['year'].astype(str)
-records['title+year'] = records['short_title'] + '+' + records['year'].astype(str)
-records['language'] = records['language'].str.replace(r"[\'\[\]]","", regex = True)
-records["pmid"] = pd.to_numeric(records["pmid"], errors="coerce").astype("Int64")
-records["subgroup"] = records["subgroup"].str.upper()
-records["doi_url"] = f"https://doi.org/" + records["doi"]
-records["pmid_url"] = "https://pubmed.ncbi.nlm.nih.gov/" + records["pmid"].astype(str) + "/"
-records["study"] = records['first_author'] + " (" + records['year'].astype(str) + ")"
-records = records[["id", "study", "subgroup", "authors", "first_author", "title", "short_title", "abstract", "year", "language", "journal", "source", "doi", "doi_url", "pmid", "pmid_url", "title+author+year", "title+year"]]
-records.sort_values(by = ['subgroup', 'year', 'authors'])
-records.to_csv(f"{search}/records.csv", encoding= "utf-8")
-records.to_csv(f"{deduplication}/records.csv", encoding = "utf-8")
-records.head(10)
-```
+    records['first_author'] = records['authors'].str.replace(r"[\'\[\],.;]","", regex = True).str.split().str[0]
+    records['authors'] = records['authors'].str.replace(r"[\'\[\].;]","", regex = True)
+    records['short_title'] = records['title'].str.replace(r'[\[\]\s,.;-]','',regex = True).str.lower().str[:60]
+    records['title+author+year'] = records['first_author'] + '+' + records['short_title'] + '+' + records['year'].astype(str)
+    records['title+year'] = records['short_title'] + '+' + records['year'].astype(str)
+    records['language'] = records['language'].str.replace(r"[\'\[\]]","", regex = True)
+    records["pmid"] = pd.to_numeric(records["pmid"], errors="coerce").astype("Int64")
+    records["subgroup"] = records["subgroup"].str.upper()
+    records["doi_url"] = f"https://doi.org/" + records["doi"]
+    records["pmid_url"] = "https://pubmed.ncbi.nlm.nih.gov/" + records["pmid"].astype(str) + "/"
+    records["study"] = records['first_author'] + " (" + records['year'].astype(str) + ")"
+    records = records[["id", "study", "subgroup", "authors", "first_author", "title", "short_title", "abstract", "year", "language", "journal", "source", "doi", "doi_url", "pmid", "pmid_url", "title+author+year", "title+year"]]
+    records.sort_values(by = ['subgroup', 'year', 'authors'])
+    records.to_csv(f"{search}/records.csv", encoding= "utf-8")
+    records.to_csv(f"{deduplication}/records.csv", encoding = "utf-8")
+    records.head(10)
 
-::: {.output .execute_result execution_count="24"}
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+       id                  study subgroup  \
+    0   1         Vendrig (2026)     BPTB   
+    1   2  Sonnery-Cottet (2026)     BPTB   
+    2   3           Johns (2026)     BPTB   
+    3   4             Rao (2025)     BPTB   
+    4   5          Lucidi (2025)     BPTB   
+    5   6    Martorell-de (2025)     BPTB   
+    6   7          Martin (2024)     BPTB   
+    7   8       Obradović (2023)     BPTB   
+    8   9            Jack (2023)     BPTB   
+    9  10              de (2022)     BPTB   
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
+                                                 authors    first_author  \
+    0  Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...         Vendrig   
+    1  Sonnery-Cottet B, Carrozzo A, Poilvache H, Fay...  Sonnery-Cottet   
+    2  Johns WL, Voskeridjian A, Miltenberg B, Muchin...           Johns   
+    3  Rao N, Triana J, Avila A, Campbell KA, Alaia M...             Rao   
+    4  Lucidi GA, Agostinone P, Di Paolo S, Dal Fabbr...          Lucidi   
+    5  Martorell-de Fortuny L, Torres-Claramunt R, Sá...    Martorell-de   
+    6  Martin RK, Marmura H, Wastvedt S, Pareek A, Pe...          Martin   
+    7  Obradović M, Ninković S, Gvozdenović N, Tošić ...       Obradović   
+    8  Jack RA 2nd, Lambert BS, Hedt CA, Delgado D, G...            Jack   
+    9  de Souza Borges JH, Oliveira M, Junior PL, de ...              de   
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>id</th>
-      <th>study</th>
-      <th>subgroup</th>
-      <th>authors</th>
-      <th>first_author</th>
-      <th>title</th>
-      <th>short_title</th>
-      <th>abstract</th>
-      <th>year</th>
-      <th>language</th>
-      <th>journal</th>
-      <th>source</th>
-      <th>doi</th>
-      <th>doi_url</th>
-      <th>pmid</th>
-      <th>pmid_url</th>
-      <th>title+author+year</th>
-      <th>title+year</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1</td>
-      <td>Vendrig (2026)</td>
-      <td>BPTB</td>
-      <td>Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...</td>
-      <td>Vendrig</td>
-      <td>Similar dynamic tibiofemoral movements during ...</td>
-      <td>similardynamictibiofemoralmovementsduringjumpl...</td>
-      <td>PURPOSE: Dynamic tibiofemoral movements follow...</td>
-      <td>2026</td>
-      <td>English</td>
-      <td>Knee surgery sports traumatology arthroscopy :...</td>
-      <td>pubmed</td>
-      <td>10.1002/ksa.70275</td>
-      <td>https://doi.org/10.1002/ksa.70275</td>
-      <td>41562143</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/41562143/</td>
-      <td>Vendrig+similardynamictibiofemoralmovementsdur...</td>
-      <td>similardynamictibiofemoralmovementsduringjumpl...</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2</td>
-      <td>Sonnery-Cottet (2026)</td>
-      <td>BPTB</td>
-      <td>Sonnery-Cottet B, Carrozzo A, Poilvache H, Fay...</td>
-      <td>Sonnery-Cottet</td>
-      <td>Anterior cruciate ligament reconstruction comb...</td>
-      <td>anteriorcruciateligamentreconstructioncombined...</td>
-      <td>BACKGROUND: Anterior Cruciate Ligament (ACL) r...</td>
-      <td>2026</td>
-      <td>English</td>
-      <td>The lancet regional health. europe</td>
-      <td>pubmed</td>
-      <td>10.1016/j.lanepe.2025.101561</td>
-      <td>https://doi.org/10.1016/j.lanepe.2025.101561</td>
-      <td>41536854</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/41536854/</td>
-      <td>Sonnery-Cottet+anteriorcruciateligamentreconst...</td>
-      <td>anteriorcruciateligamentreconstructioncombined...</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>3</td>
-      <td>Johns (2026)</td>
-      <td>BPTB</td>
-      <td>Johns WL, Voskeridjian A, Miltenberg B, Muchin...</td>
-      <td>Johns</td>
-      <td>Regional Anesthesia Utilizing Liposomal Bupiva...</td>
-      <td>regionalanesthesiautilizingliposomalbupivacain...</td>
-      <td>BACKGROUND: Perioperative nerve blocks are com...</td>
-      <td>2026</td>
-      <td>English</td>
-      <td>Orthopaedic journal of sports medicine</td>
-      <td>pubmed</td>
-      <td>10.1177/23259671251401596</td>
-      <td>https://doi.org/10.1177/23259671251401596</td>
-      <td>41522461</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/41522461/</td>
-      <td>Johns+regionalanesthesiautilizingliposomalbupi...</td>
-      <td>regionalanesthesiautilizingliposomalbupivacain...</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>4</td>
-      <td>Rao (2025)</td>
-      <td>BPTB</td>
-      <td>Rao N, Triana J, Avila A, Campbell KA, Alaia M...</td>
-      <td>Rao</td>
-      <td>Postoperative Pain and Opioid Usage With Combi...</td>
-      <td>postoperativepainandopioidusagewithcombinedadd...</td>
-      <td>BACKGROUND: Efforts to decrease pain, improve ...</td>
-      <td>2025</td>
-      <td>English</td>
-      <td>The american journal of sports medicine</td>
-      <td>pubmed</td>
-      <td>10.1177/03635465251328609</td>
-      <td>https://doi.org/10.1177/03635465251328609</td>
-      <td>40308075</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/40308075/</td>
-      <td>Rao+postoperativepainandopioidusagewithcombine...</td>
-      <td>postoperativepainandopioidusagewithcombinedadd...</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>5</td>
-      <td>Lucidi (2025)</td>
-      <td>BPTB</td>
-      <td>Lucidi GA, Agostinone P, Di Paolo S, Dal Fabbr...</td>
-      <td>Lucidi</td>
-      <td>Long-term Outcomes After Anterior Cruciate Lig...</td>
-      <td>longtermoutcomesafteranteriorcruciateligamentr...</td>
-      <td>BACKGROUND: In recent years, lateral extra-art...</td>
-      <td>2025</td>
-      <td>English</td>
-      <td>Orthopaedic journal of sports medicine</td>
-      <td>pubmed</td>
-      <td>10.1177/23259671241302348</td>
-      <td>https://doi.org/10.1177/23259671241302348</td>
-      <td>39886263</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/39886263/</td>
-      <td>Lucidi+longtermoutcomesafteranteriorcruciateli...</td>
-      <td>longtermoutcomesafteranteriorcruciateligamentr...</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>6</td>
-      <td>Martorell-de (2025)</td>
-      <td>BPTB</td>
-      <td>Martorell-de Fortuny L, Torres-Claramunt R, Sá...</td>
-      <td>Martorell-de</td>
-      <td>Patellar bone defect grafting does not reduce ...</td>
-      <td>patellarbonedefectgraftingdoesnotreduceanterio...</td>
-      <td>PURPOSE: Donor site morbidity is the main draw...</td>
-      <td>2025</td>
-      <td>English</td>
-      <td>Knee surgery sports traumatology arthroscopy :...</td>
-      <td>pubmed</td>
-      <td>10.1002/ksa.12449</td>
-      <td>https://doi.org/10.1002/ksa.12449</td>
-      <td>39194385</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/39194385/</td>
-      <td>Martorell-de+patellarbonedefectgraftingdoesnot...</td>
-      <td>patellarbonedefectgraftingdoesnotreduceanterio...</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>7</td>
-      <td>Martin (2024)</td>
-      <td>BPTB</td>
-      <td>Martin RK, Marmura H, Wastvedt S, Pareek A, Pe...</td>
-      <td>Martin</td>
-      <td>External validation of the Norwegian anterior ...</td>
-      <td>externalvalidationofthenorwegiananteriorcrucia...</td>
-      <td>PURPOSE: A machine learning-based anterior cru...</td>
-      <td>2024</td>
-      <td>English</td>
-      <td>Knee surgery sports traumatology arthroscopy :...</td>
-      <td>pubmed</td>
-      <td>10.1002/ksa.12031</td>
-      <td>https://doi.org/10.1002/ksa.12031</td>
-      <td>38226736</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/38226736/</td>
-      <td>Martin+externalvalidationofthenorwegiananterio...</td>
-      <td>externalvalidationofthenorwegiananteriorcrucia...</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>8</td>
-      <td>Obradović (2023)</td>
-      <td>BPTB</td>
-      <td>Obradović M, Ninković S, Gvozdenović N, Tošić ...</td>
-      <td>Obradović</td>
-      <td>Tubularization of Bone-Tendon-Bone Grafts: Eff...</td>
-      <td>tubularizationofbonetendonbonegrafts:effectson...</td>
-      <td>Background and Objectives: The study addresses...</td>
-      <td>2023</td>
-      <td>English</td>
-      <td>Medicina</td>
-      <td>pubmed</td>
-      <td>10.3390/medicina59101764</td>
-      <td>https://doi.org/10.3390/medicina59101764</td>
-      <td>37893482</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/37893482/</td>
-      <td>Obradović+tubularizationofbonetendonbonegrafts...</td>
-      <td>tubularizationofbonetendonbonegrafts:effectson...</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>9</td>
-      <td>Jack (2023)</td>
-      <td>BPTB</td>
-      <td>Jack RA 2nd, Lambert BS, Hedt CA, Delgado D, G...</td>
-      <td>Jack</td>
-      <td>Blood Flow Restriction Therapy Preserves Lower...</td>
-      <td>bloodflowrestrictiontherapypreserveslowerextre...</td>
-      <td>BACKGROUND: Muscle atrophy is common after an ...</td>
-      <td>2023</td>
-      <td>English</td>
-      <td>Sports health</td>
-      <td>pubmed</td>
-      <td>10.1177/19417381221101006</td>
-      <td>https://doi.org/10.1177/19417381221101006</td>
-      <td>35762124</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/35762124/</td>
-      <td>Jack+bloodflowrestrictiontherapypreserveslower...</td>
-      <td>bloodflowrestrictiontherapypreserveslowerextre...</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>10</td>
-      <td>de (2022)</td>
-      <td>BPTB</td>
-      <td>de Souza Borges JH, Oliveira M, Junior PL, de ...</td>
-      <td>de</td>
-      <td>Is contralateral autogenous patellar tendon gr...</td>
-      <td>iscontralateralautogenouspatellartendongraftab...</td>
-      <td>AIM: The aim of this study was to compare the ...</td>
-      <td>2022</td>
-      <td>English</td>
-      <td>The knee</td>
-      <td>pubmed</td>
-      <td>10.1016/j.knee.2022.03.015</td>
-      <td>https://doi.org/10.1016/j.knee.2022.03.015</td>
-      <td>35468330</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/35468330/</td>
-      <td>de+iscontralateralautogenouspatellartendongraf...</td>
-      <td>iscontralateralautogenouspatellartendongraftab...</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-:::
-::::
+                                                   title  \
+    0  Similar dynamic tibiofemoral movements during ...   
+    1  Anterior cruciate ligament reconstruction comb...   
+    2  Regional Anesthesia Utilizing Liposomal Bupiva...   
+    3  Postoperative Pain and Opioid Usage With Combi...   
+    4  Long-term Outcomes After Anterior Cruciate Lig...   
+    5  Patellar bone defect grafting does not reduce ...   
+    6  External validation of the Norwegian anterior ...   
+    7  Tubularization of Bone-Tendon-Bone Grafts: Eff...   
+    8  Blood Flow Restriction Therapy Preserves Lower...   
+    9  Is contralateral autogenous patellar tendon gr...   
 
-::::: {#eb3bad54-bb36-4ab4-b562-c0294a54a0ce .cell .code execution_count="25"}
-``` python
-records['year'] = records['year'].astype(str)
+                                             short_title  \
+    0  similardynamictibiofemoralmovementsduringjumpl...   
+    1  anteriorcruciateligamentreconstructioncombined...   
+    2  regionalanesthesiautilizingliposomalbupivacain...   
+    3  postoperativepainandopioidusagewithcombinedadd...   
+    4  longtermoutcomesafteranteriorcruciateligamentr...   
+    5  patellarbonedefectgraftingdoesnotreduceanterio...   
+    6  externalvalidationofthenorwegiananteriorcrucia...   
+    7  tubularizationofbonetendonbonegrafts:effectson...   
+    8  bloodflowrestrictiontherapypreserveslowerextre...   
+    9  iscontralateralautogenouspatellartendongraftab...   
 
-records['pmid'] = round(records['pmid'],0)
-records['pmid'] = records['pmid'].astype(str)
-records['first_author'] = records['first_author'].astype(str)
-records['year'] = records['year'].astype(str)
-records.rename(columns = {"id":"source_id"}, inplace = True)
-records["id"] = range(1,len(records)+1)
-records = records[["id", "source_id", "study", "subgroup", "authors", "first_author", "title", "short_title", "abstract", "year", "language", "journal", "source", "doi", "doi_url", "pmid", "pmid_url",  "title+author+year", "title+year"]]
-records[records['source']=='embase'].head()
-records.info()
-records.head()
-```
+                                                abstract  year language  \
+    0  PURPOSE: Dynamic tibiofemoral movements follow...  2026  English   
+    1  BACKGROUND: Anterior Cruciate Ligament (ACL) r...  2026  English   
+    2  BACKGROUND: Perioperative nerve blocks are com...  2026  English   
+    3  BACKGROUND: Efforts to decrease pain, improve ...  2025  English   
+    4  BACKGROUND: In recent years, lateral extra-art...  2025  English   
+    5  PURPOSE: Donor site morbidity is the main draw...  2025  English   
+    6  PURPOSE: A machine learning-based anterior cru...  2024  English   
+    7  Background and Objectives: The study addresses...  2023  English   
+    8  BACKGROUND: Muscle atrophy is common after an ...  2023  English   
+    9  AIM: The aim of this study was to compare the ...  2022  English   
 
-::: {.output .stream .stdout}
+                                                 journal  source  \
+    0  Knee surgery sports traumatology arthroscopy :...  pubmed   
+    1                 The lancet regional health. europe  pubmed   
+    2             Orthopaedic journal of sports medicine  pubmed   
+    3            The american journal of sports medicine  pubmed   
+    4             Orthopaedic journal of sports medicine  pubmed   
+    5  Knee surgery sports traumatology arthroscopy :...  pubmed   
+    6  Knee surgery sports traumatology arthroscopy :...  pubmed   
+    7                                          Medicina   pubmed   
+    8                                      Sports health  pubmed   
+    9                                           The knee  pubmed   
+
+                                doi                                       doi_url  \
+    0             10.1002/ksa.70275             https://doi.org/10.1002/ksa.70275   
+    1  10.1016/j.lanepe.2025.101561  https://doi.org/10.1016/j.lanepe.2025.101561   
+    2     10.1177/23259671251401596     https://doi.org/10.1177/23259671251401596   
+    3     10.1177/03635465251328609     https://doi.org/10.1177/03635465251328609   
+    4     10.1177/23259671241302348     https://doi.org/10.1177/23259671241302348   
+    5             10.1002/ksa.12449             https://doi.org/10.1002/ksa.12449   
+    6             10.1002/ksa.12031             https://doi.org/10.1002/ksa.12031   
+    7      10.3390/medicina59101764      https://doi.org/10.3390/medicina59101764   
+    8     10.1177/19417381221101006     https://doi.org/10.1177/19417381221101006   
+    9    10.1016/j.knee.2022.03.015    https://doi.org/10.1016/j.knee.2022.03.015   
+
+           pmid                                   pmid_url  \
+    0  41562143  https://pubmed.ncbi.nlm.nih.gov/41562143/   
+    1  41536854  https://pubmed.ncbi.nlm.nih.gov/41536854/   
+    2  41522461  https://pubmed.ncbi.nlm.nih.gov/41522461/   
+    3  40308075  https://pubmed.ncbi.nlm.nih.gov/40308075/   
+    4  39886263  https://pubmed.ncbi.nlm.nih.gov/39886263/   
+    5  39194385  https://pubmed.ncbi.nlm.nih.gov/39194385/   
+    6  38226736  https://pubmed.ncbi.nlm.nih.gov/38226736/   
+    7  37893482  https://pubmed.ncbi.nlm.nih.gov/37893482/   
+    8  35762124  https://pubmed.ncbi.nlm.nih.gov/35762124/   
+    9  35468330  https://pubmed.ncbi.nlm.nih.gov/35468330/   
+
+                                       title+author+year  \
+    0  Vendrig+similardynamictibiofemoralmovementsdur...   
+    1  Sonnery-Cottet+anteriorcruciateligamentreconst...   
+    2  Johns+regionalanesthesiautilizingliposomalbupi...   
+    3  Rao+postoperativepainandopioidusagewithcombine...   
+    4  Lucidi+longtermoutcomesafteranteriorcruciateli...   
+    5  Martorell-de+patellarbonedefectgraftingdoesnot...   
+    6  Martin+externalvalidationofthenorwegiananterio...   
+    7  Obradović+tubularizationofbonetendonbonegrafts...   
+    8  Jack+bloodflowrestrictiontherapypreserveslower...   
+    9  de+iscontralateralautogenouspatellartendongraf...   
+
+                                              title+year  
+    0  similardynamictibiofemoralmovementsduringjumpl...  
+    1  anteriorcruciateligamentreconstructioncombined...  
+    2  regionalanesthesiautilizingliposomalbupivacain...  
+    3  postoperativepainandopioidusagewithcombinedadd...  
+    4  longtermoutcomesafteranteriorcruciateligamentr...  
+    5  patellarbonedefectgraftingdoesnotreduceanterio...  
+    6  externalvalidationofthenorwegiananteriorcrucia...  
+    7  tubularizationofbonetendonbonegrafts:effectson...  
+    8  bloodflowrestrictiontherapypreserveslowerextre...  
+    9  iscontralateralautogenouspatellartendongraftab...  
+
+    records['year'] = records['year'].astype(str)
+
+    records['pmid'] = round(records['pmid'],0)
+    records['pmid'] = records['pmid'].astype(str)
+    records['first_author'] = records['first_author'].astype(str)
+    records['year'] = records['year'].astype(str)
+    records.rename(columns = {"id":"source_id"}, inplace = True)
+    records["id"] = range(1,len(records)+1)
+    records = records[["id", "source_id", "study", "subgroup", "authors", "first_author", "title", "short_title", "abstract", "year", "language", "journal", "source", "doi", "doi_url", "pmid", "pmid_url",  "title+author+year", "title+year"]]
+    records[records['source']=='embase'].head()
+    records.info()
+    records.head()
+
     <class 'pandas.DataFrame'>
     RangeIndex: 1483 entries, 0 to 1482
     Data columns (total 19 columns):
@@ -2361,460 +1956,208 @@ records.head()
      18  title+year         1483 non-null   str  
     dtypes: int64(2), str(17)
     memory usage: 220.3 KB
-:::
 
-::: {.output .execute_result execution_count="25"}
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+       id  source_id                  study subgroup  \
+    0   1          1         Vendrig (2026)     BPTB   
+    1   2          2  Sonnery-Cottet (2026)     BPTB   
+    2   3          3           Johns (2026)     BPTB   
+    3   4          4             Rao (2025)     BPTB   
+    4   5          5          Lucidi (2025)     BPTB   
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
+                                                 authors    first_author  \
+    0  Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...         Vendrig   
+    1  Sonnery-Cottet B, Carrozzo A, Poilvache H, Fay...  Sonnery-Cottet   
+    2  Johns WL, Voskeridjian A, Miltenberg B, Muchin...           Johns   
+    3  Rao N, Triana J, Avila A, Campbell KA, Alaia M...             Rao   
+    4  Lucidi GA, Agostinone P, Di Paolo S, Dal Fabbr...          Lucidi   
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>id</th>
-      <th>source_id</th>
-      <th>study</th>
-      <th>subgroup</th>
-      <th>authors</th>
-      <th>first_author</th>
-      <th>title</th>
-      <th>short_title</th>
-      <th>abstract</th>
-      <th>year</th>
-      <th>language</th>
-      <th>journal</th>
-      <th>source</th>
-      <th>doi</th>
-      <th>doi_url</th>
-      <th>pmid</th>
-      <th>pmid_url</th>
-      <th>title+author+year</th>
-      <th>title+year</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>1</td>
-      <td>1</td>
-      <td>Vendrig (2026)</td>
-      <td>BPTB</td>
-      <td>Vendrig T, Keizer MNJ, Brouwer RW, Houdijk H, ...</td>
-      <td>Vendrig</td>
-      <td>Similar dynamic tibiofemoral movements during ...</td>
-      <td>similardynamictibiofemoralmovementsduringjumpl...</td>
-      <td>PURPOSE: Dynamic tibiofemoral movements follow...</td>
-      <td>2026</td>
-      <td>English</td>
-      <td>Knee surgery sports traumatology arthroscopy :...</td>
-      <td>pubmed</td>
-      <td>10.1002/ksa.70275</td>
-      <td>https://doi.org/10.1002/ksa.70275</td>
-      <td>41562143</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/41562143/</td>
-      <td>Vendrig+similardynamictibiofemoralmovementsdur...</td>
-      <td>similardynamictibiofemoralmovementsduringjumpl...</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2</td>
-      <td>2</td>
-      <td>Sonnery-Cottet (2026)</td>
-      <td>BPTB</td>
-      <td>Sonnery-Cottet B, Carrozzo A, Poilvache H, Fay...</td>
-      <td>Sonnery-Cottet</td>
-      <td>Anterior cruciate ligament reconstruction comb...</td>
-      <td>anteriorcruciateligamentreconstructioncombined...</td>
-      <td>BACKGROUND: Anterior Cruciate Ligament (ACL) r...</td>
-      <td>2026</td>
-      <td>English</td>
-      <td>The lancet regional health. europe</td>
-      <td>pubmed</td>
-      <td>10.1016/j.lanepe.2025.101561</td>
-      <td>https://doi.org/10.1016/j.lanepe.2025.101561</td>
-      <td>41536854</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/41536854/</td>
-      <td>Sonnery-Cottet+anteriorcruciateligamentreconst...</td>
-      <td>anteriorcruciateligamentreconstructioncombined...</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>3</td>
-      <td>3</td>
-      <td>Johns (2026)</td>
-      <td>BPTB</td>
-      <td>Johns WL, Voskeridjian A, Miltenberg B, Muchin...</td>
-      <td>Johns</td>
-      <td>Regional Anesthesia Utilizing Liposomal Bupiva...</td>
-      <td>regionalanesthesiautilizingliposomalbupivacain...</td>
-      <td>BACKGROUND: Perioperative nerve blocks are com...</td>
-      <td>2026</td>
-      <td>English</td>
-      <td>Orthopaedic journal of sports medicine</td>
-      <td>pubmed</td>
-      <td>10.1177/23259671251401596</td>
-      <td>https://doi.org/10.1177/23259671251401596</td>
-      <td>41522461</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/41522461/</td>
-      <td>Johns+regionalanesthesiautilizingliposomalbupi...</td>
-      <td>regionalanesthesiautilizingliposomalbupivacain...</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>4</td>
-      <td>4</td>
-      <td>Rao (2025)</td>
-      <td>BPTB</td>
-      <td>Rao N, Triana J, Avila A, Campbell KA, Alaia M...</td>
-      <td>Rao</td>
-      <td>Postoperative Pain and Opioid Usage With Combi...</td>
-      <td>postoperativepainandopioidusagewithcombinedadd...</td>
-      <td>BACKGROUND: Efforts to decrease pain, improve ...</td>
-      <td>2025</td>
-      <td>English</td>
-      <td>The american journal of sports medicine</td>
-      <td>pubmed</td>
-      <td>10.1177/03635465251328609</td>
-      <td>https://doi.org/10.1177/03635465251328609</td>
-      <td>40308075</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/40308075/</td>
-      <td>Rao+postoperativepainandopioidusagewithcombine...</td>
-      <td>postoperativepainandopioidusagewithcombinedadd...</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>5</td>
-      <td>5</td>
-      <td>Lucidi (2025)</td>
-      <td>BPTB</td>
-      <td>Lucidi GA, Agostinone P, Di Paolo S, Dal Fabbr...</td>
-      <td>Lucidi</td>
-      <td>Long-term Outcomes After Anterior Cruciate Lig...</td>
-      <td>longtermoutcomesafteranteriorcruciateligamentr...</td>
-      <td>BACKGROUND: In recent years, lateral extra-art...</td>
-      <td>2025</td>
-      <td>English</td>
-      <td>Orthopaedic journal of sports medicine</td>
-      <td>pubmed</td>
-      <td>10.1177/23259671241302348</td>
-      <td>https://doi.org/10.1177/23259671241302348</td>
-      <td>39886263</td>
-      <td>https://pubmed.ncbi.nlm.nih.gov/39886263/</td>
-      <td>Lucidi+longtermoutcomesafteranteriorcruciateli...</td>
-      <td>longtermoutcomesafteranteriorcruciateligamentr...</td>
-    </tr>
-  </tbody>
-</table>
+                                                   title  \
+    0  Similar dynamic tibiofemoral movements during ...   
+    1  Anterior cruciate ligament reconstruction comb...   
+    2  Regional Anesthesia Utilizing Liposomal Bupiva...   
+    3  Postoperative Pain and Opioid Usage With Combi...   
+    4  Long-term Outcomes After Anterior Cruciate Lig...   
+
+                                             short_title  \
+    0  similardynamictibiofemoralmovementsduringjumpl...   
+    1  anteriorcruciateligamentreconstructioncombined...   
+    2  regionalanesthesiautilizingliposomalbupivacain...   
+    3  postoperativepainandopioidusagewithcombinedadd...   
+    4  longtermoutcomesafteranteriorcruciateligamentr...   
+
+                                                abstract  year language  \
+    0  PURPOSE: Dynamic tibiofemoral movements follow...  2026  English   
+    1  BACKGROUND: Anterior Cruciate Ligament (ACL) r...  2026  English   
+    2  BACKGROUND: Perioperative nerve blocks are com...  2026  English   
+    3  BACKGROUND: Efforts to decrease pain, improve ...  2025  English   
+    4  BACKGROUND: In recent years, lateral extra-art...  2025  English   
+
+                                                 journal  source  \
+    0  Knee surgery sports traumatology arthroscopy :...  pubmed   
+    1                 The lancet regional health. europe  pubmed   
+    2             Orthopaedic journal of sports medicine  pubmed   
+    3            The american journal of sports medicine  pubmed   
+    4             Orthopaedic journal of sports medicine  pubmed   
+
+                                doi                                       doi_url  \
+    0             10.1002/ksa.70275             https://doi.org/10.1002/ksa.70275   
+    1  10.1016/j.lanepe.2025.101561  https://doi.org/10.1016/j.lanepe.2025.101561   
+    2     10.1177/23259671251401596     https://doi.org/10.1177/23259671251401596   
+    3     10.1177/03635465251328609     https://doi.org/10.1177/03635465251328609   
+    4     10.1177/23259671241302348     https://doi.org/10.1177/23259671241302348   
+
+           pmid                                   pmid_url  \
+    0  41562143  https://pubmed.ncbi.nlm.nih.gov/41562143/   
+    1  41536854  https://pubmed.ncbi.nlm.nih.gov/41536854/   
+    2  41522461  https://pubmed.ncbi.nlm.nih.gov/41522461/   
+    3  40308075  https://pubmed.ncbi.nlm.nih.gov/40308075/   
+    4  39886263  https://pubmed.ncbi.nlm.nih.gov/39886263/   
+
+                                       title+author+year  \
+    0  Vendrig+similardynamictibiofemoralmovementsdur...   
+    1  Sonnery-Cottet+anteriorcruciateligamentreconst...   
+    2  Johns+regionalanesthesiautilizingliposomalbupi...   
+    3  Rao+postoperativepainandopioidusagewithcombine...   
+    4  Lucidi+longtermoutcomesafteranteriorcruciateli...   
+
+                                              title+year  
+    0  similardynamictibiofemoralmovementsduringjumpl...  
+    1  anteriorcruciateligamentreconstructioncombined...  
+    2  regionalanesthesiautilizingliposomalbupivacain...  
+    3  postoperativepainandopioidusagewithcombinedadd...  
+    4  longtermoutcomesafteranteriorcruciateligamentr...  
+
+[previous](#search) | [top](#toc) | [next](#screening)  
+[search strategy](#search-strategy) | [search](#search) |
+[deduplication](#deduplication) | [screening](#screening)
+
+<a id="deduplication"></a> <div align="center">
+<font size="5" style="font-family:Times New Roman;font-variant: small-caps;">Deduplication</font><br>
 </div>
-:::
-:::::
 
-::: {#ab86ea52-5c9b-4162-94d8-7cedb5c1a931 .cell .markdown}
-[previous](#search) \| [top](#toc) \| [next](#screening)\
-[search strategy](#search-strategy) \| [search](#search) \|
-[deduplication](#deduplication) \| [screening](#screening)
-
-`<a id="deduplication">`{=html}`</a>`{=html}
-`<div align="center">`{=html}
-`<font size="5" style="font-family:Times New Roman;font-variant: small-caps;">`{=html}Deduplication`</font>`{=html}`<br>`{=html}
-`</div>`{=html}
-:::
-
-::: {#e46b858e-9906-4721-9652-ac052cde0457 .cell .markdown}
 input file(s): `records.csv`, output file(s): `doi_deduplicated.csv`,
-`pmid_deduplicated.csv`, \`key_de
-:::
+`pmid_deduplicated.csv`, \`key\_de
 
-::::: {#c5865181-766d-478a-8a8d-81d5a275c3ed .cell .code execution_count="30"}
-``` python
-import pandas as pd
-import mermaid
-import os
+    import pandas as pd
+    import mermaid
+    import os
 
-input_file_name = f"{deduplication}/" + input('Enter file name: ') + '.csv'
-df = pd.read_csv(input_file_name) # A (records)
-cols_input = input('Enter the column for which to deduplicate based on: ')
-cols = [c.strip() for c in cols_input.split(',')]
-folder = '_'.join(cols)
-os.makedirs(f"{deduplication}/{folder}/", exist_ok = True)
+    input_file_name = f"{deduplication}/" + input('Enter file name: ') + '.csv'
+    df = pd.read_csv(input_file_name) # A (records)
+    cols_input = input('Enter the column for which to deduplicate based on: ')
+    cols = [c.strip() for c in cols_input.split(',')]
+    folder = '_'.join(cols)
+    os.makedirs(f"{deduplication}/{folder}/", exist_ok = True)
 
-output_file = f"{deduplication}/{folder}/{folder}_deduplicated"
-output_file_name = f"{output_file}.csv"
-output_for_recycle = f"{deduplication}/{folder}_deduplicated.csv"
-prisma_file_name = f"{output_file}.mmd"
+    output_file = f"{deduplication}/{folder}/{folder}_deduplicated"
+    output_file_name = f"{output_file}.csv"
+    output_for_recycle = f"{deduplication}/{folder}_deduplicated.csv"
+    prisma_file_name = f"{output_file}.mmd"
 
-nulls_mask = df[cols].isnull().any(axis=1)
-df_nulls = df[nulls_mask] # B
-df_non_nulls = df[~nulls_mask] # C
+    nulls_mask = df[cols].isnull().any(axis=1)
+    df_nulls = df[nulls_mask] # B
+    df_non_nulls = df[~nulls_mask] # C
 
-duplicates_mask = df_non_nulls.duplicated(subset = cols, keep = False)
-df_non_duplicates = df_non_nulls[~duplicates_mask] # D
-df_duplicates = df_non_nulls[duplicates_mask] # E
-#df_duplicates.groupby(cols, as_index=False).agg(agg_map)
-df_kept = df_duplicates.drop_duplicates(subset = cols, keep = 'first')
-#df_kept = df_duplicates.groupby(cols, as_index=False).agg(lambda s: list(dict.fromkeys(s.dropna())) if s.name in ['subgroup', 'source'] else s.dropna().iloc[0] if len(s.dropna()) else pd.NA)
-#df_kept = df_duplicates.groupby(cols, as_index=False).agg(lambda s: list(dict.fromkeys(s.dropna())) if s.name == 'subgroup' else s.dropna().iloc[0] if len(s.dropna()) else pd.NA)
-df_removed = df_duplicates[~df_duplicates.index.isin(df_kept.index)]
-#df_kept = df_duplicates.groupby(cols, as_index=False).agg(lambda s: '; '.join(dict.fromkeys(s.dropna().astype(str).str.strip())) if s.name == 'subgroup' and s.dropna().astype(str).str.strip().nunique() > 1 else (s.dropna().astype(str).str.strip().iloc[0] if len(s.dropna().astype(str).str.strip()) else pd.NA))
-df_unique = df_non_nulls.drop_duplicates(subset = cols, keep = 'first') # df of unique
-df_deduplicated = pd.concat([df_non_duplicates, df_kept, df_nulls], ignore_index=True) # df of unique + df of non-duplicates
+    duplicates_mask = df_non_nulls.duplicated(subset = cols, keep = False)
+    df_non_duplicates = df_non_nulls[~duplicates_mask] # D
+    df_duplicates = df_non_nulls[duplicates_mask] # E
+    #df_duplicates.groupby(cols, as_index=False).agg(agg_map)
+    df_kept = df_duplicates.drop_duplicates(subset = cols, keep = 'first')
+    #df_kept = df_duplicates.groupby(cols, as_index=False).agg(lambda s: list(dict.fromkeys(s.dropna())) if s.name in ['subgroup', 'source'] else s.dropna().iloc[0] if len(s.dropna()) else pd.NA)
+    #df_kept = df_duplicates.groupby(cols, as_index=False).agg(lambda s: list(dict.fromkeys(s.dropna())) if s.name == 'subgroup' else s.dropna().iloc[0] if len(s.dropna()) else pd.NA)
+    df_removed = df_duplicates[~df_duplicates.index.isin(df_kept.index)]
+    #df_kept = df_duplicates.groupby(cols, as_index=False).agg(lambda s: '; '.join(dict.fromkeys(s.dropna().astype(str).str.strip())) if s.name == 'subgroup' and s.dropna().astype(str).str.strip().nunique() > 1 else (s.dropna().astype(str).str.strip().iloc[0] if len(s.dropna().astype(str).str.strip()) else pd.NA))
+    df_unique = df_non_nulls.drop_duplicates(subset = cols, keep = 'first') # df of unique
+    df_deduplicated = pd.concat([df_non_duplicates, df_kept, df_nulls], ignore_index=True) # df of unique + df of non-duplicates
 
-results = {"records": len(df),  
-"nulls": len(df_nulls), 
-"non_nulls": len(df_non_nulls), 
-"non_duplicates": len(df_non_duplicates), 
-"duplicates": len(df_duplicates), 
-"removed": len(df_removed), 
-"kept": len(df_kept),
-"unique": len(df_unique),
-"deduplicated": len(df_deduplicated)
-}
+    results = {"records": len(df),  
+    "nulls": len(df_nulls), 
+    "non_nulls": len(df_non_nulls), 
+    "non_duplicates": len(df_non_duplicates), 
+    "duplicates": len(df_duplicates), 
+    "removed": len(df_removed), 
+    "kept": len(df_kept),
+    "unique": len(df_unique),
+    "deduplicated": len(df_deduplicated)
+    }
 
-# output_file_name = deduplication/doi/doi_deduplicated.csv
-df_nulls.to_csv(output_file_name.replace('deduplicated','nulls'), index = False)
-df_deduplicated.to_csv(output_file_name, index = False)
-df_removed.to_csv(output_file_name.replace('deduplicated','duplicates_removed'), index = False)
-df_deduplicated.to_csv(output_for_recycle, index = False)
+    # output_file_name = deduplication/doi/doi_deduplicated.csv
+    df_nulls.to_csv(output_file_name.replace('deduplicated','nulls'), index = False)
+    df_deduplicated.to_csv(output_file_name, index = False)
+    df_removed.to_csv(output_file_name.replace('deduplicated','duplicates_removed'), index = False)
+    df_deduplicated.to_csv(output_for_recycle, index = False)
 
-graph_text = f"""---
-config:
-theme: neutral
-curve: stepBefore
----
-graph TD;
-A["`**records** (*n* = {results['records']})`"];
-B["`null (*n* = {results['nulls']})`"];
-C["`non-null (*n* = {results['non_nulls']})`"];
-D["`non-duplicates (*n* = {results['non_duplicates']})`"];
-E["`duplicates (*n* = {results['duplicates']})`"];
-F["`duplicates kept (*n* = {results['kept']})`"];
-G["`duplicates removed (*n* = {results['removed']})`"];
-H["`unique (*n* = {results['unique']})`"];
-I["`deduplicated (*n* = {results['deduplicated']})`"];
+    graph_text = f"""---
+    config:
+    theme: neutral
+    curve: stepBefore
+    ---
+    graph TD;
+    A["`**records** (*n* = {results['records']})`"];
+    B["`null (*n* = {results['nulls']})`"];
+    C["`non-null (*n* = {results['non_nulls']})`"];
+    D["`non-duplicates (*n* = {results['non_duplicates']})`"];
+    E["`duplicates (*n* = {results['duplicates']})`"];
+    F["`duplicates kept (*n* = {results['kept']})`"];
+    G["`duplicates removed (*n* = {results['removed']})`"];
+    H["`unique (*n* = {results['unique']})`"];
+    I["`deduplicated (*n* = {results['deduplicated']})`"];
 
-A --> B & C;
-C --> D & E;
-E --> F & G;
-D & F --> H
-B & H --> I"""
+    A --> B & C;
+    C --> D & E;
+    E --> F & G;
+    D & F --> H
+    B & H --> I"""
 
-with open(prisma_file_name, "w") as f:
-    f.write(graph_text)
+    with open(prisma_file_name, "w") as f:
+        f.write(graph_text)
 
-!mmdc -i "{prisma_file_name}" -o "{output_file}"_light.svg
-!mmdc -i "{prisma_file_name}" -o "{output_file}"_dark.svg -t dark -b transparent
-print(results)
-```
+    !mmdc -i "{prisma_file_name}" -o "{output_file}"_light.svg
+    !mmdc -i "{prisma_file_name}" -o "{output_file}"_dark.svg -t dark -b transparent
+    print(results)
 
-::: {.output .stream .stdin}
     Enter file name:  title+author+year_deduplicated
     Enter the column for which to deduplicate based on:  title+year
-:::
 
-::: {.output .stream .stdout}
     Generating single mermaid chart
     Generating single mermaid chart
     {'records': 780, 'nulls': 0, 'non_nulls': 780, 'non_duplicates': 727, 'duplicates': 53, 'removed': 29, 'kept': 24, 'unique': 751, 'deduplicated': 751}
-:::
-:::::
 
-::: {#8b0bd931-14da-4011-84c9-b04838cb0ddf .cell .markdown}
-[top](#toc) \| [search strategy](#search-strategy) \| [search](#search)
-\| [deduplication](#deduplication) \| [screening](#screening) \| [data
-collection](#data-collection) \|
+[top](#toc) | [search strategy](#search-strategy) | [search](#search) |
+[deduplication](#deduplication) | [screening](#screening) | [data
+collection](#data-collection) |
 
-`<a id="screening">`{=html}`</a>`{=html}
+<a id="screening"></a>
 
 <div align="center">
 	<font size="5" style="font-family:Times New Roman;font-variant: small-caps;">Screening</font><br>
 </div>
 
 ------------------------------------------------------------------------
-:::
 
-::: {#ca452bbe-8098-40e0-8247-fca3c19a3cb5 .cell .markdown}
-Screening filter #1: Language
-:::
+Screening filter \#1: Language
 
-:::: {#fb242547-5f5e-498c-ad9b-a1c477fa67a1 .cell .code execution_count="85"}
-``` python
-df = pd.read_csv(f"{deduplication}/title+year_deduplicated.csv", encoding = "utf-8")
-df.to_csv(f"{screening}/screening.csv", encoding = "utf-8")
-df.sort_values(by = ['subgroup', 'year', 'authors'])
+    df = pd.read_csv(f"{deduplication}/title+year_deduplicated.csv", encoding = "utf-8")
+    df.to_csv(f"{screening}/screening.csv", encoding = "utf-8")
+    df.sort_values(by = ['subgroup', 'year', 'authors'])
 
-dict = {"language": "English"}
-import pandas as pd
-import os
+    dict = {"language": "English"}
+    import pandas as pd
+    import os
 
-for x, y in dict.items():
-    mask = df[x].astype(str).str.contains(y, case=False, na=False)
-    true = df[mask]
-    false = df[~mask]
-    folder = f"{title_abstract}/{x}"
-    os.makedirs(folder, exist_ok = True)
-    file = f"{y}"
-    true.to_csv(f"{folder}/{file}.csv", encoding = "utf-8")
-    false.to_csv(f"{folder}/non_{file}.csv", encoding = "utf-8")
-    print(f"Number of records that contain '{y}' in column {x}: ",len(true))
-    print(f"Number of records that don't contain '{y}' in column '{x}': ",len(false))
-    
-```
+    for x, y in dict.items():
+        mask = df[x].astype(str).str.contains(y, case=False, na=False)
+        true = df[mask]
+        false = df[~mask]
+        folder = f"{title_abstract}/{x}"
+        os.makedirs(folder, exist_ok = True)
+        file = f"{y}"
+        true.to_csv(f"{folder}/{file}.csv", encoding = "utf-8")
+        false.to_csv(f"{folder}/non_{file}.csv", encoding = "utf-8")
+        print(f"Number of records that contain '{y}' in column {x}: ",len(true))
+        print(f"Number of records that don't contain '{y}' in column '{x}': ",len(false))
+        
 
-::: {.output .error ename="OSError" evalue="Cannot save file into a non-existent directory: '     Unnamed: 0   id                study                    subgroup  \\
-0             4    5  Martorell-de (2025)                        BPTB   
-1             6    7     Obradović (2023)                        BPTB   
-2            35   36        Biswal (2016)                        BPTB   
-3            36   37    Iliopoulos (2017)                        BPTB   
-4            46   47       Valentí (2014)                        BPTB   
-..          ...  ...                  ...                         ...   
-745         657   32                  NaN              ['BPTB', 'QT']   
-746         634    9                  NaN              ['BPTB', 'QT']   
-747         638   13                  NaN        ['BPTB', 'HT', 'QT']   
-748         818  193                  NaN               ['QT', 'PLT']   
-749        1100  158     Andersson (2009)  ['BPTB', \"['BPTB', 'HT']\"]   
-
-                                               authors  first_author  \\
-0    Martorell-de Fortuny L, Torres-Claramunt R, Sá...  Martorell-de   
-1    Obradović M, Ninković S, Gvozdenović N, Tošić ...     Obradović   
-2    Biswal UK, Balaji G, Nema S, Poduval M, Menon ...        Biswal   
-3    Iliopoulos E, Galanis N, Zafeiridis A, Iosifid...    Iliopoulos   
-4    Valentí Azcárate A, Lamo-Espinosa J, Aquerreta...       Valentí   
-..                                                 ...           ...   
-745                                                NaN           NaN   
-746                                                NaN           NaN   
-747                                                NaN           NaN   
-748                                                NaN           NaN   
-749              Andersson D, Samuelsson K, Karlsson J     Andersson   
-
-                                                 title  \\
-0    Patellar bone defect grafting does not reduce ...   
-1    Tubularization of Bone-Tendon-Bone Grafts: Eff...   
-2    Correlation of tunnel widening and tunnel posi...   
-3    Anatomic single-bundle anterior cruciate ligam...   
-4    Comparison between two different platelet-rich...   
-..                                                 ...   
-745  Postoperative Blood Flow Restriction Training ...   
-746  Prospective Evaluation of Post-operative Pain ...   
-747  Reduced Knee Flexion Strength 18 Years After A...   
-748  Reducing the Burden of Post-traumatic Knee Ost...   
-749  Treatment of Anterior Cruciate Ligament Injuri...   
-
-                                           short_title  \\
-0    patellarbonedefectgraftingdoesnotreduceanterio...   
-1    tubularizationofbonetendonbonegrafts:effectson...   
-2    correlationoftunnelwideningandtunnelpositionin...   
-3    anatomicsinglebundleanteriorcruciateligamentre...   
-4    comparisonbetweentwodifferentplateletrichplasm...   
-..                                                 ...   
-745  postoperativebloodflowrestrictiontrainingfollo...   
-746  prospectiveevaluationofpostoperativepainmanage...   
-747  reducedkneeflexionstrength18yearsafteraclrecon...   
-748  reducingtheburdenofposttraumatickneeosteoarthr...   
-749  treatmentofanteriorcruciateligamentinjurieswit...   
-
-                                              abstract  year language  \\
-0    PURPOSE: Donor site morbidity is the main draw...  2025  English   
-1    Background and Objectives: The study addresses...  2023  English   
-2    OBJECTIVE: To study the correlation between tu...  2016  English   
-3    PURPOSE: Anterior cruciate ligament (ACL) inju...  2017  English   
-4    INTRODUCTION: To compare the clinical, analyti...  2014  English   
-..                                                 ...   ...      ...   
-745  Brief SummaryThe purpose of this study is to e...  2019  English   
-746  Brief SummaryThe goal of this randomized clini...  2024  English   
-747  Brief SummaryBackground: Bone-patellar tendon-...  2023  English   
-748  Brief SummaryFROM RISK FACTORS TO THE PREVENTI...  2025  English   
-749  Purpose: The primary aim was to investigate an...  2009  English   
-
-                                               journal  source  \\
-0    Knee surgery sports traumatology arthroscopy :...  pubmed   
-1                                            Medicina   pubmed   
-2    European journal of orthopaedic surgery & trau...  pubmed   
-3    Knee surgery sports traumatology arthroscopy :...  pubmed   
-4                                               Injury  pubmed   
-..                                                 ...     ...   
-745                                 Clinicaltrials.gov  embase   
-746                                 Clinicaltrials.gov  embase   
-747                                 Clinicaltrials.gov  embase   
-748                                 Clinicaltrials.gov  embase   
-749  Arthroscopy-the journal of arthroscopic and re...     wos   
-
-                               doi  \\
-0                10.1002\\ksa.12449   
-1         10.3390\\medicina59101764   
-2        10.1007\\s00590-016-1809-4   
-3        10.1007\\s00167-016-4229-4   
-4    10.1016\\S0020-1383(14)70008-7   
-..                             ...   
-745                            NaN   
-746                            NaN   
-747                            NaN   
-748                            NaN   
-749   10.1016\\j.arthro.2009.04.066   
-
-                                           doi_url        pmid  \\
-0                https:\\doi.org\\10.1002\\ksa.12449  39194385.0   
-1         https:\\doi.org\\10.3390\\medicina59101764  37893482.0   
-2        https:\\doi.org\\10.1007\\s00590-016-1809-4  27376940.0   
-3        https:\\doi.org\\10.1007\\s00167-016-4229-4  27371291.0   
-4    https:\\doi.org\\10.1016\\S0020-1383(14)70008-7  25384473.0   
-..                                             ...         ...   
-745                               https:\\doi.org\\         NaN   
-746                               https:\\doi.org\\         NaN   
-747                               https:\\doi.org\\         NaN   
-748                               https:\\doi.org\\         NaN   
-749   https:\\doi.org\\10.1016\\j.arthro.2009.04.066  19501297.0   
-
-                                      pmid_url  \\
-0    https:\\pubmed.ncbi.nlm.nih.gov\\39194385\\   
-1    https:\\pubmed.ncbi.nlm.nih.gov\\37893482\\   
-2    https:\\pubmed.ncbi.nlm.nih.gov\\27376940\\   
-3    https:\\pubmed.ncbi.nlm.nih.gov\\27371291\\   
-4    https:\\pubmed.ncbi.nlm.nih.gov\\25384473\\   
-..                                         ...   
-745                                        NaN   
-746                                        NaN   
-747                                        NaN   
-748                                        NaN   
-749  https:\\pubmed.ncbi.nlm.nih.gov\\19501297\\   
-
-                                     title+author+year  \\
-0    Martorell-de+patellarbonedefectgraftingdoesnot...   
-1    Obradović+tubularizationofbonetendonbonegrafts...   
-2    Biswal+correlationoftunnelwideningandtunnelpos...   
-3    Iliopoulos+anatomicsinglebundleanteriorcruciat...   
-4    Valentí+comparisonbetweentwodifferentplateletr...   
-..                                                 ...   
-745                                                NaN   
-746                                                NaN   
-747                                                NaN   
-748                                                NaN   
-749  Andersson+treatmentofanteriorcruciateligamenti...   
-
-                                            title+year  
-0    patellarbonedefectgraftingdoesnotreduceanterio...  
-1    tubularizationofbonetendonbonegrafts:effectson...  
-2    correlationoftunnelwideningandtunnelpositionin...  
-3    anatomicsinglebundleanteriorcruciateligamentre...  
-4    comparisonbetweentwodifferentplateletrichplasm...  
-..                                                 ...  
-745  postoperativebloodflowrestrictiontrainingfollo...  
-746  prospectiveevaluationofpostoperativepainmanage...  
-747  reducedkneeflexionstrength18yearsafteraclrecon...  
-748  reducingtheburdenofposttraumatickneeosteoarthr...  
-749  treatmentofanteriorcruciateligamentinjurieswit...  
-
-[750 rows x 19 columns]'"}
     ---------------------------------------------------------------------------
     OSError                                   Traceback (most recent call last)
     Cell In[85], line 2
@@ -3025,15 +2368,9 @@ for x, y in dict.items():
     749  treatmentofanteriorcruciateligamentinjurieswit...  
 
     [750 rows x 19 columns]'
-:::
-::::
 
-:::: {#127c57bf-5f14-49c3-82f4-af43f5ecf722 .cell .code execution_count="16"}
-``` python
-df.info()
-```
+    df.info()
 
-::: {.output .stream .stdout}
     <class 'pandas.DataFrame'>
     RangeIndex: 1346 entries, 0 to 1345
     Data columns (total 28 columns):
@@ -3069,101 +2406,61 @@ df.info()
      27  year             1346 non-null   str   
     dtypes: object(6), str(22)
     memory usage: 294.6+ KB
-:::
-::::
 
-::: {#6cf283b8-9cc2-495a-987a-5b3638920114 .cell .markdown}
-Screening filter #2: Randomized controlled trials
-:::
+Screening filter \#2: Randomized controlled trials
 
-:::: {#3730dea5-134e-494c-b844-98536ce004ec .cell .code execution_count="25"}
-``` python
-# Screen for 'randomized' in a newly made 'title and abstract' column
-df = true
-df['tiab'] = df['title'] + " " + df['abstract']
-dict = {"tiab": "random"}
-for x, y in dict.items():
-    mask = df[x].astype(str).str.contains(y, case=False, na=False)
-    true = df[mask]
-    false = df[~mask]
-    folder = f"{title_abstract}/{x}"
-    os.makedirs(folder, exist_ok = True)
-    file = f"{y}"
-    true.to_csv(f"{folder}/{file}.csv", encoding = "utf-8")
-    false.to_csv(f"{folder}/non_{file}.csv", encoding = "utf-8")
-    print(f"Number of records that contain '{y}' in column {x}: ",len(true))
-    print(f"Number of records that don't contain '{y}' in column '{x}': ",len(false))
-```
+    # Screen for 'randomized' in a newly made 'title and abstract' column
+    df = true
+    df['tiab'] = df['title'] + " " + df['abstract']
+    dict = {"tiab": "random"}
+    for x, y in dict.items():
+        mask = df[x].astype(str).str.contains(y, case=False, na=False)
+        true = df[mask]
+        false = df[~mask]
+        folder = f"{title_abstract}/{x}"
+        os.makedirs(folder, exist_ok = True)
+        file = f"{y}"
+        true.to_csv(f"{folder}/{file}.csv", encoding = "utf-8")
+        false.to_csv(f"{folder}/non_{file}.csv", encoding = "utf-8")
+        print(f"Number of records that contain '{y}' in column {x}: ",len(true))
+        print(f"Number of records that don't contain '{y}' in column '{x}': ",len(false))
 
-::: {.output .stream .stdout}
     Number of records that contain 'random' in column tiab:  174
     Number of records that don't contain 'random' in column 'tiab':  1127
-:::
-::::
 
-::: {#3031adfe-3342-4a7f-b4bf-b09009015410 .cell .markdown}
-Screening filter #3: Clinical trials (unpublished and without results)
-:::
+Screening filter \#3: Clinical trials (unpublished and without results)
 
-:::: {#d9f10964-7af6-4eb1-bb41-e80c8daf2c64 .cell .code execution_count="26"}
-``` python
-# Screen out unpublished clinical trials from "clinicaltrials.gov" (only published RCTs, from peer-reviewed journals included)
-df = true
-dict = {"journal": "clinicaltrials.gov"}
-for x, y in dict.items():
-    mask = df[x].astype(str).str.contains(y, case=False, na=False)
-    true = df[mask]
-    false = df[~mask]
-    folder = f"{title_abstract}/{x}"
-    os.makedirs(folder, exist_ok = True)
-    file = f"{y}"
-    true.to_csv(f"{folder}/{file}.csv", encoding = "utf-8")
-    false.to_csv(f"{folder}/non_{file}.csv", encoding = "utf-8")
-    print(f"Number of records that contain '{y}' in column {x}: ",len(true))
-    print(f"Number of records that don't contain '{y}' in column '{x}': ",len(false))
-```
+    # Screen out unpublished clinical trials from "clinicaltrials.gov" (only published RCTs, from peer-reviewed journals included)
+    df = true
+    dict = {"journal": "clinicaltrials.gov"}
+    for x, y in dict.items():
+        mask = df[x].astype(str).str.contains(y, case=False, na=False)
+        true = df[mask]
+        false = df[~mask]
+        folder = f"{title_abstract}/{x}"
+        os.makedirs(folder, exist_ok = True)
+        file = f"{y}"
+        true.to_csv(f"{folder}/{file}.csv", encoding = "utf-8")
+        false.to_csv(f"{folder}/non_{file}.csv", encoding = "utf-8")
+        print(f"Number of records that contain '{y}' in column {x}: ",len(true))
+        print(f"Number of records that don't contain '{y}' in column '{x}': ",len(false))
 
-::: {.output .stream .stdout}
     Number of records that contain 'clinicaltrials.gov' in column journal:  0
     Number of records that don't contain 'clinicaltrials.gov' in column 'journal':  174
-:::
-::::
-
-::: {#d29e63bb-749b-4ea5-8ad0-5149aed21951 .cell .markdown}
 
 ------------------------------------------------------------------------
 
-[top](#toc) \| [search strategy](#search-strategy) \| [search](#search)
-\| [deduplication](#deduplication) \| [screening](#screening) \| [data
-collection](#data-collection) \|
+[top](#toc) | [search strategy](#search-strategy) | [search](#search) |
+[deduplication](#deduplication) | [screening](#screening) | [data
+collection](#data-collection) |
 
-`<a id="data-collection">`{=html}`</a>`{=html}
+<a id="data-collection"></a>
 
 <h1 align="center" style="font-family:Times New Roman;font-variant:small-caps;">Data Collection</h1>
-:::
 
-::: {#783c60cf-218a-4048-afb1-1bec22c6923c .cell .markdown}
-:::
-
-::: {#1803f402-0746-418d-b74a-1b92d9f851ed .cell .markdown}
 <div align="center">
 	<font size="5" style="font-family:Times New Roman;font-variant: small-caps;">patellar</font><br>
 </div>
-:::
 
-::: {#59ca5e30-b165-43cf-aca2-8467a35538a8 .cell .code}
-``` python
-patellar = tiab[tiab["subgroup"] == "bptb"]
-patellar.to_csv(f"{title_abstract}/patellar.csv", encoding = "utf-8")
-```
-:::
-
-::: {#37fe44d0-c6d7-4ae5-b112-f8613309e251 .cell .code}
-``` python
-```
-:::
-
-::: {#f31098f7-c621-4c2f-8f71-eb294419e654 .cell .code}
-``` python
-```
-:::
+    patellar = tiab[tiab["subgroup"] == "bptb"]
+    patellar.to_csv(f"{title_abstract}/patellar.csv", encoding = "utf-8")
