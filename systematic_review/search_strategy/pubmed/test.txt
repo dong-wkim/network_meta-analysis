@@ -1,1 +1,0 @@
-('anterior cruciate ligament'[mh]) AND ('systematic review'[tiab]) AND ('network'[tiab])

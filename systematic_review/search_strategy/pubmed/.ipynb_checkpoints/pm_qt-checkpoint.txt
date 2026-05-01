@@ -1,0 +1,1 @@
+(‘anterior cruciate ligament reconstruction’ OR ‘anterior cruciate ligament’ OR ACL) AND (quadriceps OR ‘quadriceps tendon’ OR QT) AND (autograft OR graft OR autologous)

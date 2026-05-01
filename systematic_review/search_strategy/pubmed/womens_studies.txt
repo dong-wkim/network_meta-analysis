@@ -1,1 +1,0 @@
-('gender'[tiab]) AND ('power'[tiab]) AND ('leadership'[tiab])

@@ -1,0 +1,21 @@
+---
+config:
+theme: neutral
+curve: stepBefore
+---
+graph TD;
+A["`**records** (*n* = 780)`"];
+B["`null (*n* = 0)`"];
+C["`non-null (*n* = 780)`"];
+D["`non-duplicates (*n* = 727)`"];
+E["`duplicates (*n* = 53)`"];
+F["`duplicates kept (*n* = 24)`"];
+G["`duplicates removed (*n* = 29)`"];
+H["`unique (*n* = 751)`"];
+I["`deduplicated (*n* = 751)`"];
+
+A --> B & C;
+C --> D & E;
+E --> F & G;
+D & F --> H
+B & H --> I

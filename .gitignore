@@ -1,4 +1,5 @@
 .venv/
-*.gsheet
-*.gdoc 
- 
+.gsheet
+.gdoc
+# MyST build outputs
+_build

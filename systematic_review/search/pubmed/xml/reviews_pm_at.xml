@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>40297074</Id>
+	<Item Name="PubDate" Type="Date">2025 Apr</Item>
+	<Item Name="EPubDate" Type="Date">2024 Nov 5</Item>
+	<Item Name="Source" Type="String">Arthrosc Sports Med Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Dave U</Item>
+		<Item Name="Author" Type="String">Villarreal-Espinosa JB</Item>
+		<Item Name="Author" Type="String">Shah H</Item>
+		<Item Name="Author" Type="String">Cotter EJ</Item>
+		<Item Name="Author" Type="String">Gómez-Verdejo F</Item>
+		<Item Name="Author" Type="String">Carpenter M</Item>
+		<Item Name="Author" Type="String">Gerhold C</Item>
+		<Item Name="Author" Type="String">Mamonov A</Item>
+		<Item Name="Author" Type="String">Chahla J</Item>
+		<Item Name="Author" Type="String">Verma NN</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Verma NN</Item>
+	<Item Name="Title" Type="String">Patients Have Similar Clinical Outcomes and Failure Rates After Anterior Cruciate Ligament Reconstruction With Tibialis Anterior Tendon, Bone-Patellar Tendon-Bone, Hamstring Tendon, or Achilles Tendon Allografts: A Systematic Review.</Item>
+	<Item Name="Volume" Type="String">7</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">101035</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101765256</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2666-061X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40297074</Item>
+		<Item Name="pmc" Type="String">PMC12034080</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12034080;</Item>
+		<Item Name="doi" Type="String">10.1016/j.asmr.2024.101035</Item>
+		<Item Name="pii" Type="String">S2666-061X(24)00178-0</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.asmr.2024.101035</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/07/09 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/10/17 00:00</Item>
+		<Item Name="medline" Type="Date">2025/04/29 11:13</Item>
+		<Item Name="pubmed" Type="Date">2025/04/29 11:12</Item>
+		<Item Name="entrez" Type="Date">2025/04/29 04:56</Item>
+		<Item Name="pmc-release" Type="Date">2024/11/05 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">38</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy, sports medicine, and rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.asmr.2024.101035</Item>
+	<Item Name="SO" Type="String">2025 Apr;7(2):101035</Item>
+</DocSum>
+
+<DocSum>
+	<Id>35428007</Id>
+	<Item Name="PubDate" Type="Date">2022 May</Item>
+	<Item Name="EPubDate" Type="Date">2022 Apr 1</Item>
+	<Item Name="Source" Type="String">Clin Biomech (Bristol)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Malige A</Item>
+		<Item Name="Author" Type="String">Baghdadi S</Item>
+		<Item Name="Author" Type="String">Hast MW</Item>
+		<Item Name="Author" Type="String">Schmidt EC</Item>
+		<Item Name="Author" Type="String">Shea KG</Item>
+		<Item Name="Author" Type="String">Ganley TJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ganley TJ</Item>
+	<Item Name="Title" Type="String">Biomechanical properties of common graft choices for anterior cruciate ligament reconstruction: A systematic review.</Item>
+	<Item Name="Volume" Type="String">95</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">105636</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8611877</Item>
+	<Item Name="ISSN" Type="String">0268-0033</Item>
+	<Item Name="ESSN" Type="String">1879-1271</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35428007</Item>
+		<Item Name="doi" Type="String">10.1016/j.clinbiomech.2022.105636</Item>
+		<Item Name="pii" Type="String">S0268-0033(22)00066-3</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.clinbiomech.2022.105636</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/10/02 00:00</Item>
+		<Item Name="revised" Type="Date">2022/03/21 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/03/25 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/04/16 06:00</Item>
+		<Item Name="medline" Type="Date">2022/05/27 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/04/15 20:17</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Clinical biomechanics (Bristol, Avon)</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.clinbiomech.2022.105636</Item>
+	<Item Name="SO" Type="String">2022 May;95:105636</Item>
+</DocSum>
+
+<DocSum>
+	<Id>32504159</Id>
+	<Item Name="PubDate" Type="Date">2020 Aug</Item>
+	<Item Name="EPubDate" Type="Date">2020 Jun 5</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Gupta A</Item>
+		<Item Name="Author" Type="String">Tejpal T</Item>
+		<Item Name="Author" Type="String">Shanmugaraj A</Item>
+		<Item Name="Author" Type="String">Horner NS</Item>
+		<Item Name="Author" Type="String">Gohal C</Item>
+		<Item Name="Author" Type="String">Khan M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Khan M</Item>
+	<Item Name="Title" Type="String">All-epiphyseal anterior cruciate ligament reconstruction produces good functional outcomes and low complication rates in pediatric patients: a systematic review.</Item>
+	<Item Name="Volume" Type="String">28</Item>
+	<Item Name="Issue" Type="String">8</Item>
+	<Item Name="Pages" Type="String">2444-2452</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">32504159</Item>
+		<Item Name="doi" Type="String">10.1007/s00167-020-06085-3</Item>
+		<Item Name="pii" Type="String">10.1007/s00167-020-06085-3</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00167-020-06085-3</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/04/17 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/05/28 00:00</Item>
+		<Item Name="pubmed" Type="Date">2020/06/07 06:00</Item>
+		<Item Name="medline" Type="Date">2020/12/15 06:00</Item>
+		<Item Name="entrez" Type="Date">2020/06/07 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00167-020-06085-3</Item>
+	<Item Name="SO" Type="String">2020 Aug;28(8):2444-2452</Item>
+</DocSum>
+
+<DocSum>
+	<Id>29991077</Id>
+	<Item Name="PubDate" Type="Date">2019 Jul</Item>
+	<Item Name="EPubDate" Type="Date">2018 Jul 10</Item>
+	<Item Name="Source" Type="String">J Knee Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Shanmugaraj A</Item>
+		<Item Name="Author" Type="String">de Sa D</Item>
+		<Item Name="Author" Type="String">Skelly MM</Item>
+		<Item Name="Author" Type="String">Duong A</Item>
+		<Item Name="Author" Type="String">Simunovic N</Item>
+		<Item Name="Author" Type="String">Musahl V</Item>
+		<Item Name="Author" Type="String">Peterson DC</Item>
+		<Item Name="Author" Type="String">Ayeni OR</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ayeni OR</Item>
+	<Item Name="Title" Type="String">Primary Allograft ACL Reconstruction in Skeletally Immature Patients-A Systematic Review of Surgical Techniques, Outcomes, and Complications.</Item>
+	<Item Name="Volume" Type="String">32</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">673-685</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101137599</Item>
+	<Item Name="ISSN" Type="String">1538-8506</Item>
+	<Item Name="ESSN" Type="String">1938-2480</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">29991077</Item>
+		<Item Name="doi" Type="String">10.1055/s-0038-1666833</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1055/s-0038-1666833</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2018/07/11 06:00</Item>
+		<Item Name="medline" Type="Date">2019/10/29 06:00</Item>
+		<Item Name="entrez" Type="Date">2018/07/11 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The journal of knee surgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1055/s-0038-1666833</Item>
+	<Item Name="SO" Type="String">2019 Jul;32(7):673-685</Item>
+</DocSum>
+
+<DocSum>
+	<Id>28636429</Id>
+	<Item Name="PubDate" Type="Date">2018 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2017 Jun 21</Item>
+	<Item Name="Source" Type="String">Am J Sports Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Belk JW</Item>
+		<Item Name="Author" Type="String">Kraeutler MJ</Item>
+		<Item Name="Author" Type="String">Purcell JM</Item>
+		<Item Name="Author" Type="String">McCarty EC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">McCarty EC</Item>
+	<Item Name="Title" Type="String">Autograft Versus Allograft for Posterior Cruciate Ligament Reconstruction: An Updated Systematic Review and Meta-analysis.</Item>
+	<Item Name="Volume" Type="String">46</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">1752-1757</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7609541</Item>
+	<Item Name="ISSN" Type="String">0363-5465</Item>
+	<Item Name="ESSN" Type="String">1552-3365</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">28636429</Item>
+		<Item Name="doi" Type="String">10.1177/0363546517713164</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/0363546517713164</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2017/06/22 06:00</Item>
+		<Item Name="medline" Type="Date">2019/09/24 06:00</Item>
+		<Item Name="entrez" Type="Date">2017/06/22 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The American journal of sports medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/0363546517713164</Item>
+	<Item Name="SO" Type="String">2018 Jun;46(7):1752-1757</Item>
+</DocSum>
+
+<DocSum>
+	<Id>20810081</Id>
+	<Item Name="PubDate" Type="Date">2010 Sep</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Nyland J</Item>
+		<Item Name="Author" Type="String">Fisher B</Item>
+		<Item Name="Author" Type="String">Brand E</Item>
+		<Item Name="Author" Type="String">Krupp R</Item>
+		<Item Name="Author" Type="String">Caborn DN</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Caborn DN</Item>
+	<Item Name="Title" Type="String">Osseous deficits after anterior cruciate ligament injury and reconstruction: a systematic literature review with suggestions to improve osseous homeostasis.</Item>
+	<Item Name="Volume" Type="String">26</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">1248-57</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">20810081</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2010.03.017</Item>
+		<Item Name="pii" Type="String">S0749-8063(10)00289-6</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2010.03.017</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2010/02/11 00:00</Item>
+		<Item Name="revised" Type="Date">2010/03/21 00:00</Item>
+		<Item Name="accepted" Type="Date">2010/03/23 00:00</Item>
+		<Item Name="entrez" Type="Date">2010/09/03 06:00</Item>
+		<Item Name="pubmed" Type="Date">2010/09/03 06:00</Item>
+		<Item Name="medline" Type="Date">2011/02/01 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2010.03.017</Item>
+	<Item Name="SO" Type="String">2010 Sep;26(9):1248-57</Item>
+</DocSum>
+
+<DocSum>
+	<Id>17065935</Id>
+	<Item Name="PubDate" Type="Date">2006 Nov-Dec</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">J Pediatr Orthop</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Sankar WN</Item>
+		<Item Name="Author" Type="String">Wells L</Item>
+		<Item Name="Author" Type="String">Sennett BJ</Item>
+		<Item Name="Author" Type="String">Wiesel BB</Item>
+		<Item Name="Author" Type="String">Ganley TJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ganley TJ</Item>
+	<Item Name="Title" Type="String">Combined anterior cruciate ligament and medial collateral ligament injuries in adolescents.</Item>
+	<Item Name="Volume" Type="String">26</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">733-6</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8109053</Item>
+	<Item Name="ISSN" Type="String">0271-6798</Item>
+	<Item Name="ESSN" Type="String"></Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">17065935</Item>
+		<Item Name="doi" Type="String">10.1097/01.bpo.0000242433.81187.89</Item>
+		<Item Name="pii" Type="String">01241398-200611000-00007</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1097/01.bpo.0000242433.81187.89</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2006/10/27 09:00</Item>
+		<Item Name="medline" Type="Date">2007/01/17 09:00</Item>
+		<Item Name="entrez" Type="Date">2006/10/27 09:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of pediatric orthopedics</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2006 Nov-Dec;26(6):733-6</Item>
+</DocSum>
+
+<DocSum>
+	<Id>15800521</Id>
+	<Item Name="PubDate" Type="Date">2005 Apr</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Grossman MG</Item>
+		<Item Name="Author" Type="String">ElAttrache NS</Item>
+		<Item Name="Author" Type="String">Shields CL</Item>
+		<Item Name="Author" Type="String">Glousman RE</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Glousman RE</Item>
+	<Item Name="Title" Type="String">Revision anterior cruciate ligament reconstruction: three- to nine-year follow-up.</Item>
+	<Item Name="Volume" Type="String">21</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">418-23</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">15800521</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2004.12.009</Item>
+		<Item Name="pii" Type="String">S0749806304013970</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2004.12.009</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2005/04/01 09:00</Item>
+		<Item Name="medline" Type="Date">2006/02/16 09:00</Item>
+		<Item Name="entrez" Type="Date">2005/04/01 09:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String"></Item>
+	<Item Name="SO" Type="String">2005 Apr;21(4):418-23</Item>
+</DocSum>
+
+</eSummaryResult>

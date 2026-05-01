@@ -1,3 +1,8 @@
+---
+title: Network Meta-Analysis
+author: Dong Woon Kim
+---
+
 <!-- Notes:
 
 Read this and follow the steps to organize and stuff.
@@ -6,6 +11,9 @@ https://medium.com/@caneuenschwander/how-to-turn-a-messy-jupyter-notebook-into-a
 
 
 -->
+
+
+Current stage: data entry forms.
 
 <style>
   .text {
