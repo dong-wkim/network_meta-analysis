@@ -1,11 +1,11 @@
 pandas
 numpy
+matplotlib
+seaborn
 biopython
 mermaid-py
 ipywidgets
-scidownl
-celltags
-code_formatter
+google-drive
 ipysheet
 ipydatagrid
 shinywidgets
@@ -15,5 +15,5 @@ plotly
 ipyleaflet 
 pydeck==0.8.0
 jupyterlite-pyodide-kernel
-numpy
-jupyter-book
+jupyter-book>=2.0
+jupyter_server

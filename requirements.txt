@@ -1,18 +1,20 @@
 pandas
-biopython
-mermaid-py
-ipywidgets
-scidownl
-celltags
-code_formatter
-ipysheet
-ipydatagrid
-shinywidgets
-altair
-bokeh
-plotly 
-ipyleaflet 
-pydeck==0.8.0
-jupyterlite-pyodide-kernel
-numpy
-jupyter-book
+    numpy
+    matplotlib
+    seaborn
+    biopython
+    mermaid-py
+    ipywidgets
+    google-drive
+    ipysheet
+    ipydatagrid
+    shinywidgets
+    altair
+    bokeh
+    plotly 
+    ipyleaflet 
+    pydeck==0.8.0
+    jupyterlite-pyodide-kernel
+    jupyter-book>=2.0
+    jupyter_server
+    
