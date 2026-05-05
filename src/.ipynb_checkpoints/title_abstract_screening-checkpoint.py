@@ -2,24 +2,37 @@ import ipywidgets as widgets
 from IPython.display import display
 import pandas as pd
 
-def title_abstract_screening():
-    
+def form():
     url = "https://raw.githubusercontent.com/dong-wkim/network_meta-analysis/refs/heads/master/systematic_review/search/records.csv"
-    
     df = pd.read_csv(url, encoding = "utf-8")
-    a = widgets.BoundedIntText(value = 0, description = "ID ", min = 0, max = len(df)-1, layout = {"width": "30%"})
-    b = widgets.HTML(value = "", description = "study ", layout = {"width": "50%"}) # study
-    c = widgets.HTML(options = ['BPTB', 'HT', 'QT', 'PLT', 'AT', 'TA'], value = "BPTB", description = "subgroup", layout = {"width": "50%"})
+    
+    a, a1 =  widgets.IntText(description = "ID", layout = {"width":"20%"}),\
+             widgets.IntSlider(value = 0, readout = False, min = 1, max = len(df)-1, layout = {"width":"70%"}),
+    
+    link = widgets.jslink((a, "value"),(a1,"value"))
+    out = widgets.Output()
+    
+    
+    # design 
+    A = widgets.HBox(children = [a, a1])
+    b = widgets.HTML(description = "study ", layout = {"width": "50%"}) # study
+    c = widgets.HTML(description = "subgroup", layout = {"width": "50%"})
     d = widgets.HTML(value = "", description = "author(s) ", layout = {"width": "90%"}) # authors
     e = widgets.HTML(value = "", description = "title ", layout = {"width": "90%"}) # title
     f = widgets.HTML(value = "", description = "abstract ", layout = {"width": "91.5%", "height": "300px"}) # abstract
     g = widgets.HTML(value = "", description = "year ", layout = {"width": "90%"}) # year
     h = widgets.HTML(value = "", description = "journal ", layout = {"width": "90%"}) # journal
-    i = widgets.HTML(options = ["PubMed", "Embase", "Web of Science"], value = "PubMed", description = "source", layout = {"width": "50%"})
+    i = widgets.HTML(description = "source", layout = {"width": "50%"})
     j = widgets.HTML(value = "", description = "DOI ", layout = {"width": "90%"}) # doi
     k = widgets.HTML(value = "", description = "URL ", layout = {"width": "90%"}) # url
     
+    columns = ["study", "subgroup", "authors", "title", "abstract", "year", "journal", "source", "doi", "url"]
+    wid = [b, c, d, e, f, g, h, i, j, k]
+    
+    mapping = dict(zip(columns, wid))
+    
     def update(change):
+        id = df.loc[df["id"] == a.value]
         study = df.loc[df["id"] == a.value, "study"]
         subgroup =  df.loc[df["id"] == a.value, "subgroup"]
         authors =  df.loc[df["id"] == a.value, "authors"]
@@ -30,30 +43,25 @@ def title_abstract_screening():
         source =  df.loc[df["id"] == a.value, "source"]
         doi =  df.loc[df["id"] == a.value, "doi"]
         url =  df.loc[df["id"] == a.value, "doi_url"]
-    
+        
         if a.value > 0:
-           b.value = str(study.iloc[0])
-           d.value = str(authors.iloc[0])
-           e.value = str(title.iloc[0])
-           f.value = str(abstract.iloc[0])
-           g.value = str(year.iloc[0])
-           h.value = str(journal.iloc[0])
-           j.value = str(doi.iloc[0])
-           k.value = str(url.iloc[0])
+            b.value = str(study.iloc[0])
+            c.value = str(subgroup.iloc[0])
+            d.value = str(authors.iloc[0])
+            e.value = str(title.iloc[0])
+            f.value = str(abstract.iloc[0])
+            g.value = str(year.iloc[0])
+            h.value = str(journal.iloc[0])
+            i.value = str(source.iloc[0])
+            j.value = str(doi.iloc[0])
+            k.value = str(url.iloc[0])    
     
-        else:
-            b.value = ""
-            d.value = ""
-            e.value = ""
-            f.value = ""
-            g.value = ""
-            h.value = ""
-            j.value = ""
-            k.value = ""
-    
-    a.observe(update, names = "value") # observe widget 'a' (i.e., ID column) for any changes, and if there is, then display all of the widgets corresponding to the value of 'a'.
-    
-    
+    a.observe(update, names = "value")
+    display(A, b, c, d, e, f, g, h, i, j, k)
+    df = df.sort_values(by = 'id')
+    df.head()    
+
+def result():
     yes = widgets.Button(
         value = "Yes", 
         description = "Yes", 
@@ -82,25 +90,11 @@ def title_abstract_screening():
     
     out = widgets.Output()
     
-    buttons = [yes, maybe, no, save]
-        
-    A = display(a, out) # id
-    B = display(b, out) # study
-    C = display(c, out) # subgroups
-    D = display(d, out) # author(s)
-    E = display(e, out) # title
-    F = display(f, out) # abstract
-    G = display(g, out) # year
-    H = display(h, out) # journal
-    I = display(i, out) # source
-    J = display(j, out) # doi
-    K = display(k, out) # url 
-
-    vbox = widgets.VBox([A, B, C, D, E, F, G, H, I, J, K])
-    hbox = widgets.HBox(children = buttons)
+    buttons = widgets.HBox([yes, maybe, no, save])
+    display(buttons, out)
+    return buttons
     
-    display(vbox, hbox, out)
-        
 if __name__ == "__main__":
-    title_abstract_screening()
+    form()
+    result()
 

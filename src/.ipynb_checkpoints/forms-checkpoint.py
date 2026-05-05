@@ -63,30 +63,19 @@ def forms():
         if col not in df.columns:
             df[col] = ""
     
-    def save_values(change):
-        row_id = a.value
-    
-        df.loc[df["id"] == row_id, "study"] = b.value
-        df.loc[df["id"] == row_id, "study_design"] = l.value
-        df.loc[df["id"] == row_id, "subgroup(s)"] = ", ".join(m.value)
-        df.loc[df["id"] == row_id, "arm(s)"] = n.value
-        df.loc[df["id"] == row_id, "outcome(s)"] = o.value
+    def save_values(change):    
+        df.loc[df["id"] == a.value, "study"] = b.value
+        df.loc[df["id"] == a.value, "study_design"] = l.value
+        df.loc[df["id"] == a.value, "subgroup(s)"] = ", ".join(m.value)
+        df.loc[df["id"] == a.value, "arm(s)"] = n.value
+        df.loc[df["id"] == a.value, "outcome(s)"] = o.value
+        df.loc[df["id"] == a.value, "level_evidence"] = p.value
     
         with out:
             out.clear_output()
-            print(f"Saved values for ID {row_id}")
+            print(f"Saved values for ID {a.value}")
     
-    
-    display(
-        a,
-        b,
-        l,
-        m,
-        n,
-        o,
-        save,
-        out
-    )
+    w = (a, b, l, m, n, o, save, out)
     
     def update_study(change):
         row = df.loc[df["id"] == a.value]
@@ -100,9 +89,9 @@ def forms():
     m.observe(update_study, names="value")
     n.observe(update_study, names="value")
     o.observe(update_study, names="value")
-    p.observe(update_study, names="value")
     
     save.on_click(save_values)
+    return w
     
 if __name__ == "__main__":
     forms()

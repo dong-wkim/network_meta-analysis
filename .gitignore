@@ -1,3 +1,5 @@
 .venv/
 .gsheet
 .gdoc
+# MyST build outputs
+_build

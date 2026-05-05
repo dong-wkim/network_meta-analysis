@@ -1,7 +1,7 @@
 import ipywidgets as widgets
 from IPython.display import display
 
-def full_text_screening():
+def result():
     included = widgets.Button(
         value = "included", 
         description = "Included", 
