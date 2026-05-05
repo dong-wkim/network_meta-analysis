@@ -1,2 +1,0 @@
-hurray
-whippity do dah from local within same file test
