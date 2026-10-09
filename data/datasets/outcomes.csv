@@ -1,0 +1,494 @@
+,id,study,subgroups,outcomes
+0,1,ageberg_2009,hamstring,Tegner
+0,1,ageberg_2009,patellar,Tegner
+1,2,aglietti_2004,hamstring,Instrumental laxity
+1,2,aglietti_2004,hamstring,Lachman
+1,2,aglietti_2004,hamstring,Pivot shift
+1,2,aglietti_2004,patellar,Instrumental laxity
+1,2,aglietti_2004,patellar,Lachman
+1,2,aglietti_2004,patellar,Pivot shift
+2,3,ahldén_2009,hamstring,Instrumental laxity
+2,3,ahldén_2009,hamstring,Lachman
+2,3,ahldén_2009,hamstring,Lysholm
+2,3,ahldén_2009,hamstring,Tegner
+2,3,ahldén_2009,patellar,Instrumental laxity
+2,3,ahldén_2009,patellar,Lachman
+2,3,ahldén_2009,patellar,Lysholm
+2,3,ahldén_2009,patellar,Tegner
+3,4,akelman_2016,hamstring,Instrumental laxity
+3,4,akelman_2016,patellar,Instrumental laxity
+4,5,anderson_2001,hamstring,IKDC
+4,5,anderson_2001,hamstring,Instrumental laxity
+4,5,anderson_2001,hamstring,Pivot shift
+4,5,anderson_2001,patellar,IKDC
+4,5,anderson_2001,patellar,Instrumental laxity
+4,5,anderson_2001,patellar,Pivot shift
+5,6,anz_2023,hamstring,Graft rupture
+5,6,anz_2023,patellar,Graft rupture
+6,7,aune_2001,hamstring,Instrumental laxity
+6,7,aune_2001,patellar,Instrumental laxity
+8,9,barenius_2014,hamstring,IKDC
+8,9,barenius_2014,hamstring,Instrumental laxity
+8,9,barenius_2014,hamstring,Lachman
+8,9,barenius_2014,hamstring,Lysholm
+8,9,barenius_2014,hamstring,Pivot shift
+8,9,barenius_2014,patellar,IKDC
+8,9,barenius_2014,patellar,Instrumental laxity
+8,9,barenius_2014,patellar,Lachman
+8,9,barenius_2014,patellar,Lysholm
+8,9,barenius_2014,patellar,Pivot shift
+9,10,barié_2020,patellar,Graft rupture
+9,10,barié_2020,patellar,IKDC
+9,10,barié_2020,patellar,Instrumental laxity
+9,10,barié_2020,patellar,Lysholm
+9,10,barié_2020,patellar,Tegner
+9,10,barié_2020,quadriceps,Graft rupture
+9,10,barié_2020,quadriceps,IKDC
+9,10,barié_2020,quadriceps,Instrumental laxity
+9,10,barié_2020,quadriceps,Lysholm
+9,10,barié_2020,quadriceps,Tegner
+10,11,beynnon_2002,hamstring,IKDC
+10,11,beynnon_2002,hamstring,Instrumental laxity
+10,11,beynnon_2002,hamstring,Lachman
+10,11,beynnon_2002,hamstring,Pivot shift
+10,11,beynnon_2002,hamstring,Tegner
+10,11,beynnon_2002,patellar,IKDC
+10,11,beynnon_2002,patellar,Instrumental laxity
+10,11,beynnon_2002,patellar,Lachman
+10,11,beynnon_2002,patellar,Pivot shift
+10,11,beynnon_2002,patellar,Tegner
+11,12,bi_2018,hamstring,Graft rupture
+11,12,bi_2018,hamstring,IKDC
+11,12,bi_2018,hamstring,Instrumental laxity
+11,12,bi_2018,hamstring,Pivot shift
+11,12,bi_2018,peroneus,Graft rupture
+11,12,bi_2018,peroneus,IKDC
+11,12,bi_2018,peroneus,Instrumental laxity
+11,12,bi_2018,peroneus,Pivot shift
+12,13,björnsson_2016,hamstring,IKDC
+12,13,björnsson_2016,hamstring,Instrumental laxity
+12,13,björnsson_2016,hamstring,Lysholm
+12,13,björnsson_2016,hamstring,Tegner
+12,13,björnsson_2016,patellar,IKDC
+12,13,björnsson_2016,patellar,Instrumental laxity
+12,13,björnsson_2016,patellar,Lysholm
+12,13,björnsson_2016,patellar,Tegner
+13,14,bottoni_2015,hamstring,IKDC
+13,14,bottoni_2015,hamstring,Tegner
+13,14,bottoni_2015,tibialis,IKDC
+13,14,bottoni_2015,tibialis,Tegner
+15,16,breker_2025,hamstring,Instrumental laxity
+15,16,breker_2025,patellar,Instrumental laxity
+17,18,butt_2024,hamstring,IKDC
+17,18,butt_2024,hamstring,Lachman
+17,18,butt_2024,hamstring,Lysholm
+17,18,butt_2024,hamstring,Pivot shift
+17,18,butt_2024,peroneus,IKDC
+17,18,butt_2024,peroneus,Lachman
+17,18,butt_2024,peroneus,Lysholm
+17,18,butt_2024,peroneus,Pivot shift
+18,19,calvert_2025,hamstring,IKDC
+18,19,calvert_2025,hamstring,Instrumental laxity
+18,19,calvert_2025,quadriceps,IKDC
+18,19,calvert_2025,quadriceps,Instrumental laxity
+21,22,cruz_2022,hamstring,Graft rupture
+21,22,cruz_2022,tibialis,Graft rupture
+22,23,ejerhed_2003,hamstring,Instrumental laxity
+22,23,ejerhed_2003,hamstring,Lachman
+22,23,ejerhed_2003,hamstring,Lysholm
+22,23,ejerhed_2003,hamstring,Tegner
+22,23,ejerhed_2003,patellar,Instrumental laxity
+22,23,ejerhed_2003,patellar,Lachman
+22,23,ejerhed_2003,patellar,Lysholm
+22,23,ejerhed_2003,patellar,Tegner
+24,25,eriksson_2006,hamstring,Instrumental laxity
+24,25,eriksson_2006,hamstring,Pivot shift
+24,25,eriksson_2006,patellar,Instrumental laxity
+24,25,eriksson_2006,patellar,Pivot shift
+25,26,feller_webster_2003,hamstring,IKDC
+25,26,feller_webster_2003,hamstring,Instrumental laxity
+25,26,feller_webster_2003,hamstring,Lachman
+25,26,feller_webster_2003,hamstring,Pivot shift
+25,26,feller_webster_2003,patellar,IKDC
+25,26,feller_webster_2003,patellar,Instrumental laxity
+25,26,feller_webster_2003,patellar,Lachman
+25,26,feller_webster_2003,patellar,Pivot shift
+27,28,gerber_2007,hamstring,Instrumental laxity
+27,28,gerber_2007,patellar,Instrumental laxity
+29,30,gifstad_2013,hamstring,Instrumental laxity
+29,30,gifstad_2013,hamstring,Lachman
+29,30,gifstad_2013,hamstring,Lysholm
+29,30,gifstad_2013,hamstring,Tegner
+29,30,gifstad_2013,patellar,Instrumental laxity
+29,30,gifstad_2013,patellar,Lachman
+29,30,gifstad_2013,patellar,Lysholm
+29,30,gifstad_2013,patellar,Tegner
+30,31,gobbi_francisco_2006,hamstring,IKDC
+30,31,gobbi_francisco_2006,hamstring,Instrumental laxity
+30,31,gobbi_francisco_2006,hamstring,Lysholm
+30,31,gobbi_francisco_2006,hamstring,Tegner
+30,31,gobbi_francisco_2006,patellar,IKDC
+30,31,gobbi_francisco_2006,patellar,Instrumental laxity
+30,31,gobbi_francisco_2006,patellar,Lysholm
+30,31,gobbi_francisco_2006,patellar,Tegner
+31,32,guglielmetti_2021,hamstring,IKDC
+31,32,guglielmetti_2021,hamstring,Lachman
+31,32,guglielmetti_2021,hamstring,Lysholm
+31,32,guglielmetti_2021,hamstring,Pivot shift
+31,32,guglielmetti_2021,patellar,IKDC
+31,32,guglielmetti_2021,patellar,Lachman
+31,32,guglielmetti_2021,patellar,Lysholm
+31,32,guglielmetti_2021,patellar,Pivot shift
+32,33,harilainen_2006,hamstring,IKDC
+32,33,harilainen_2006,hamstring,Instrumental laxity
+32,33,harilainen_2006,hamstring,Lysholm
+32,33,harilainen_2006,hamstring,Pivot shift
+32,33,harilainen_2006,hamstring,Tegner
+32,33,harilainen_2006,patellar,IKDC
+32,33,harilainen_2006,patellar,Instrumental laxity
+32,33,harilainen_2006,patellar,Lysholm
+32,33,harilainen_2006,patellar,Pivot shift
+32,33,harilainen_2006,patellar,Tegner
+33,34,heijne_werner_2010,hamstring,Instrumental laxity
+33,34,heijne_werner_2010,hamstring,Pivot shift
+33,34,heijne_werner_2010,hamstring,Tegner
+33,34,heijne_werner_2010,patellar,Instrumental laxity
+33,34,heijne_werner_2010,patellar,Pivot shift
+33,34,heijne_werner_2010,patellar,Tegner
+34,35,holm_2010,hamstring,Instrumental laxity
+34,35,holm_2010,hamstring,Tegner
+34,35,holm_2010,patellar,Instrumental laxity
+34,35,holm_2010,patellar,Tegner
+35,36,horstmann_2022,hamstring,IKDC
+35,36,horstmann_2022,hamstring,Instrumental laxity
+35,36,horstmann_2022,hamstring,Lysholm
+35,36,horstmann_2022,quadriceps,IKDC
+35,36,horstmann_2022,quadriceps,Instrumental laxity
+35,36,horstmann_2022,quadriceps,Lysholm
+36,37,ibrahim_2005,hamstring,Instrumental laxity
+36,37,ibrahim_2005,hamstring,Lachman
+36,37,ibrahim_2005,hamstring,Lysholm
+36,37,ibrahim_2005,hamstring,Pivot shift
+36,37,ibrahim_2005,patellar,Instrumental laxity
+36,37,ibrahim_2005,patellar,Lachman
+36,37,ibrahim_2005,patellar,Lysholm
+36,37,ibrahim_2005,patellar,Pivot shift
+37,38,iliopoulos_2017,hamstring,IKDC
+37,38,iliopoulos_2017,hamstring,Lachman
+37,38,iliopoulos_2017,hamstring,Lysholm
+37,38,iliopoulos_2017,hamstring,Pivot shift
+37,38,iliopoulos_2017,patellar,IKDC
+37,38,iliopoulos_2017,patellar,Lachman
+37,38,iliopoulos_2017,patellar,Lysholm
+37,38,iliopoulos_2017,patellar,Pivot shift
+40,41,jansson_2003,hamstring,Instrumental laxity
+40,41,jansson_2003,hamstring,Lachman
+40,41,jansson_2003,hamstring,Lysholm
+40,41,jansson_2003,hamstring,Pivot shift
+40,41,jansson_2003,hamstring,Tegner
+40,41,jansson_2003,patellar,Instrumental laxity
+40,41,jansson_2003,patellar,Lachman
+40,41,jansson_2003,patellar,Lysholm
+40,41,jansson_2003,patellar,Pivot shift
+40,41,jansson_2003,patellar,Tegner
+42,43,kautzner_2015,hamstring,Instrumental laxity
+42,43,kautzner_2015,hamstring,Lysholm
+42,43,kautzner_2015,patellar,Instrumental laxity
+42,43,kautzner_2015,patellar,Lysholm
+43,44,komzak_2022,patellar,IKDC
+43,44,komzak_2022,patellar,Lysholm
+43,44,komzak_2022,quadriceps,IKDC
+43,44,komzak_2022,quadriceps,Lysholm
+44,45,konrads_2016,hamstring,IKDC
+44,45,konrads_2016,hamstring,Instrumental laxity
+44,45,konrads_2016,hamstring,Lachman
+44,45,konrads_2016,hamstring,Lysholm
+44,45,konrads_2016,hamstring,Pivot shift
+44,45,konrads_2016,hamstring,Tegner
+44,45,konrads_2016,patellar,IKDC
+44,45,konrads_2016,patellar,Instrumental laxity
+44,45,konrads_2016,patellar,Lachman
+44,45,konrads_2016,patellar,Lysholm
+44,45,konrads_2016,patellar,Pivot shift
+44,45,konrads_2016,patellar,Tegner
+45,46,laoruengthana_2009,hamstring,IKDC
+45,46,laoruengthana_2009,hamstring,Instrumental laxity
+45,46,laoruengthana_2009,hamstring,Lysholm
+45,46,laoruengthana_2009,hamstring,Pivot shift
+45,46,laoruengthana_2009,patellar,IKDC
+45,46,laoruengthana_2009,patellar,Instrumental laxity
+45,46,laoruengthana_2009,patellar,Lysholm
+45,46,laoruengthana_2009,patellar,Pivot shift
+46,47,lawhorn_2012,hamstring,IKDC
+46,47,lawhorn_2012,hamstring,Instrumental laxity
+46,47,lawhorn_2012,hamstring,Pivot shift
+46,47,lawhorn_2012,tibialis,IKDC
+46,47,lawhorn_2012,tibialis,Instrumental laxity
+46,47,lawhorn_2012,tibialis,Pivot shift
+48,49,laxdal_2005,hamstring,IKDC
+48,49,laxdal_2005,hamstring,Instrumental laxity
+48,49,laxdal_2005,hamstring,Lysholm
+48,49,laxdal_2005,hamstring,Tegner
+48,49,laxdal_2005,patellar,IKDC
+48,49,laxdal_2005,patellar,Instrumental laxity
+48,49,laxdal_2005,patellar,Lysholm
+48,49,laxdal_2005,patellar,Tegner
+49,50,leitgeb_2014,hamstring,Instrumental laxity
+49,50,leitgeb_2014,hamstring,Lachman
+49,50,leitgeb_2014,patellar,Instrumental laxity
+49,50,leitgeb_2014,patellar,Lachman
+50,51,li_2015,hamstring,IKDC
+50,51,li_2015,hamstring,Instrumental laxity
+50,51,li_2015,hamstring,Lachman
+50,51,li_2015,hamstring,Lysholm
+50,51,li_2015,hamstring,Pivot shift
+50,51,li_2015,hamstring,Tegner
+50,51,li_2015,tibialis,IKDC
+50,51,li_2015,tibialis,Instrumental laxity
+50,51,li_2015,tibialis,Lachman
+50,51,li_2015,tibialis,Lysholm
+50,51,li_2015,tibialis,Pivot shift
+50,51,li_2015,tibialis,Tegner
+51,52,lidén_2007,hamstring,IKDC
+51,52,lidén_2007,hamstring,Instrumental laxity
+51,52,lidén_2007,hamstring,Lachman
+51,52,lidén_2007,hamstring,Lysholm
+51,52,lidén_2007,hamstring,Tegner
+51,52,lidén_2007,patellar,IKDC
+51,52,lidén_2007,patellar,Instrumental laxity
+51,52,lidén_2007,patellar,Lachman
+51,52,lidén_2007,patellar,Lysholm
+51,52,lidén_2007,patellar,Tegner
+52,53,lind_2020,hamstring,IKDC
+52,53,lind_2020,hamstring,Instrumental laxity
+52,53,lind_2020,hamstring,Pivot shift
+52,53,lind_2020,hamstring,Tegner
+52,53,lind_2020,quadriceps,IKDC
+52,53,lind_2020,quadriceps,Instrumental laxity
+52,53,lind_2020,quadriceps,Pivot shift
+52,53,lind_2020,quadriceps,Tegner
+53,54,lucidi_2025,hamstring,Graft rupture
+53,54,lucidi_2025,hamstring,IKDC
+53,54,lucidi_2025,hamstring,Instrumental laxity
+53,54,lucidi_2025,hamstring,Lysholm
+53,54,lucidi_2025,hamstring,Pivot shift
+53,54,lucidi_2025,hamstring,Tegner
+53,54,lucidi_2025,patellar,Graft rupture
+53,54,lucidi_2025,patellar,IKDC
+53,54,lucidi_2025,patellar,Instrumental laxity
+53,54,lucidi_2025,patellar,Lysholm
+53,54,lucidi_2025,patellar,Pivot shift
+53,54,lucidi_2025,patellar,Tegner
+54,55,lui_2012,hamstring,IKDC
+54,55,lui_2012,hamstring,Instrumental laxity
+54,55,lui_2012,hamstring,Lachman
+54,55,lui_2012,hamstring,Lysholm
+54,55,lui_2012,patellar,IKDC
+54,55,lui_2012,patellar,Instrumental laxity
+54,55,lui_2012,patellar,Lachman
+54,55,lui_2012,patellar,Lysholm
+55,56,lund_2014,patellar,IKDC
+55,56,lund_2014,patellar,Instrumental laxity
+55,56,lund_2014,quadriceps,IKDC
+55,56,lund_2014,quadriceps,Instrumental laxity
+56,57,maletis_2007,hamstring,IKDC
+56,57,maletis_2007,hamstring,Instrumental laxity
+56,57,maletis_2007,hamstring,Lysholm
+56,57,maletis_2007,hamstring,Tegner
+56,57,maletis_2007,patellar,IKDC
+56,57,maletis_2007,patellar,Instrumental laxity
+56,57,maletis_2007,patellar,Lysholm
+56,57,maletis_2007,patellar,Tegner
+57,58,malik_2026,hamstring,IKDC
+57,58,malik_2026,hamstring,Instrumental laxity
+57,58,malik_2026,hamstring,Lachman
+57,58,malik_2026,hamstring,Lysholm
+57,58,malik_2026,hamstring,Pivot shift
+57,58,malik_2026,hamstring,Tegner
+57,58,malik_2026,peroneus,IKDC
+57,58,malik_2026,peroneus,Instrumental laxity
+57,58,malik_2026,peroneus,Lachman
+57,58,malik_2026,peroneus,Lysholm
+57,58,malik_2026,peroneus,Pivot shift
+57,58,malik_2026,peroneus,Tegner
+61,62,matsumoto_2006,hamstring,IKDC
+61,62,matsumoto_2006,hamstring,Instrumental laxity
+61,62,matsumoto_2006,patellar,IKDC
+61,62,matsumoto_2006,patellar,Instrumental laxity
+65,66,mohtadi_2016b,hamstring,Graft rupture
+65,66,mohtadi_2016b,hamstring,Instrumental laxity
+65,66,mohtadi_2016b,hamstring,Lachman
+65,66,mohtadi_2016b,patellar,Graft rupture
+65,66,mohtadi_2016b,patellar,Instrumental laxity
+65,66,mohtadi_2016b,patellar,Lachman
+66,67,mohtadi_chan_2019,hamstring,Graft rupture
+66,67,mohtadi_chan_2019,hamstring,IKDC
+66,67,mohtadi_chan_2019,hamstring,Instrumental laxity
+66,67,mohtadi_chan_2019,hamstring,Lachman
+66,67,mohtadi_chan_2019,hamstring,Pivot shift
+66,67,mohtadi_chan_2019,patellar,Graft rupture
+66,67,mohtadi_chan_2019,patellar,IKDC
+66,67,mohtadi_chan_2019,patellar,Instrumental laxity
+66,67,mohtadi_chan_2019,patellar,Lachman
+66,67,mohtadi_chan_2019,patellar,Pivot shift
+67,68,moraiti_2010,hamstring,Graft rupture
+67,68,moraiti_2010,hamstring,IKDC
+67,68,moraiti_2010,hamstring,Instrumental laxity
+67,68,moraiti_2010,hamstring,Lachman
+67,68,moraiti_2010,hamstring,Lysholm
+67,68,moraiti_2010,hamstring,Tegner
+67,68,moraiti_2010,patellar,Graft rupture
+67,68,moraiti_2010,patellar,IKDC
+67,68,moraiti_2010,patellar,Instrumental laxity
+67,68,moraiti_2010,patellar,Lachman
+67,68,moraiti_2010,patellar,Lysholm
+67,68,moraiti_2010,patellar,Tegner
+69,70,noh_2011,Achilles,Graft rupture
+69,70,noh_2011,Achilles,IKDC
+69,70,noh_2011,Achilles,Instrumental laxity
+69,70,noh_2011,Achilles,Lachman
+69,70,noh_2011,Achilles,Lysholm
+69,70,noh_2011,Achilles,Pivot shift
+69,70,noh_2011,Achilles,Tegner
+69,70,noh_2011,hamstring,Graft rupture
+69,70,noh_2011,hamstring,IKDC
+69,70,noh_2011,hamstring,Instrumental laxity
+69,70,noh_2011,hamstring,Lachman
+69,70,noh_2011,hamstring,Lysholm
+69,70,noh_2011,hamstring,Pivot shift
+69,70,noh_2011,hamstring,Tegner
+71,72,oneill_1996,hamstring,IKDC
+71,72,oneill_1996,hamstring,Instrumental laxity
+71,72,oneill_1996,hamstring,Lysholm
+71,72,oneill_1996,patellar,IKDC
+71,72,oneill_1996,patellar,Instrumental laxity
+71,72,oneill_1996,patellar,Lysholm
+72,73,papalia_2015,hamstring,IKDC
+72,73,papalia_2015,hamstring,Lysholm
+72,73,papalia_2015,patellar,IKDC
+72,73,papalia_2015,patellar,Lysholm
+75,76,pinczewski_2007,hamstring,IKDC
+75,76,pinczewski_2007,hamstring,Instrumental laxity
+75,76,pinczewski_2007,hamstring,Lachman
+75,76,pinczewski_2007,hamstring,Lysholm
+75,76,pinczewski_2007,hamstring,Pivot shift
+75,76,pinczewski_2007,patellar,IKDC
+75,76,pinczewski_2007,patellar,Instrumental laxity
+75,76,pinczewski_2007,patellar,Lachman
+75,76,pinczewski_2007,patellar,Lysholm
+75,76,pinczewski_2007,patellar,Pivot shift
+76,77,popovic_2024,hamstring,Instrumental laxity
+76,77,popovic_2024,hamstring,Lachman
+76,77,popovic_2024,hamstring,Lysholm
+76,77,popovic_2024,hamstring,Pivot shift
+76,77,popovic_2024,hamstring,Tegner
+76,77,popovic_2024,patellar,Instrumental laxity
+76,77,popovic_2024,patellar,Lachman
+76,77,popovic_2024,patellar,Lysholm
+76,77,popovic_2024,patellar,Pivot shift
+76,77,popovic_2024,patellar,Tegner
+81,82,sajovic_2018,hamstring,IKDC
+81,82,sajovic_2018,hamstring,Instrumental laxity
+81,82,sajovic_2018,hamstring,Lachman
+81,82,sajovic_2018,hamstring,Lysholm
+81,82,sajovic_2018,hamstring,Pivot shift
+81,82,sajovic_2018,patellar,IKDC
+81,82,sajovic_2018,patellar,Instrumental laxity
+81,82,sajovic_2018,patellar,Lachman
+81,82,sajovic_2018,patellar,Lysholm
+81,82,sajovic_2018,patellar,Pivot shift
+83,84,sinding_2020,hamstring,IKDC
+83,84,sinding_2020,quadriceps,IKDC
+84,85,smith_2020,hamstring,Graft rupture
+84,85,smith_2020,hamstring,IKDC
+84,85,smith_2020,hamstring,Instrumental laxity
+84,85,smith_2020,patellar,Graft rupture
+84,85,smith_2020,patellar,IKDC
+84,85,smith_2020,patellar,Instrumental laxity
+84,85,smith_2020,quadriceps,Graft rupture
+84,85,smith_2020,quadriceps,IKDC
+84,85,smith_2020,quadriceps,Instrumental laxity
+85,86,sonnery-cottet_2020,hamstring,IKDC
+85,86,sonnery-cottet_2020,hamstring,Instrumental laxity
+85,86,sonnery-cottet_2020,hamstring,Lachman
+85,86,sonnery-cottet_2020,hamstring,Lysholm
+85,86,sonnery-cottet_2020,hamstring,Pivot shift
+85,86,sonnery-cottet_2020,hamstring,Tegner
+85,86,sonnery-cottet_2020,patellar,IKDC
+85,86,sonnery-cottet_2020,patellar,Instrumental laxity
+85,86,sonnery-cottet_2020,patellar,Lachman
+85,86,sonnery-cottet_2020,patellar,Lysholm
+85,86,sonnery-cottet_2020,patellar,Pivot shift
+85,86,sonnery-cottet_2020,patellar,Tegner
+86,87,sonnery-cottet_2026,hamstring,Graft rupture
+86,87,sonnery-cottet_2026,hamstring,IKDC
+86,87,sonnery-cottet_2026,hamstring,Instrumental laxity
+86,87,sonnery-cottet_2026,hamstring,Lysholm
+86,87,sonnery-cottet_2026,hamstring,Pivot shift
+86,87,sonnery-cottet_2026,hamstring,Tegner
+86,87,sonnery-cottet_2026,patellar,Graft rupture
+86,87,sonnery-cottet_2026,patellar,IKDC
+86,87,sonnery-cottet_2026,patellar,Instrumental laxity
+86,87,sonnery-cottet_2026,patellar,Lysholm
+86,87,sonnery-cottet_2026,patellar,Pivot shift
+86,87,sonnery-cottet_2026,patellar,Tegner
+88,89,tang_2023,hamstring,IKDC
+88,89,tang_2023,quadriceps,IKDC
+89,90,taylor_2009,hamstring,IKDC
+89,90,taylor_2009,hamstring,Instrumental laxity
+89,90,taylor_2009,hamstring,Lysholm
+89,90,taylor_2009,hamstring,Pivot shift
+89,90,taylor_2009,hamstring,Tegner
+89,90,taylor_2009,patellar,IKDC
+89,90,taylor_2009,patellar,Instrumental laxity
+89,90,taylor_2009,patellar,Lysholm
+89,90,taylor_2009,patellar,Pivot shift
+89,90,taylor_2009,patellar,Tegner
+92,93,vilchez-cavazos_2020,patellar,IKDC
+92,93,vilchez-cavazos_2020,patellar,Instrumental laxity
+92,93,vilchez-cavazos_2020,patellar,Lysholm
+92,93,vilchez-cavazos_2020,patellar,Tegner
+92,93,vilchez-cavazos_2020,quadriceps,IKDC
+92,93,vilchez-cavazos_2020,quadriceps,Instrumental laxity
+92,93,vilchez-cavazos_2020,quadriceps,Lysholm
+92,93,vilchez-cavazos_2020,quadriceps,Tegner
+94,95,webster_2001,hamstring,IKDC
+94,95,webster_2001,hamstring,Instrumental laxity
+94,95,webster_2001,patellar,IKDC
+94,95,webster_2001,patellar,Instrumental laxity
+95,96,wipfler_2011,hamstring,Graft rupture
+95,96,wipfler_2011,hamstring,IKDC
+95,96,wipfler_2011,hamstring,Instrumental laxity
+95,96,wipfler_2011,hamstring,Lachman
+95,96,wipfler_2011,hamstring,Lysholm
+95,96,wipfler_2011,hamstring,Pivot shift
+95,96,wipfler_2011,hamstring,Tegner
+95,96,wipfler_2011,patellar,Graft rupture
+95,96,wipfler_2011,patellar,IKDC
+95,96,wipfler_2011,patellar,Instrumental laxity
+95,96,wipfler_2011,patellar,Lachman
+95,96,wipfler_2011,patellar,Lysholm
+95,96,wipfler_2011,patellar,Pivot shift
+95,96,wipfler_2011,patellar,Tegner
+96,97,yadav_2025,hamstring,Instrumental laxity
+96,97,yadav_2025,hamstring,Lachman
+96,97,yadav_2025,hamstring,Lysholm
+96,97,yadav_2025,hamstring,Pivot shift
+96,97,yadav_2025,quadriceps,Instrumental laxity
+96,97,yadav_2025,quadriceps,Lachman
+96,97,yadav_2025,quadriceps,Lysholm
+96,97,yadav_2025,quadriceps,Pivot shift
+97,98,yoo_2017,hamstring,Instrumental laxity
+97,98,yoo_2017,hamstring,Lachman
+97,98,yoo_2017,hamstring,Lysholm
+97,98,yoo_2017,hamstring,Pivot shift
+97,98,yoo_2017,hamstring,Tegner
+97,98,yoo_2017,tibialis,Instrumental laxity
+97,98,yoo_2017,tibialis,Lachman
+97,98,yoo_2017,tibialis,Lysholm
+97,98,yoo_2017,tibialis,Pivot shift
+97,98,yoo_2017,tibialis,Tegner
+99,100,zaffagnini_2011,hamstring,IKDC
+99,100,zaffagnini_2011,hamstring,Instrumental laxity
+99,100,zaffagnini_2011,patellar,IKDC
+99,100,zaffagnini_2011,patellar,Instrumental laxity

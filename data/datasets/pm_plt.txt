@@ -1,0 +1,1 @@
+("anterior cruciate ligament"[mh] OR "anterior cruciate ligament"[tiab] OR "anterior cruciate ligament reconstruction"[tiab] OR "acl"[tiab]) AND ("peroneus"[tiab] OR "peroneus longus"[tiab] OR "fibularis longus"[tiab]) AND ("randomized controlled trial"[pt] OR "randomized controlled trial"[tiab] OR "randomised controlled trial"[tiab])

@@ -1,0 +1,1 @@
+([mh "anterior cruciate ligament"] OR "anterior cruciate ligament":ti,ab OR "anterior cruciate ligament reconstruction":ti,ab OR "acl":ti,ab) AND ("bone-patellar tendon-bone":ti,ab OR "bone patellar tendon bone":ti,ab OR "patellar tendon":ti,ab OR "bptb":ti,ab) AND ("randomized controlled trial":pt OR "randomized controlled trial":ti,ab OR "randomised controlled trial":ti,ab)
