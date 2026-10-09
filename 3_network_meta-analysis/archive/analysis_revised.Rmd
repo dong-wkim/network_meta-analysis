@@ -1,0 +1,261 @@
+---
+title: "analysis_revised"
+output: html_document
+---
+
+```{r}
+
+setwd("C:/Users/Danny/My Drive/d-wkim/network_meta-analysis/3_meta-analysis/")
+
+packages <- c(
+  "readr",
+  "readxl",
+  "meta",
+  "metafor",
+	"netmeta",
+  "ggplot2"
+)
+
+# install packages only if not already installed.
+for (package in packages) {
+  if (!requireNamespace(package, quietly = TRUE))
+    install.packages(package, dependencies = TRUE)
+}
+
+# load libraries
+lapply(packages, library, character.only = TRUE)
+
+```
+```{r}
+
+save_plot <- function(folder, plot) {
+  
+  folder = paste0("./plots/", folder, "/")
+  dir.create(folder, showWarnings = FALSE)
+  file = paste0(folder, plot, ".svg")
+  
+  svg(file)
+  print(plot)
+  dev.off()
+  
+  file = paste0(folder, plot, ".png")
+  png(file)
+  print(plot)
+  dev.off()
+  
+}
+
+save_result <- function(folder, filename, result) {
+  
+  folder = paste0("./results/", folder, "/")
+  dir.create(folder, showWarnings = FALSE)
+  file = paste0(folder, filename, ".txt")  
+  
+  sink(file)
+  print(result)
+  sink
+  
+}
+
+```
+
+
+```{r}
+
+meta_analysis <- function(df) {
+  
+  # meta-analysis
+  data_path <- paste0("C:/Users/Danny/My Drive/d-wkim/network_meta-analysis/3_meta-analysis/data/extracted/csv/", df, ".csv")
+  data <- read.csv(data_path)
+
+  # calculation of effect size estimate 
+  ies <- escalc(measure = "MN", 
+               # n1i = n1, n2i = n2, m1i = y1, m2i = y2, sd1i = sd1, sd2i = sd2, 
+               data = data, slab = study,
+               ni = ni, mi = yi, sdi = sdi)
+    
+  sink(paste0("./data/results/", df, ".txt"))
+  m.mean <- metamean(n = ni, mean = yi, sd = sdi, studlab = study, data = data,
+                     sm = "MRAW", common = FALSE, random = TRUE, tau.common = FALSE,
+                     method.tau = "REML", method.random.ci = "HK", subgroup = subgroup)
+  print(summary(m.mean))
+  sink()
+}
+```
+
+```{r}
+
+network_meta_analysis <- function(df, sm, reference) {
+  
+  data_path <- paste0("./data/sheets_for_analysis/csv/", df, ".csv")
+  data <- read_csv(data_path)
+
+  m.netmeta <- netmeta(TE = TE, 
+                    	 seTE = seTE,
+                    	 treat1 = treat1,
+                    	 treat2 = treat2,
+                    	 studlab = study,
+                    	 data = data,
+                    	 sm = paste0(sm),
+                    	 common = FALSE, 
+                    	 random = TRUE,
+                    	 reference.group = paste0(reference),
+                    	 details.chkmultiarm = TRUE,
+                    	 sep.trts = " vs "
+	)
+  
+  sink(file = paste0("./results/netmeta/", df, ".txt"))
+  print(m.netmeta)
+  sink()
+
+  netleague <- netleague(m.netmeta,
+                         bracket = "[",
+                         digits=3
+                         )     
+  
+  write.csv(netleague$random, paste0("./results/netleague/", df, ".csv"))
+  
+	sink(file = paste0("./results/netrank/", df, ".txt"))
+  netrank(m.netmeta, small.values = "good")
+  sink()
+}
+
+```
+
+```
+  file = paste0("./plots/netgraph/", df, ".svg")
+  svg(file)
+  netgraph <- netgraph(m.netmeta)
+  print(netgraph)
+  dev.off()
+  
+  file = paste0("./plots/forest/", df, ".svg")
+  svg(file, width = 1200, height = 800)
+  netsplit <- netsplit(m.netmeta)
+  netforest <- forest(netsplit)
+  print(netforest)
+  dev.off()
+  
+  file = paste0("./plots/netheat/", df, ".svg")
+  svg(file)
+  netheat(m.netmeta)
+  dev.off()
+  
+  assign(paste0(df), m.netmeta, envir = .GlobalEnv)
+  assign(paste0(df), netforest, envir = .GlobalEnv)
+  assign(paste0(df), m.netmeta, envir = .GlobalEnv)
+
+}
+  
+```
+
+```{r}
+
+continuous <- c(
+  "ikdc_subjective",
+  "lysholm",
+  "tegner",
+  "instrumented_laxity"
+)
+
+dichotomous <- c(
+  "pivot_shift_1",
+  "pivot_shift_2",
+  "lachman_1",
+  "lachman_2",
+  "graft_failure"
+)
+
+
+lapply(continuous, sm = "SMD", reference = "BPTB", network_meta_analysis)
+lapply(dichotomous, sm = "OR", reference = "BPTB", network_meta_analysis)
+
+```
+```{r}
+
+data <- read.csv("./data/sheets_for_analysis/csv/ikdc_subjective.csv")
+
+results <- netmeta(data = data,
+                   TE = TE,
+                   seTE = seTE,
+                   treat1 = treat1,
+                   treat2 = treat2,
+                   studlab = study,
+                   sm = "SMD",
+                   common = FALSE, 
+                   random = TRUE,
+                   reference.group = "",
+                   details.chkmultiarm = TRUE,
+                   sep.trts = " vs "
+	)
+
+print(results)
+print(netsplit(results))
+print(netleague(results))
+```
+
+
+```{r}
+
+nma_forest <- function(m.netmeta) {
+  m.netmeta <- netsplit(m.netmeta)
+  forest(x = m.netmeta,
+         pooled = "random",
+         show = "all",
+         subgroup = "comparison",
+         overall = m.netmeta$overall,
+         direct = m.netmeta$direct,
+         indirect = m.netmeta$indirect,
+         prediction = m.netmeta$prediction,
+         only.reference = m.netmeta$only.reference,
+         sortvar = NULL,
+         subset = NULL,
+         text.overall = "Network estimate",
+         text.direct = "Direct estimate",
+         text.indirect = "Indirect estimate",
+         text.predict = "Prediction interval",
+#         type.overall,
+ #        type.direct,
+  #       type.indirect,
+  #       col.square = "gray",
+   #      col.square.lines = col.square,
+         col.inside = "white",
+         col.diamond = "gray",
+         col.diamond.lines = "black",
+         col.predict = "red",
+         col.predict.lines = "black",
+         col.subgroup = "black",
+         equal.size = TRUE,
+ 
+         rightcols = c("effect", "ci"),
+         rightlabs = NULL,
+         digits = gs("digits.forest"),
+         digits.prop = max(gs("digits.pval") - 2, 2),
+         backtransf = m.netmeta$backtransf,
+         lab.NA = ""
+  )
+}
+  
+file = paste0("./plots/forest/", "ikdc_subjective", ".svg")
+svg(file, width = 1200, height = 1500)
+nma_forest(ikdc_subjective)
+dev.off()
+
+
+
+continuous <- c(ikdc_subjective, lysholm, tegner, instrumented_laxity)
+lapply(continuous, nma.forest)
+         
+```
+
+```{r}
+
+source("C:/Users/Danny/My Drive/network_meta-analysis/analysis/src/forest.netmeta.R", echo = TRUE)
+
+
+
+```
+
+
+
+

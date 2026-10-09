@@ -1,0 +1,235 @@
+id,study,subgroup,outcome,n,mean,sd,min,q1,median,q3,max
+1,"Ageberg et al., 2009",BPTB,tegner,16,4.17,1.41,2,,4,,7
+1,"Ageberg et al., 2009",HT,tegner,20,3.15,1.34,1,,3,,6
+2,"Aglietti et al., 2004",BPTB,instrumental laxity,60,2.20,1.08,0,,,,5
+2,"Aglietti et al., 2004",HT,instrumental laxity,60,1.95,1.30,-1,,,,5
+3,"Ahldén et al., 2009",BPTB,lysholm,25,80.70,21.64,15,,89,,100
+3,"Ahldén et al., 2009",BPTB,tegner,25,4.87,2.29,0,,5,,9
+3,"Ahldén et al., 2009",BPTB,instrumental laxity,25,2.60,3.30,,,,,
+3,"Ahldén et al., 2009",HT,lysholm,22,79.16,13.35,49,,81,,100
+3,"Ahldén et al., 2009",HT,tegner,22,4.86,1.31,2,,5,,7
+3,"Ahldén et al., 2009",HT,instrumental laxity,22,1.40,2.60,,,,,
+5,"Anderson et al., 2001",BPTB,instrumental laxity,35,2.10,2.00,,,,,
+5,"Anderson et al., 2001",HT,instrumental laxity,33,3.10,2.30,,,,,
+7,"Aune et al., 2001",BPTB,instrumental laxity,32,3.30,2.60,,,,,
+7,"Aune et al., 2001",HT,instrumental laxity,29,2.90,2.40,,,,,
+9,"Barenius et al., 2010",BPTB,tegner,78,5.80,1.87,0,,6,,9
+9,"Barenius et al., 2010",BPTB,lysholm,78,85.82,11.83,43,,88,,100
+9,"Barenius et al., 2010",HT,tegner,75,4.07,1.88,0,,4,,9
+9,"Barenius et al., 2010",HT,lysholm,75,86.42,12.53,40,,89,,100
+10,"Barié et al., 2020",BPTB,ikdc,43,91.00,7.30,,,,,
+10,"Barié et al., 2020",BPTB,lysholm,43,95.20,6.60,,,,,
+10,"Barié et al., 2020",BPTB,tegner,43,6.10,1.14,4,,6,,9
+10,"Barié et al., 2020",BPTB,instrumental laxity,43,1.05,1.36,,,,,
+10,"Barié et al., 2020",QT,ikdc,43,92.00,11.50,,,,,
+10,"Barié et al., 2020",QT,lysholm,43,95.60,7.80,,,,,
+10,"Barié et al., 2020",QT,tegner,43,6.10,1.14,4,,6,,9
+10,"Barié et al., 2020",QT,instrumental laxity,43,1.00,1.10,,,,,
+12,"Bi et al., 2018",HT,ikdc,62,90.40,7.10,,,,,
+12,"Bi et al., 2018",HT,instrumental laxity,62,1.71,0.57,,,,,
+12,"Bi et al., 2018",PLT,ikdc,62,89.30,8.40,,,,,
+12,"Bi et al., 2018",PLT,instrumental laxity,62,1.85,0.77,,,,,
+13,"Björnsson et al., 2016",BPTB,ikdc,61,67.30,20.80,,,,,
+13,"Björnsson et al., 2016",BPTB,tegner,61,4.10,1.70,,,,,
+13,"Björnsson et al., 2016",BPTB,lysholm,61,79.40,16.90,,,,,
+13,"Björnsson et al., 2016",HT,ikdc,86,74.00,18.80,,,,,
+13,"Björnsson et al., 2016",HT,tegner,86,4.00,1.70,,,,,
+13,"Björnsson et al., 2016",HT,lysholm,86,80.70,15.30,,,,,
+14,"Bottoni et al., 2015",HT,ikdc,44,79.50,24.70,,,,,
+14,"Bottoni et al., 2015",HT,tegner,44,5.10,2.20,,,,,
+14,"Bottoni et al., 2015",TA,ikdc,36,81.10,23.10,,,,,
+14,"Bottoni et al., 2015",TA,tegner,36,5.10,2.00,,,,,
+18,"Butt et al., 2024",HT,lysholm,30,95.10,5.20,,,,,
+18,"Butt et al., 2024",HT,ikdc,30,89.70,5.70,,,,,
+18,"Butt et al., 2024",PLT,lysholm,30,94.50,6.40,,,,,
+18,"Butt et al., 2024",PLT,ikdc,30,89.90,9.80,,,,,
+19,"Calvert et al., 2025",HT,ikdc,92,92.00,8.00,,,,,
+19,"Calvert et al., 2025",HT,lysholm,92,94.00,7.00,,,,,
+19,"Calvert et al., 2025",QT,ikdc,89,89.00,10.00,,,,,
+19,"Calvert et al., 2025",QT,lysholm,89,93.00,8.00,,,,,
+23,"Ejerhed et al., 2003",BPTB,tegner,32,5.77,1.94,1,,6,,9
+23,"Ejerhed et al., 2003",BPTB,lysholm,32,89.96,13.06,46,,95,,100
+23,"Ejerhed et al., 2003",BPTB,instrumental laxity,32,2.29,3.99,-5,,2,,11.5
+23,"Ejerhed et al., 2003",HT,tegner,34,6.39,1.43,3,,6.5,,9
+23,"Ejerhed et al., 2003",HT,lysholm,34,86.79,11.71,51,,90,,100
+23,"Ejerhed et al., 2003",HT,instrumental laxity,34,2.47,3.47,-4,,2.25,,10.5
+25,"Eriksson et al., 2001",BPTB,instrumental laxity,42,0.95,0.91,,,,,
+25,"Eriksson et al., 2001",HT,instrumental laxity,47,1.10,0.95,,,,,
+26,"Feller & Webster, 2003",BPTB,instrumental laxity,27,0.50,1.00,,,,,
+26,"Feller & Webster, 2003",HT,instrumental laxity,21,1.10,1.20,,,,,
+30,"Gifstad et al., 2013",BPTB,instrumental laxity,41,1.40,1.80,,,,,
+30,"Gifstad et al., 2013",HT,instrumental laxity,36,1.40,1.40,,,,,
+32,"Guglielmetti et al., 2021",BPTB,ikdc,31,88.75,9.27,,,,,
+32,"Guglielmetti et al., 2021",BPTB,lysholm,31,89.87,9.17,,,,,
+32,"Guglielmetti et al., 2021",HT,ikdc,31,91.00,9.07,,,,,
+32,"Guglielmetti et al., 2021",HT,lysholm,31,91.26,9.36,,,,,
+33,"Harilainen et al., 2006",BPTB,tegner,37,5.89,2.12,1,,6,,10
+,"Harilainen et al., 2006",BPTB,lysholm,37,89.11,15.53,34,,95,,100
+33,"Harilainen et al., 2006",BPTB,instrumental laxity,37,1.50,3.00,,,,,
+,"Harilainen et al., 2006",HT,lysholm,37,95.00,15.53,34,,95,,100
+33,"Harilainen et al., 2006",HT,tegner,37,6.00,1.41,3,,6,,9
+33,"Harilainen et al., 2006",HT,instrumental laxity,37,1.20,3.90,,,,,
+34,"Heijne & Werner, 2010",BPTB,tegner,30,6.64,2.21,1,,7,,10
+34,"Heijne & Werner, 2010",HT,tegner,29,5.00,1.48,2,,5,,8
+35,"Holm et al., 2010",BPTB,instrumental laxity,28,3.00,3.20,,,,,
+35,"Holm et al., 2010",BPTB,lysholm,28,84.20,15.40,,,,,
+35,"Holm et al., 2010",HT,instrumental laxity,29,2.00,3.50,,,,,
+35,"Holm et al., 2010",HT,lysholm,29,86.10,15.10,,,,,
+36,"Horstmann et al., 2022",HT,ikdc,26,83.70,12.70,,,,,
+36,"Horstmann et al., 2022",HT,lysholm,26,83.50,17.40,,,,,
+36,"Horstmann et al., 2022",HT,instrumental laxity,26,0.20,2.20,,,,,
+36,"Horstmann et al., 2022",QT,ikdc,23,89.30,12.20,,,,,
+36,"Horstmann et al., 2022",QT,lysholm,23,90.40,11.90,,,,,
+36,"Horstmann et al., 2022",QT,instrumental laxity,23,0.70,1.10,,,,,
+37,"Ibrahim et al., 2005",BPTB,lysholm,40,91.60,3.94,79,,,,96
+37,"Ibrahim et al., 2005",HT,lysholm,46,92.70,3.62,81,,,,97
+38,"Iliopoulos et al., 2017",BPTB,ikdc,45,83.20,2.80,,,,,
+38,"Iliopoulos et al., 2017",BPTB,lysholm,45,95.80,2.40,,,,,
+38,"Iliopoulos et al., 2017",HT,ikdc,45,82.78,2.80,,,,,
+38,"Iliopoulos et al., 2017",HT,lysholm,45,94.00,3.60,,,,,
+41,"Jansson et al., 2003",BPTB,instrumental laxity,43,1.70,2.63,-3.7,,,,7.8
+41,"Jansson et al., 2003",BPTB,tegner,43,5.98,1.60,2,,6.1,,9
+41,"Jansson et al., 2003",HT,instrumental laxity,46,1.20,2.65,-4.3,,,,7.4
+41,"Jansson et al., 2003",HT,tegner,46,5.82,2.26,0,,6,,10
+43,"Kautzner et al., 2015",BPTB,lysholm,74,88.00,7.50,,,,,
+43,"Kautzner et al., 2015",BPTB,instrumental laxity,74,0.60,0.21,0,,,,1
+43,"Kautzner et al., 2015",HT,lysholm,73,90.00,7.60,,,,,
+43,"Kautzner et al., 2015",HT,instrumental laxity,73,0.50,0.42,0,,,,2
+44,"Komzak et al., 2022",BPTB,ikdc,36,74.20,10.20,,,,,
+44,"Komzak et al., 2022",BPTB,lysholm,36,93.40,9.60,,,,,
+44,"Komzak et al., 2022",QT,ikdc,36,78.30,10.50,,,,,
+44,"Komzak et al., 2022",QT,lysholm,36,90.10,6.70,,,,,
+45,"Konrads et al., 2016",BPTB,instrumental laxity,24,1.80,0.51,1,,,,3
+45,"Konrads et al., 2016",BPTB,tegner,24,5.90,1.28,4,,,,9
+45,"Konrads et al., 2016",BPTB,lysholm,24,92.00,8.99,63,,,,98
+45,"Konrads et al., 2016",HT,instrumental laxity,23,2.20,0.78,1,,,,4
+45,"Konrads et al., 2016",HT,tegner,23,5.10,1.04,3,,,,7
+45,"Konrads et al., 2016",HT,lysholm,23,91.80,9.33,62,,,,98
+46,"Laoruengthana et al., 2009",BPTB,instrumental laxity,15,1.22,0.69,0.3,,,,2.7
+46,"Laoruengthana et al., 2009",HT,instrumental laxity,13,0.96,0.42,0.2,,,,1.6
+49,"Laxdal et al., 2005",BPTB,tegner,40,6.00,1.85,2,,,,10
+49,"Laxdal et al., 2005",BPTB,lysholm,40,94.00,18.09,22,,,,100
+49,"Laxdal et al., 2005",BPTB,instrumental laxity,40,1.00,3.01,-5,,,,8
+,"Laxdal et al., 2005",HT,tegner,78,4.00,1.64,,,,,
+,"Laxdal et al., 2005",HT,lysholm,78,92.00,13.40,,,,,
+,"Laxdal et al., 2005",HT,instrumental laxity,78,1.50,3.12,,,,,
+51,"Li et al., 2015",HT,instrumental laxity,32,2.10,1.60,,,,,
+51,"Li et al., 2015",HT,ikdc,32,87.50,3.20,,,,,
+51,"Li et al., 2015",HT,tegner,32,7.30,1.30,,,,,
+51,"Li et al., 2015",HT,lysholm,32,91.30,11.50,,,,,
+51,"Li et al., 2015",TA,instrumental laxity,32,3.50,1.20,,,,,
+51,"Li et al., 2015",TA,ikdc,32,83.80,6.90,,,,,
+51,"Li et al., 2015",TA,tegner,32,7.00,2.10,,,,,
+51,"Li et al., 2015",TA,lysholm,32,88.70,8.60,,,,,
+52,"Lidén et al., 2007",BPTB,tegner,30,5.00,1.72,0,,,,7
+52,"Lidén et al., 2007",BPTB,lysholm,30,81.00,18.38,25,,,,100
+52,"Lidén et al., 2007",BPTB,instrumental laxity,30,2.30,3.06,-3.5,,,,9
+52,"Lidén et al., 2007",HT,tegner,32,6.00,1.69,2,,,,9
+52,"Lidén et al., 2007",HT,lysholm,32,90.00,12.10,50,,,,100
+52,"Lidén et al., 2007",HT,instrumental laxity,32,2.70,3.39,-4.5,,,,9.5
+53,"Lind et al., 2020",HT,ikdc,49,78.00,18.00,,,,,
+53,"Lind et al., 2020",HT,tegner,49,5.90,1.30,,,,,
+53,"Lind et al., 2020",HT,instrumental laxity,49,1.90,1.70,,,,,
+53,"Lind et al., 2020",QT,ikdc,47,82.00,14.00,,,,,
+53,"Lind et al., 2020",QT,tegner,47,6.00,1.50,,,,,
+53,"Lind et al., 2020",QT,instrumental laxity,47,1.80,1.00,,,,,
+54,"Lucidi et al., 2025",BPTB,ikdc,19,78.40,13.70,,,,,
+54,"Lucidi et al., 2025",BPTB,tegner,19,3.00,1.08,1,,,,5
+54,"Lucidi et al., 2025",BPTB,lysholm,19,84.80,10.30,,,,,
+54,"Lucidi et al., 2025",BPTB,instrumental laxity,19,-0.10,1.60,,,,,
+54,"Lucidi et al., 2025",HT,ikdc,20,81.60,11.90,,,,,
+54,"Lucidi et al., 2025",HT,tegner,20,4.00,0.80,3,,,,6
+54,"Lucidi et al., 2025",HT,lysholm,20,88.60,8.30,,,,,
+54,"Lucidi et al., 2025",HT,instrumental laxity,20,1.50,1.20,,,,,
+55,"Lui et al., 2012",BPTB,ikdc,14,71.90,15.20,,,,,
+55,"Lui et al., 2012",BPTB,lysholm,14,84.00,13.47,54,,,,100
+55,"Lui et al., 2012",BPTB,instrumental laxity,14,3.70,1.40,,,,,
+55,"Lui et al., 2012",HT,ikdc,17,73.10,12.30,,,,,
+55,"Lui et al., 2012",HT,lysholm,17,80.00,15.59,43,,,,99
+55,"Lui et al., 2012",HT,instrumental laxity,17,3.10,1.60,,,,,
+56,"Lund et al., 2014",BPTB,instrumental laxity,18,1.10,1.40,,,,,
+56,"Lund et al., 2014",BPTB,ikdc,18,75.00,13.00,,,,,
+56,"Lund et al., 2014",QT,instrumental laxity,21,0.80,1.70,,,,,
+56,"Lund et al., 2014",QT,ikdc,21,76.00,16.00,,,,,
+58,"Malik et al., 2026",HT,ikdc,25,78.90,7.40,,,,,
+58,"Malik et al., 2026",HT,lysholm,25,85.10,6.40,,,,,
+58,"Malik et al., 2026",HT,tegner,25,5.10,1.00,,,,,
+58,"Malik et al., 2026",HT,instrumental laxity,25,2.10,1.00,,,,,
+58,"Malik et al., 2026",PLT,ikdc,25,82.60,6.30,,,,,
+58,"Malik et al., 2026",PLT,lysholm,25,89.40,5.80,,,,,
+58,"Malik et al., 2026",PLT,tegner,25,5.60,0.90,,,,,
+58,"Malik et al., 2026",PLT,instrumental laxity,25,1.80,0.90,,,,,
+62,"Matsumoto et al., 2006",BPTB,ikdc,37,84.30,11.00,,,,,
+62,"Matsumoto et al., 2006",BPTB,instrumental laxity,37,1.20,2.10,,,,,
+62,"Matsumoto et al., 2006",HT,ikdc,35,86.80,8.30,,,,,
+62,"Matsumoto et al., 2006",HT,instrumental laxity,35,1.70,1.40,,,,,
+68,"Moraiti et al., 2010",BPTB,ikdc,6,92.00,7.00,,,,,
+68,"Moraiti et al., 2010",BPTB,lysholm,6,96.00,3.00,,,,,
+68,"Moraiti et al., 2010",HT,ikdc,6,90.00,10.00,,,,,
+68,"Moraiti et al., 2010",HT,lysholm,6,95.00,5.00,,,,,
+70,"Noh et al., 2011",HT,tegner,33,6.00,0.96,5,,,,9
+70,"Noh et al., 2011",HT,lysholm,33,98.00,3.61,85,,,,100
+70,"Noh et al., 2011",AT,tegner,32,6.00,1.21,4,,,,9
+70,"Noh et al., 2011",AT,lysholm,32,99.00,3.63,85,,,,100
+73,"Papalia et al., 2015",BPTB,ikdc,20,86.90,11.70,,,,,
+73,"Papalia et al., 2015",BPTB,lysholm,20,87.40,13.80,,,,,
+73,"Papalia et al., 2015",HT,ikdc,20,90.97,5.10,,,,,
+73,"Papalia et al., 2015",HT,lysholm,20,93.17,10.30,,,,,
+76,"Pinczewski et al., 2007",BPTB,instrumental laxity,54,1.20,1.69,,,,,
+76,"Pinczewski et al., 2007",HT,instrumental laxity,58,1.60,1.55,,,,,
+77,"Popovic et al., 2024",BPTB,lysholm,38,82.00,15.45,34,,,,100
+77,"Popovic et al., 2024",BPTB,tegner,38,4.00,1.64,0,,,,7
+77,"Popovic et al., 2024",BPTB,instrumental laxity,38,1.30,2.20,-3,,,,5
+77,"Popovic et al., 2024",HT,lysholm,33,85.00,14.67,39,,,,100
+77,"Popovic et al., 2024",HT,tegner,33,5.00,2.16,0,,,,9
+77,"Popovic et al., 2024",HT,instrumental laxity,33,1.50,3.30,-3,,,,12
+84,"Sinding et al., 2020",HT,ikdc,43,76.00,15.00,,,,,
+84,"Sinding et al., 2020",QT,ikdc,42,76.00,17.00,,,,,
+85,"Smith et al., 2020",BPTB,ikdc,32,89.40,9.20,,,,,
+85,"Smith et al., 2020",BPTB,instrumental laxity,32,0.00,0.80,,,,,
+85,"Smith et al., 2020",HT,ikdc,32,94.80,6.40,,,,,
+85,"Smith et al., 2020",HT,instrumental laxity,32,0.30,0.70,,,,,
+87,"Sonnery-cottet et al., 2026",BPTB,ikdc,296,89.40,10.90,,,,,
+87,"Sonnery-cottet et al., 2026",BPTB,lysholm,296,89.00,12.40,,,,,
+87,"Sonnery-cottet et al., 2026",BPTB,tegner,296,6.60,1.60,,,,,
+87,"Sonnery-cottet et al., 2026",BPTB,instrumental laxity,296,1.20,1.40,,,,,
+87,"Sonnery-cottet et al., 2026",HT,ikdc,297,91.00,10.30,,,,,
+87,"Sonnery-cottet et al., 2026",HT,lysholm,297,91.10,11.90,,,,,
+87,"Sonnery-cottet et al., 2026",HT,tegner,297,6.70,1.70,,,,,
+87,"Sonnery-cottet et al., 2026",HT,instrumental laxity,297,0.90,1.00,,,,,
+89,"Tang et al., 2023",HT,ikdc,16,90.13,6.99,,,92.5,,
+89,"Tang et al., 2023",HT,lysholm,16,90.06,7.33,,,,,
+89,"Tang et al., 2023",QT,ikdc,17,87.12,6.61,,,90,,
+89,"Tang et al., 2023",QT,lysholm,17,90.00,4.26,,,,,
+90,"Taylor et al., 2009",BPTB,tegner,20,6.80,3.27,,,,,
+90,"Taylor et al., 2009",BPTB,lysholm,21,90.30,12.19,,,,,
+90,"Taylor et al., 2009",HT,tegner,24,5.30,3.58,,,,,
+90,"Taylor et al., 2009",HT,lysholm,23,90.40,12.75,,,,,
+93,"Vilchez-cavazos et al., 2020",BPTB,ikdc,14,90.00,1.76,,87,90.00,93,
+93,"Vilchez-cavazos et al., 2020",BPTB,lysholm,14,96.00,2.93,,90,98.00,100,
+93,"Vilchez-cavazos et al., 2020",QT,ikdc,14,88.17,2.49,,83,90.00,91.5,
+93,"Vilchez-cavazos et al., 2020",QT,lysholm,14,95.33,2.64,,91,95.00,100,
+95,"Webster et al., 2001",BPTB,instrumental laxity,23,1.10,0.65,1,,,,3.5
+95,"Webster et al., 2001",HT,instrumental laxity,31,1.70,0.97,0,,,,4
+96,"Wipfler et al., 2011",BPTB,ikdc,29,86.72,2.27,,,,,
+96,"Wipfler et al., 2011",BPTB,lysholm,29,87.28,1.76,,,,,
+96,"Wipfler et al., 2011",BPTB,tegner,29,6.20,0.35,,,,,
+96,"Wipfler et al., 2011",BPTB,instrumental laxity,29,0.90,0.27,,,,,
+96,"Wipfler et al., 2011",HT,ikdc,25,92.95,1.99,,,,,
+96,"Wipfler et al., 2011",HT,lysholm,25,91.82,1.71,,,,,
+96,"Wipfler et al., 2011",HT,tegner,25,6.14,0.37,,,,,
+96,"Wipfler et al., 2011",HT,instrumental laxity,25,0.64,0.36,,,,,
+97,"Yadav et al., 2025",HT,lysholm,36,92.40,0.00,,,,,
+97,"Yadav et al., 2025",HT,instrumental laxity,36,3.77,2.01,,,,,
+97,"Yadav et al., 2025",QT,lysholm,33,88.20,0.00,,,,,
+97,"Yadav et al., 2025",QT,instrumental laxity,33,2.73,1.64,,,,,
+98,"Yoo et al., 2017",HT,tegner,68,5.00,1.48,2,,,,9
+98,"Yoo et al., 2017",HT,lysholm,68,96.00,6.99,67,,,,100
+98,"Yoo et al., 2017",HT,instrumental laxity,68,2.20,0.00,,,,,
+98,"Yoo et al., 2017",TA,tegner,64,5.00,1.07,3,,,,8
+98,"Yoo et al., 2017",TA,lysholm,64,93.00,5.78,73,,,,100
+98,"Yoo et al., 2017",TA,instrumental laxity,64,2.50,0.00,,,,,
+100,"Zaffagnini et al., 2011",BPTB,ikdc,40,82.00,20.00,,,,,
+100,"Zaffagnini et al., 2011",BPTB,instrumental laxity,40,0.40,0.60,,,,,
+100,"Zaffagnini et al., 2011",HT,ikdc,39,88.00,9.00,,,,,
+100,"Zaffagnini et al., 2011",HT,instrumental laxity,39,1.10,1.90,,,,,

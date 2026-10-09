@@ -1,0 +1,19 @@
+Separate indirect from direct evidence (SIDE) using back-calculation method
+
+Random effects model: 
+
+  comparison  k prop     nma  direct  indir.    Diff     z p-value
+ HT vs. BPTB 26 0.97 -0.2698 -0.2852  0.1873 -0.4726 -2.05  0.0399
+ QT vs. BPTB  2 0.39 -0.3743 -0.0869 -0.5594  0.4726  2.05  0.0399
+   HT vs. QT  3 0.64  0.1044  0.2742 -0.1984  0.4726  2.05  0.0399
+
+Legend:
+ comparison - Treatment comparison
+ k          - Number of studies providing direct evidence
+ prop       - Direct evidence proportion
+ nma        - Estimated treatment effect (SMD) in network meta-analysis
+ direct     - Estimated treatment effect (SMD) derived from direct evidence
+ indir.     - Estimated treatment effect (SMD) derived from indirect evidence
+ Diff       - Difference between direct and indirect treatment estimates
+ z          - z-value of test for disagreement (direct versus indirect)
+ p-value    - p-value of test for disagreement (direct versus indirect)

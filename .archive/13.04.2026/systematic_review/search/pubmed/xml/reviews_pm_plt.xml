@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>41722485</Id>
+	<Item Name="PubDate" Type="Date">2026 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2026 Feb 20</Item>
+	<Item Name="Source" Type="String">Knee</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Arora M</Item>
+		<Item Name="Author" Type="String">Tapasvi S</Item>
+		<Item Name="Author" Type="String">Shah J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Shah J</Item>
+	<Item Name="Title" Type="String">Anterior cruciate ligament reconstruction using peroneus longus with lateral extra-articular tenodesis has excellent functional outcomes with a high return to sport rate: A prospective cohort study of 482 patients over 2 years.</Item>
+	<Item Name="Volume" Type="String">60</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">104404</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9430798</Item>
+	<Item Name="ISSN" Type="String">0968-0160</Item>
+	<Item Name="ESSN" Type="String">1873-5800</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41722485</Item>
+		<Item Name="doi" Type="String">10.1016/j.knee.2026.104404</Item>
+		<Item Name="pii" Type="String">S0968-0160(26)00082-7</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.knee.2026.104404</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/11/05 00:00</Item>
+		<Item Name="revised" Type="Date">2026/01/24 00:00</Item>
+		<Item Name="accepted" Type="Date">2026/02/09 00:00</Item>
+		<Item Name="medline" Type="Date">2026/04/19 17:44</Item>
+		<Item Name="pubmed" Type="Date">2026/02/22 05:34</Item>
+		<Item Name="entrez" Type="Date">2026/02/21 18:10</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Knee</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.knee.2026.104404</Item>
+	<Item Name="SO" Type="String">2026 Jun;60:104404</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40980562</Id>
+	<Item Name="PubDate" Type="Date">2025 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2025 Sep 17</Item>
+	<Item Name="Source" Type="String">Orthop J Sports Med</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kumar K</Item>
+		<Item Name="Author" Type="String">Rao V</Item>
+		<Item Name="Author" Type="String">Panda AK</Item>
+		<Item Name="Author" Type="String">Joshi D</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Joshi D</Item>
+	<Item Name="Title" Type="String">Peroneus Longus Tendon Versus Hamstring Tendon Autograft for Primary Anterior Cruciate Ligament Reconstruction: A Systematic Review and Meta-analysis of Comparative Studies.</Item>
+	<Item Name="Volume" Type="String">13</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">23259671251374313</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101620522</Item>
+	<Item Name="ISSN" Type="String">2325-9671</Item>
+	<Item Name="ESSN" Type="String">2325-9671</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40980562</Item>
+		<Item Name="pmc" Type="String">PMC12444037</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12444037;</Item>
+		<Item Name="doi" Type="String">10.1177/23259671251374313</Item>
+		<Item Name="pii" Type="String">10.1177_23259671251374313</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1177/23259671251374313</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/04/10 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/05/06 00:00</Item>
+		<Item Name="medline" Type="Date">2025/09/22 12:47</Item>
+		<Item Name="pubmed" Type="Date">2025/09/22 12:46</Item>
+		<Item Name="entrez" Type="Date">2025/09/22 08:26</Item>
+		<Item Name="pmc-release" Type="Date">2025/09/17 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">48</Item>
+	<Item Name="FullJournalName" Type="String">Orthopaedic journal of sports medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1177/23259671251374313</Item>
+	<Item Name="SO" Type="String">2025 Sep;13(9):23259671251374313</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40734172</Id>
+	<Item Name="PubDate" Type="Date">2025 Jul 29</Item>
+	<Item Name="EPubDate" Type="Date">2025 Jul 29</Item>
+	<Item Name="Source" Type="String">J Orthop Surg Res</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Opoku M</Item>
+		<Item Name="Author" Type="String">Abdramane AM</Item>
+		<Item Name="Author" Type="String">Abdirahman A</Item>
+		<Item Name="Author" Type="String">Fang M</Item>
+		<Item Name="Author" Type="String">Li Y</Item>
+		<Item Name="Author" Type="String">Xiao W</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Xiao W</Item>
+	<Item Name="Title" Type="String">Can peroneus longus tendon autograft become an alternative to hamstring tendon autograft for anterior cruciate ligament reconstruction: a systematic review and meta-analysis of comparative studies.</Item>
+	<Item Name="Volume" Type="String">20</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">719</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101265112</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1749-799X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40734172</Item>
+		<Item Name="pmc" Type="String">PMC12308993</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12308993;</Item>
+		<Item Name="doi" Type="String">10.1186/s13018-025-06080-9</Item>
+		<Item Name="pii" Type="String">10.1186/s13018-025-06080-9</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s13018-025-06080-9</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/05/25 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/07/01 00:00</Item>
+		<Item Name="medline" Type="Date">2025/07/30 06:31</Item>
+		<Item Name="pubmed" Type="Date">2025/07/30 06:30</Item>
+		<Item Name="entrez" Type="Date">2025/07/30 01:20</Item>
+		<Item Name="pmc-release" Type="Date">2025/07/29 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">88</Item>
+	<Item Name="FullJournalName" Type="String">Journal of orthopaedic surgery and research</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s13018-025-06080-9</Item>
+	<Item Name="SO" Type="String">2025 Jul 29;20(1):719</Item>
+</DocSum>
+
+<DocSum>
+	<Id>38755499</Id>
+	<Item Name="PubDate" Type="Date">2024 Jul</Item>
+	<Item Name="EPubDate" Type="Date">2024 May 16</Item>
+	<Item Name="Source" Type="String">Eur J Orthop Surg Traumatol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Park JY</Item>
+		<Item Name="Author" Type="String">Fernandes A</Item>
+		<Item Name="Author" Type="String">Park SY</Item>
+		<Item Name="Author" Type="String">Lim H</Item>
+		<Item Name="Author" Type="String">Sayudo IF</Item>
+		<Item Name="Author" Type="String">Leibovitch L</Item>
+		<Item Name="Author" Type="String">Machinski E</Item>
+		<Item Name="Author" Type="String">Ha J</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ha J</Item>
+	<Item Name="Title" Type="String">Comparative effectiveness of peroneus longus tendon (PLT) autografts versus hamstring tendon (HT) autografts in anterior cruciate ligament reconstruction: a comprehensive systematic review and meta analysis.</Item>
+	<Item Name="Volume" Type="String">34</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">2691-2699</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9518037</Item>
+	<Item Name="ISSN" Type="String">1633-8065</Item>
+	<Item Name="ESSN" Type="String">1432-1068</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">38755499</Item>
+		<Item Name="pmc" Type="String">PMC11291530</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC11291530;</Item>
+		<Item Name="doi" Type="String">10.1007/s00590-024-03984-w</Item>
+		<Item Name="pii" Type="String">10.1007/s00590-024-03984-w</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00590-024-03984-w</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/03/20 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/04/30 00:00</Item>
+		<Item Name="medline" Type="Date">2024/08/01 00:42</Item>
+		<Item Name="pubmed" Type="Date">2024/05/17 00:43</Item>
+		<Item Name="entrez" Type="Date">2024/05/16 23:36</Item>
+		<Item Name="pmc-release" Type="Date">2024/05/16 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">25</Item>
+	<Item Name="FullJournalName" Type="String">European journal of orthopaedic surgery &amp; traumatology : orthopedie traumatologie</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00590-024-03984-w</Item>
+	<Item Name="SO" Type="String">2024 Jul;34(5):2691-2699</Item>
+</DocSum>
+
+<DocSum>
+	<Id>37898307</Id>
+	<Item Name="PubDate" Type="Date">2024 Apr</Item>
+	<Item Name="EPubDate" Type="Date">2023 Oct 26</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Quinn M</Item>
+		<Item Name="Author" Type="String">Byrne RA</Item>
+		<Item Name="Author" Type="String">Albright JA</Item>
+		<Item Name="Author" Type="String">Testa E</Item>
+		<Item Name="Author" Type="String">Ahn B</Item>
+		<Item Name="Author" Type="String">Lemme N</Item>
+		<Item Name="Author" Type="String">Petit L</Item>
+		<Item Name="Author" Type="String">Blankenhorn B</Item>
+		<Item Name="Author" Type="String">Owens BD</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Owens BD</Item>
+	<Item Name="Title" Type="String">Peroneus Longus Tendon Autograft May Present a Viable Alternative for Anterior Cruciate Ligament Reconstruction: A Systematic Review.</Item>
+	<Item Name="Volume" Type="String">40</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">1366-1376.e1</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">37898307</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2023.10.016</Item>
+		<Item Name="pii" Type="String">S0749-8063(23)00860-5</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2023.10.016</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2023/07/08 00:00</Item>
+		<Item Name="revised" Type="Date">2023/10/04 00:00</Item>
+		<Item Name="accepted" Type="Date">2023/10/10 00:00</Item>
+		<Item Name="medline" Type="Date">2024/03/19 06:44</Item>
+		<Item Name="pubmed" Type="Date">2023/10/29 06:46</Item>
+		<Item Name="entrez" Type="Date">2023/10/28 19:28</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2023.10.016</Item>
+	<Item Name="SO" Type="String">2024 Apr;40(4):1366-1376.e1</Item>
+</DocSum>
+
+<DocSum>
+	<Id>35428007</Id>
+	<Item Name="PubDate" Type="Date">2022 May</Item>
+	<Item Name="EPubDate" Type="Date">2022 Apr 1</Item>
+	<Item Name="Source" Type="String">Clin Biomech (Bristol)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Malige A</Item>
+		<Item Name="Author" Type="String">Baghdadi S</Item>
+		<Item Name="Author" Type="String">Hast MW</Item>
+		<Item Name="Author" Type="String">Schmidt EC</Item>
+		<Item Name="Author" Type="String">Shea KG</Item>
+		<Item Name="Author" Type="String">Ganley TJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Ganley TJ</Item>
+	<Item Name="Title" Type="String">Biomechanical properties of common graft choices for anterior cruciate ligament reconstruction: A systematic review.</Item>
+	<Item Name="Volume" Type="String">95</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">105636</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8611877</Item>
+	<Item Name="ISSN" Type="String">0268-0033</Item>
+	<Item Name="ESSN" Type="String">1879-1271</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35428007</Item>
+		<Item Name="doi" Type="String">10.1016/j.clinbiomech.2022.105636</Item>
+		<Item Name="pii" Type="String">S0268-0033(22)00066-3</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.clinbiomech.2022.105636</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/10/02 00:00</Item>
+		<Item Name="revised" Type="Date">2022/03/21 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/03/25 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/04/16 06:00</Item>
+		<Item Name="medline" Type="Date">2022/05/27 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/04/15 20:17</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Clinical biomechanics (Bristol, Avon)</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.clinbiomech.2022.105636</Item>
+	<Item Name="SO" Type="String">2022 May;95:105636</Item>
+</DocSum>
+
+<DocSum>
+	<Id>34062359</Id>
+	<Item Name="PubDate" Type="Date">2021 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2021 May 26</Item>
+	<Item Name="Source" Type="String">Int J Surg Case Rep</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wiradiputra AE</Item>
+		<Item Name="Author" Type="String">Febyan</Item>
+		<Item Name="Author" Type="String">Aryana GNW</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Aryana GNW</Item>
+	<Item Name="Title" Type="String">Peroneus longus tendon graft for anterior cruciate ligament reconstruction: A case report and review of literature.</Item>
+	<Item Name="Volume" Type="String">83</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">106028</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101529872</Item>
+	<Item Name="ISSN" Type="String">2210-2612</Item>
+	<Item Name="ESSN" Type="String">2210-2612</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">34062359</Item>
+		<Item Name="pmc" Type="String">PMC8178071</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC8178071;</Item>
+		<Item Name="doi" Type="String">10.1016/j.ijscr.2021.106028</Item>
+		<Item Name="pii" Type="String">S2210-2612(21)00530-7</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.ijscr.2021.106028</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/05/10 00:00</Item>
+		<Item Name="revised" Type="Date">2021/05/21 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/05/21 00:00</Item>
+		<Item Name="pubmed" Type="Date">2021/06/02 06:00</Item>
+		<Item Name="medline" Type="Date">2021/06/02 06:01</Item>
+		<Item Name="entrez" Type="Date">2021/06/01 20:17</Item>
+		<Item Name="pmc-release" Type="Date">2021/05/26 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">19</Item>
+	<Item Name="FullJournalName" Type="String">International journal of surgery case reports</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.ijscr.2021.106028</Item>
+	<Item Name="SO" Type="String">2021 Jun;83:106028</Item>
+</DocSum>
+
+<DocSum>
+	<Id>32984919</Id>
+	<Item Name="PubDate" Type="Date">2021 Sep</Item>
+	<Item Name="EPubDate" Type="Date">2020 Sep 27</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">He J</Item>
+		<Item Name="Author" Type="String">Tang Q</Item>
+		<Item Name="Author" Type="String">Ernst S</Item>
+		<Item Name="Author" Type="String">Linde MA</Item>
+		<Item Name="Author" Type="String">Smolinski P</Item>
+		<Item Name="Author" Type="String">Wu S</Item>
+		<Item Name="Author" Type="String">Fu F</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Fu F</Item>
+	<Item Name="Title" Type="String">Peroneus longus tendon autograft has functional outcomes comparable to hamstring tendon autograft for anterior cruciate ligament reconstruction: a systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String">29</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">2869-2879</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">32984919</Item>
+		<Item Name="doi" Type="String">10.1007/s00167-020-06279-9</Item>
+		<Item Name="pii" Type="String">10.1007/s00167-020-06279-9</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00167-020-06279-9</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/07/20 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/09/10 00:00</Item>
+		<Item Name="pubmed" Type="Date">2020/09/29 06:00</Item>
+		<Item Name="medline" Type="Date">2021/08/27 06:00</Item>
+		<Item Name="entrez" Type="Date">2020/09/28 05:48</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00167-020-06279-9</Item>
+	<Item Name="SO" Type="String">2021 Sep;29(9):2869-2879</Item>
+</DocSum>
+
+</eSummaryResult>

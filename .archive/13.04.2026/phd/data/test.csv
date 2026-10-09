@@ -1,0 +1,101 @@
+id,study,screening,subgroups,outcomes
+1,ageberg_2009,Included,"patellar, hamstring",Tegner
+2,aglietti_2004,Included,"patellar, hamstring","Lachman, Pivot shift, Instrumental laxity"
+3,ahldén_2009,Included,"patellar, hamstring","Tegner, Lysholm, Lachman, Instrumental laxity"
+4,akelman_2016,Included,"patellar, hamstring",Instrumental laxity
+5,anderson_2001,Included,"patellar, hamstring","IKDC, Instrumental laxity, Pivot shift"
+6,anz_2023,Included,"patellar, hamstring",Graft rupture
+7,aune_2001,Included,"patellar, hamstring",Instrumental laxity
+8,barenius_2010,Excluded,,Duplicate report of the same study.
+9,barenius_2014,Included,"patellar, hamstring","IKDC, Lysholm, Lachman, Pivot shift, Instrumental laxity"
+10,barié_2020,Included,"patellar, quadriceps","IKDC, Lysholm, Tegner, Instrumental laxity, Graft rupture"
+11,beynnon_2002,Included,"patellar, hamstring","IKDC, Tegner, Instrumental laxity, Pivot shift, Lachman"
+12,bi_2018,Included,"hamstring, peroneus","IKDC, Instrumental laxity, Pivot shift, Graft rupture"
+13,björnsson_2016,Included,"patellar, hamstring","Instrumental laxity, IKDC, Tegner, Lysholm"
+14,bottoni_2015,Included,"hamstring, tibialis","IKDC, Tegner"
+15,brand_2000,Excluded,,Did not report any of the specified outcomes.
+16,breker_2025,Included,"patellar, hamstring",Instrumental laxity
+17,buescu_2017,Excluded,,Did not report any of the specified outcomes.
+18,butt_2024,Included,"hamstring, peroneus","Lysholm, IKDC, Lachman, Pivot shift"
+19,calvert_2025,Included,"hamstring, quadriceps","IKDC, Instrumental laxity"
+20,carter_edinger_1999,Excluded,,Did not report any of the specified outcomes.
+21,covey_2018,Excluded,,Did not report any of the specified outcomes.
+22,cruz_2022,Included,"hamstring, tibialis",Graft rupture
+23,ejerhed_2003,Included,"patellar, hamstring","Tegner, Lysholm, Instrumental laxity, Lachman"
+24,eriksson_2001,Excluded,,Duplicate report of the same study.
+25,eriksson_2006,Included,"patellar, hamstring","Instrumental laxity, Pivot shift"
+26,feller_webster_2003,Included,"patellar, hamstring","IKDC, Instrumental laxity, Pivot shift, Lachman"
+27,garcia-linage_2025,Excluded,,Non-English.
+28,gerber_2007,Included,"patellar, hamstring",Instrumental laxity
+29,ghalayini_2010,Excluded,,Did not compare at least two of the specified subgroups.
+30,gifstad_2013,Included,"patellar, hamstring","Tegner, Lysholm, Instrumental laxity, Lachman"
+31,gobbi_francisco_2006,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity"
+32,guglielmetti_2021,Included,"patellar, hamstring","IKDC, Lysholm, Pivot shift, Lachman"
+33,harilainen_2006,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity, Pivot shift"
+34,heijne_werner_2010,Included,"patellar, hamstring","Tegner, Instrumental laxity, Pivot shift"
+35,holm_2010,Included,"patellar, hamstring","Instrumental laxity, Tegner"
+36,horstmann_2022,Included,"hamstring, quadriceps","IKDC, Lysholm, Instrumental laxity"
+37,ibrahim_2005,Included,"patellar, hamstring","Lachman, Lysholm, Instrumental laxity, Pivot shift"
+38,iliopoulos_2017,Included,"patellar, hamstring","IKDC, Lysholm, Pivot shift, Lachman"
+39,irrgang_2021,Excluded,,Did not compare at least two of the specified subgroups.
+40,jansson_1999,Excluded,,Duplicate report of the same study.
+41,jansson_2003,Included,"patellar, hamstring","Lachman, Pivot shift, Instrumental laxity, Lysholm, Tegner"
+42,johns_2026,Excluded,,Did not report any of the specified outcomes.
+43,kautzner_2015,Included,"patellar, hamstring","Lysholm, Instrumental laxity"
+44,komzak_2022,Included,"patellar, quadriceps","IKDC, Lysholm"
+45,konrads_2016,Included,"patellar, hamstring","Instrumental laxity, Pivot shift, Lachman, IKDC, Tegner, Lysholm"
+46,laoruengthana_2009,Included,"patellar, hamstring","Instrumental laxity, Pivot shift, IKDC, Lysholm"
+47,lawhorn_2012,Included,"hamstring, tibialis","IKDC, Instrumental laxity, Pivot shift"
+48,laxdal_2004,Excluded,,Duplicate report of the same study.
+49,laxdal_2005,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity"
+50,leitgeb_2014,Included,"patellar, hamstring","Lachman, Instrumental laxity"
+51,li_2015,Included,"hamstring, tibialis","Instrumental laxity, Pivot shift, Lachman, IKDC, Tegner, Lysholm"
+52,lidén_2007,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity, Lachman"
+53,lind_2020,Included,"hamstring, quadriceps","IKDC, Tegner, Instrumental laxity, Pivot shift"
+54,lucidi_2025,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity, Pivot shift, Graft rupture"
+55,lui_2012,Included,"patellar, hamstring","IKDC, Lysholm, Instrumental laxity, Lachman"
+56,lund_2014,Included,"patellar, quadriceps","Instrumental laxity, IKDC"
+57,maletis_2007,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity"
+58,malik_2026,Included,"hamstring, peroneus","Instrumental laxity, Pivot shift, Lachman, IKDC, Lysholm, Tegner"
+59,martin_2024,Excluded,,Did not report any of the specified outcomes.
+60,martin-alguacil_2018,Excluded,,Duplicate report of the same study.
+61,martin-alguacil_2019,Excluded,,Did not report any of the specified outcomes.
+62,matsumoto_2006,Included,"patellar, hamstring","IKDC, Instrumental laxity"
+63,mccormack_2006,Excluded,,Did not report any of the specified outcomes.
+64,mohammadi_2013,Excluded,,Did not report any of the specified outcomes.
+65,mohtadi_2016a,Excluded,,Duplicate report of the same study.
+66,mohtadi_2016b,Included,"patellar, hamstring","Instrumental laxity, Lachman, Graft rupture"
+67,mohtadi_chan_2019,Included,"patellar, hamstring","IKDC, Pivot shift, Lachman, Instrumental laxity, Graft rupture"
+68,moraiti_2010,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity, Lachman, Graft rupture"
+69,mouzopoulos_2015,Excluded,,Did not report any of the specified outcomes.
+70,noh_2011,Included,"hamstring, Achilles","Lachman, IKDC, Tegner, Lysholm, Instrumental laxity, Pivot shift, Graft rupture"
+71,nurmi_2004,Excluded,,Did not report any of the specified outcomes.
+72,oneill_1996,Included,"patellar, hamstring","IKDC, Lysholm, Instrumental laxity"
+73,papalia_2015,Included,"patellar, hamstring","IKDC, Lysholm"
+74,pässler_2015,Excluded,,Non-English.
+75,pigozzi_2004,Excluded,,Did not report any of the specified outcomes.
+76,pinczewski_2007,Included,"patellar, hamstring","IKDC, Lysholm, Lachman, Pivot shift, Instrumental laxity"
+77,popovic_2024,Included,"patellar, hamstring","Lysholm, Tegner, Instrumental laxity, Pivot shift, Lachman"
+78,röpke_2001,Excluded,,Non-English.
+79,sajovic_2006,Excluded,,Duplicate report of the same study.
+80,sajovic_2008,Excluded,,Duplicate report of the same study.
+81,sajovic_2011,Excluded,,Duplicate report of the same study.
+82,sajovic_2018,Included,"patellar, hamstring","IKDC, Lysholm, Instrumental laxity, Pivot shift, Lachman"
+83,sato_2005,Excluded,,Did not report any of the specified outcomes.
+84,sinding_2020,Included,"hamstring, quadriceps",IKDC
+85,smith_2020,Included,"patellar, hamstring, quadriceps","IKDC, Instrumental laxity, Graft rupture"
+86,sonnery-cottet_2020,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity, Pivot shift, Lachman"
+87,sonnery-cottet_2026,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity, Pivot shift, Graft rupture"
+88,sumanont_2024,Excluded,,Did not report any of the specified outcomes.
+89,tang_2023,Included,"hamstring, quadriceps",IKDC
+90,taylor_2009,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity, Pivot shift"
+91,tibesku_2003,Excluded,,Non-English.
+92,vendrig_2026,Excluded,,Did not report any of the specified outcomes.
+93,vilchez-cavazos_2020,Included,"patellar, quadriceps","IKDC, Tegner, Lysholm, Instrumental laxity"
+94,wasserman_2017,Excluded,,Did not report any of the specified outcomes.
+95,webster_2001,Included,"patellar, hamstring","IKDC, Instrumental laxity"
+96,wipfler_2011,Included,"patellar, hamstring","IKDC, Tegner, Lysholm, Instrumental laxity, Pivot shift, Lachman, Graft rupture"
+97,yadav_2025,Included,"hamstring, quadriceps","Lysholm, Instrumental laxity, Pivot shift, Lachman"
+98,yoo_2017,Included,"hamstring, tibialis","Tegner, Lysholm, Instrumental laxity, Pivot shift, Lachman"
+99,zaffagnini_2006,Excluded,,Duplicate report of the same study.
+100,zaffagnini_2011,Included,"patellar, hamstring","IKDC, Instrumental laxity"

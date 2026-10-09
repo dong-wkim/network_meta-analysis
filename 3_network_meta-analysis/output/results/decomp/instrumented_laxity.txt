@@ -1,0 +1,28 @@
+Q statistics to assess homogeneity / consistency
+
+                    Q df p-value
+Total           28.73 30  0.5316
+Within designs  24.51 29  0.7033
+Between designs  4.22  1  0.0399
+
+Design-specific decomposition of within-designs Q statistic
+
+      Design     Q df p-value
+   HT vs. QT  2.38  2  0.3041
+ BPTB vs. HT 21.88 25  0.6428
+ BPTB vs. QT  0.15  1  0.6970
+  HT vs. PLT  0.10  1  0.7487
+
+Between-designs Q statistic after detaching of single designs
+(influential designs have p-value markedly different from 0.0399)
+
+ Detached design    Q df p-value
+     BPTB vs. HT 0.00  0      --
+     BPTB vs. QT 0.00  0      --
+       HT vs. QT 0.00  0      --
+
+Q statistic to assess consistency under the assumption of
+a full design-by-treatment interaction random effects model
+
+                   Q df p-value tau.within tau2.within
+Between designs 4.22  1  0.0399          0           0

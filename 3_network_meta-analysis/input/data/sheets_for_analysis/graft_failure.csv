@@ -1,0 +1,13 @@
+,id,study,outcome,treat1,treat2,n1,n2,y1,y2,sd1,sd2,TE,seTE,subgroup
+0,6,"Anz et al., 2023",graft_failure,BPTB,HT,8.5,8.5,0.5,0.5,0.18,0.18,0.0,2.062,BPTB vs. HT
+1,43,"Kautzner et al., 2015",graft_failure,BPTB,HT,74.5,73.5,0.5,2.5,0.06,0.3,-1.6502599069543555,1.558,BPTB vs. HT
+2,49,"Laxdal et al., 2005",graft_failure,BPTB,HT,40.5,78.5,1.5,2.5,0.24,0.42,0.15614868248993138,1.051,BPTB vs. HT
+3,54,"Lucidi et al., 2025",graft_failure,BPTB,HT,19.5,20.5,7.5,3.5,2.72,0.92,1.1105408595333834,0.749,BPTB vs. HT
+4,66,"Mohtadi et al., 2016",graft_failure,BPTB,HT,110.5,110.5,19.5,24.5,2.25,2.99,-0.28501895503229724,0.339,BPTB vs. HT
+5,76,"Pinczewski et al., 2007",graft_failure,BPTB,HT,90.5,90.5,7.5,12.5,0.86,1.52,-0.5727010274840783,0.488,BPTB vs. HT
+6,77,"Popovic et al., 2024",graft_failure,BPTB,HT,38.5,33.5,3.5,4.5,0.62,0.89,-0.4400565528777834,0.756,BPTB vs. HT
+7,85,"Smith et al., 2020",graft_failure,BPTB,HT,32.5,32.5,0.5,2.5,0.09,0.47,-1.6713133161521878,1.57,BPTB vs. HT
+8,87,"Sonnery-cottet et al., 2026",graft_failure,BPTB,HT,273.5,283.5,12.5,12.5,0.79,0.78,0.03729578474369693,0.409,BPTB vs. HT
+9,90,"Taylor et al., 2009",graft_failure,BPTB,HT,32.5,32.5,3.5,4.5,0.68,0.91,-0.28634962721800233,0.76,BPTB vs. HT
+10,96,"Wipfler et al., 2011",graft_failure,BPTB,HT,29.5,25.5,3.5,3.5,0.72,0.8,-0.1672359193759138,0.81,BPTB vs. HT
+11,97,"Yadav et al., 2025",graft_failure,HT,QT,36.5,33.5,1.5,0.5,0.26,0.09,1.0399232923194301,1.651,HT vs. QT

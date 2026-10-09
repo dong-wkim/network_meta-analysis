@@ -1,0 +1,1 @@
+("anterior cruciate ligament"[mh] OR "anterior cruciate ligament reconstruction"[tiab]) AND ("randomized controlled trial"[pt]) AND ("hamstring tendon"[tiab] OR "semitendinosus"[tiab] OR "gracilis"[tiab])

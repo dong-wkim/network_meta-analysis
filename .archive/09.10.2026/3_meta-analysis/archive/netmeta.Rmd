@@ -1,0 +1,209 @@
+---
+title: "network_meta-analysis"
+author: "Dong Woon Kim, M.D."
+date: "2026-08-01"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+```{r setup}
+
+setwd("G:/My Drive/github/d-wkim/network_meta-analysis/")
+
+packages <- c(
+  "googledrive",
+  "googlesheets4",
+  "readxl",
+  "metafor",
+  "dplyr",
+  "meta",
+  "ggplot2",
+  "ggpubr",
+  "ggforestplot",
+  "ggplotify",
+  "ggplot2",
+  "tidyverse",
+  "devtools",
+  "netmeta",
+  "rgl"
+)
+
+
+# install.packages(packages, dependencies = TRUE)
+
+lapply(packages, library, character.only = TRUE)
+```
+
+```{r}
+
+network_meta_analysis <- function(df, sm = "") {
+  
+  data_path <- paste0("G:/My Drive/github/d-wkim/network_meta-analysis/3_meta-analysis/R/analysis/sheets_for_analysis/",df, ".csv")
+  
+  data <- read_csv(data_path)
+  
+  m.netmeta <- netmeta(
+		TE = smd, 
+		seTE = se,
+		treat1 = treat1,
+		treat2 = treat2,
+		studlab = study,
+		data = data,
+		sm = paste0(sm),
+		common = FALSE, 
+		random = TRUE,
+		reference.group = "",
+		details.chkmultiarm = TRUE,
+		sep.trts = " vs "
+	)
+
+	txt = paste0("G:/My Drive/github/d-wkim/network_meta-analysis/3_meta-analysis/R/analysis/results/",df, ".txt")
+
+	# print and save network meta-analysis results
+	
+	sink(file = txt)
+	print(m.netmeta)
+	sink()
+
+	labels = m.netmeta$trts
+	long.labels = c("Bone-patellar tendon-bone", "Hamstring", "Peroneus longus", "Quadriceps", "Tibialis anterior")
+
+	svg = paste0("G:/My Drive/github/d-wkim/network_meta-analysis/4_manuscript/network_meta-analysis/tables_and_figures/figures/fig_3/", df, ".svg")
+	svg(file = svg, height = 5, width = 5)
+
+	network_graph <- netgraph(m.netmeta, labels = long.labels, dim = "2d", scale = 1.1)
+	print(network_graph)
+	dev.off()
+	
+  assign(paste0(df), m.netmeta, envir = .GlobalEnv) # Assign the outcome names as variables of the results
+  
+  header <- c("SMD", "ci.lb", "ci.ub")
+  ES <- m.netmeta$TE.nma.random
+  ci.lb <- m.netmeta$lower.nma.random
+  ci.ub <- m.netmeta$upper.nma.random
+  
+  dat <- rbind(header,
+              ES,
+              ci.lb,
+              ci.ub
+  )
+  
+  write.csv(dat, file = paste0("G:/My Drive/github/d-wkim/network_meta-analysis/4_manuscript/network_meta-analysis/tables_and_figures/supplementary_tables/",df,".csv"))
+}
+
+```
+
+```{r}
+
+continuous = c("ikdc_subjective", "lysholm", "tegner", "instrumented_laxity")
+lapply(continuous, sm = "SMD", network_meta_analysis)
+```
+
+```{r}
+dichotomous = c("pivot_shift_1", "pivot_shift_2", "lachman_1", "lachman_2", "graft_failure")
+lapply(dichotomous, sm = "OR", network_meta_analysis)
+```
+
+```{r}
+
+m.netmeta <- ikdc_subjective 
+results <- function(df) {
+  
+  m.netmeta <- df
+  BPTB_HT <- c(m.netmeta$TE.random["BPTB", "HT"], m.netmeta$lower.random["BPTB", "HT"], m.netmeta$upper.random["BPTB", "HT"])
+  BPTB_QT <- c(m.netmeta$TE.random["BPTB", "QT"], m.netmeta$lower.random["BPTB", "QT"], m.netmeta$upper.random["BPTB", "QT"])
+  BPTB_PLT <- c(m.netmeta$TE.random["BPTB", "PLT"], m.netmeta$lower.random["BPTB", "PLT"], m.netmeta$upper.random["BPTB", "PLT"])
+  BPTB_AT <- c(m.netmeta$TE.random["BPTB", "AT"], m.netmeta$lower.random["BPTB", "AT"], m.netmeta$upper.random["BPTB", "AT"])
+  BPTB_TA <- c(m.netmeta$TE.random["BPTB", "TA"], m.netmeta$lower.random["BPTB", "TA"], m.netmeta$upper.random["BPTB", "TA"])
+  HT_QT <- c(m.netmeta$TE.random["HT", "QT"], m.netmeta$lower.random["HT", "QT"], m.netmeta$upper.random["HT", "QT"])
+  HT_PLT <- c(m.netmeta$TE.random["HT", "PLT"], m.netmeta$lower.random["HT", "PLT"], m.netmeta$upper.random["HT", "PLT"])
+  HT_AT <- c(m.netmeta$TE.random["HT", "AT"], m.netmeta$lower.random["HT", "AT"], m.netmeta$upper.random["HT", "AT"])
+  HT_TA <- c(m.netmeta$TE.random["HT", "TA"], m.netmeta$lower.random["HT", "TA"], m.netmeta$upper.random["HT", "TA"])
+  QT_PLT <- c(m.netmeta$TE.random["QT", "PLT"], m.netmeta$lower.random["QT", "PLT"], m.netmeta$upper.random["QT", "PLT"])
+  QT_AT <- c(m.netmeta$TE.random["QT", "AT"], m.netmeta$lower.random["QT", "AT"], m.netmeta$upper.random["QT", "AT"])
+  QT_TA <- c(m.netmeta$TE.random["QT", "TA"], m.netmeta$lower.random["QT", "TA"], m.netmeta$upper.random["QT", "TA"])
+  PLT_AT <- c(m.netmeta$TE.random["PLT", "AT"], m.netmeta$lower.random["PLT", "AT"], m.netmeta$upper.random["PLT", "AT"])
+  PLT_TA <- c(m.netmeta$TE.random["PLT", "TA"], m.netmeta$lower.random["PLT", "TA"], m.netmeta$upper.random["PLT", "TA"])
+  AT_TA <- c(m.netmeta$TE.random["AT", "TA"], m.netmeta$lower.random["AT", "TA"], m.netmeta$upper.random["AT", "TA"])
+
+  dat <- data.frame (
+    id <- c(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15)
+  )
+  
+  labels <- m.netmeta$trts 
+  
+  header <- c("Effect size", "ci.lb", "ci.ub")
+  dat <- rbind(header, 
+               BPTB_HT,
+               BPTB_QT,
+               BPTB_PLT,
+               BPTB_AT,
+               BPTB_TA,
+               HT_QT,
+               HT_PLT,
+               HT_AT,
+               HT_TA,
+               QT_PLT,
+               QT_AT,
+               QT_TA,
+               PLT_AT,
+               PLT_TA,
+               AT_TA
+               )
+  
+  csv_path <- paste0("./",df,".csv")
+    
+  write.csv(dat, file = csv_path)
+}
+```
+
+```{r}
+
+results(df = ikdc_subjective)
+```
+
+
+```{r}
+
+# IKDC Subjective
+
+m.netmeta <- ikdc_subjective
+
+header <- c("Effect size", "ci.lb", "ci.ub")
+dat <- data.frame(
+  id <- 1:15
+)
+
+dat <- rbind(header, 
+             c(m.netmeta$TE.random["BPTB", "HT"], m.netmeta$lower.random["BPTB", "HT"], m.netmeta$upper.random["BPTB", "HT"]),
+             c(m.netmeta$TE.random["BPTB", "QT"], m.netmeta$lower.random["BPTB", "QT"], m.netmeta$upper.random["BPTB", "QT"]),
+             c(m.netmeta$TE.random["BPTB", "PLT"], m.netmeta$lower.random["BPTB", "PLT"], m.netmeta$upper.random["BPTB", "PLT"]),      
+             #c(m.netmeta$TE.random["BPTB", "AT"], m.netmeta$lower.random["BPTB", "AT"], m.netmeta$upper.random["BPTB", "AT"]),      
+             c(m.netmeta$TE.random["BPTB", "TA"], m.netmeta$lower.random["BPTB", "TA"], m.netmeta$upper.random["BPTB", "TA"]),        
+             c(m.netmeta$TE.random["HT", "QT"], m.netmeta$lower.random["HT", "QT"], m.netmeta$upper.random["HT", "QT"]),
+             c(m.netmeta$TE.random["HT", "PLT"], m.netmeta$lower.random["HT", "PLT"], m.netmeta$upper.random["HT", "PLT"]),
+             #c(m.netmeta$TE.random["HT", "AT"], m.netmeta$lower.random["HT", "AT"], m.netmeta$upper.random["HT", "AT"]),
+             c(m.netmeta$TE.random["HT", "TA"], m.netmeta$lower.random["HT", "TA"], m.netmeta$upper.random["HT", "TA"]),
+             c(m.netmeta$TE.random["QT", "PLT"], m.netmeta$lower.random["QT", "PLT"], m.netmeta$upper.random["QT", "PLT"]),
+             #c(m.netmeta$TE.random["QT", "AT"], m.netmeta$lower.random["QT", "AT"], m.netmeta$upper.random["QT", "AT"]),
+             c(m.netmeta$TE.random["QT", "TA"], m.netmeta$lower.random["QT", "TA"], m.netmeta$upper.random["QT", "TA"]),
+             #c(m.netmeta$TE.random["PLT", "AT"], m.netmeta$lower.random["PLT", "AT"], m.netmeta$upper.random["PLT", "AT"]),
+             c(m.netmeta$TE.random["PLT", "TA"], m.netmeta$lower.random["PLT", "TA"], m.netmeta$upper.random["PLT", "TA"]),
+             #c(m.netmeta$TE.random["AT", "TA"], m.netmeta$lower.random["AT", "TA"], m.netmeta$upper.random["AT", "TA"]),
+             )
+
+
+View(dat)
+csv_path <- paste0("./",df,".csv")
+write.csv(dat, file = csv_path)
+
+```
+
+
+```{r}
+lapply(ikdc_subjective, results)
+lapply(ikdc_subjective, results)
+```
+

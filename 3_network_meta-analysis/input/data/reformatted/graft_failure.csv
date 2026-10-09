@@ -1,0 +1,13 @@
+,id,study,outcome,treat1,treat2,n1,n2,y1,y2,sd1,sd2
+0,6,"Anz et al., 2023",graft_failure,BPTB,HT,8,8,0.0,0.0,0.18,0.18
+1,43,"Kautzner et al., 2015",graft_failure,BPTB,HT,74,73,0.0,2.0,0.06,0.3
+2,49,"Laxdal et al., 2005",graft_failure,BPTB,HT,40,78,1.0,2.0,0.24,0.42
+3,54,"Lucidi et al., 2025",graft_failure,BPTB,HT,19,20,7.0,3.0,2.72,0.92
+4,66,"Mohtadi et al., 2016",graft_failure,BPTB,HT,110,110,19.0,24.0,2.25,2.99
+5,76,"Pinczewski et al., 2007",graft_failure,BPTB,HT,90,90,7.0,12.0,0.86,1.52
+6,77,"Popovic et al., 2024",graft_failure,BPTB,HT,38,33,3.0,4.0,0.62,0.89
+7,85,"Smith et al., 2020",graft_failure,BPTB,HT,32,32,0.0,2.0,0.09,0.47
+8,87,"Sonnery-cottet et al., 2026",graft_failure,BPTB,HT,273,283,12.0,12.0,0.79,0.78
+9,90,"Taylor et al., 2009",graft_failure,BPTB,HT,32,32,3.0,4.0,0.68,0.91
+10,96,"Wipfler et al., 2011",graft_failure,BPTB,HT,29,25,3.0,3.0,0.72,0.8
+11,97,"Yadav et al., 2025",graft_failure,HT,QT,36,33,1.0,0.0,0.26,0.09

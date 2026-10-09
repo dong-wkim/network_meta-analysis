@@ -1,0 +1,97 @@
+---
+title: 
+---
+
+```{r}
+
+
+wd <- getwd()
+setwd(wd)
+
+packages <- c(
+  "readr",
+  "meta",
+  "metafor",
+	"netmeta"
+  
+)
+
+install.packages(packages, dependencies = TRUE)
+lapply(packages, library, character.only = TRUE)
+
+```
+**Meta-analysis** can be run using either `meta` or `metafor` package. The only difference is that `metafor` package doesn't allow for different between-study Tau values to be used for subgroup analysis. For regression plots, in order to have multiple outcome measures on the same figure, the effect sizes were scaled from 0 to 1. 
+
+**meta**
+```{r}
+
+df <- "pivot_shift_1"
+data <- read.csv(paste0("./data/sheets_for_analysis/csv/", df, ".csv"))
+
+p <- (data$y1+0.5)/(data$n1+0.5)
+se <- sqrt((p*(1-p))/data$n)
+result <- metaprop(
+  data = data,
+  TE = p,
+  seTE = se,
+  studlab = study,
+  event = y1,
+  n = n1,
+  sm = "PRAW",
+  random = TRUE
+  
+)
+
+reg1 <- metareg(result, ~age1)
+print(reg1)
+
+reg2 <- metareg(result, ~male1)
+print(reg2)
+
+reg3 <- metareg(result, ~follow_up1)
+print(reg3)
+
+weight <- data$seTE
+size = (weight-min(weight))/(max(weight)-min(weight))
+
+bubble(reg1, studlab = FALSE)
+bubble(reg2, studlab = FALSE)
+bubble(reg3, studlab = FALSE)
+
+```
+
+
+**metafor**
+```{r}
+# Create a custom R script for single-arm meta-analysis results.
+
+dmeta <- function(df) {
+  
+  data <- read.csv(paste0("./data/sheets_for_analysis/csv/", df, ".csv"))
+  
+  dat <- escalc(measure = "MN", data = data, ni = ni, mi = yi, sdi = sdi, slab = study, subset = subgroup == "BPTB")
+  
+  res <- rma(yi, vi, data = dat, subset = subgroup == "BPTB")
+  print(res)
+  
+  reg <- rma(yi, vi, data = res, subset = subgroup == "BPTB", mods = ~follow_up)
+  print(reg)
+
+
+  pes <- predict(reg, newmods = c(6,220))
+  wi <- 1/sqrt(dat$vi)
+size <- 1 + 3*(wi-min(wi))/(max(wi)-min(wi))
+
+  plot(dat$follow_up, dat$yi, cex = size, pch = 1, las = 1, col = "navy", xlim = c(5,226), xlab = "Follow-up length (months)", ylab = "Mean")
+ 
+  points(dat$follow_up, dat$yi, cex = size,las = 1, pch = 1)
+  lines(6:220, pes$pred)
+  print(plot)
+ 
+  
+}
+
+
+dmeta("ikdc_subjective")
+```
+

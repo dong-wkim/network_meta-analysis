@@ -1,0 +1,19 @@
+Separate indirect from direct evidence (SIDE) using back-calculation method
+
+Random effects model: 
+
+  comparison  k prop    nma direct indir.    RoR     z p-value
+ BPTB vs. HT 15 0.96 0.9805 1.0351 0.2400 4.3124  1.10  0.2729
+ BPTB vs. QT  1 0.69 0.5601 0.3570 1.5395 0.2319 -1.10  0.2729
+   HT vs. QT  3 0.35 0.5713 1.4874 0.3449 4.3124  1.10  0.2729
+
+Legend:
+ comparison - Treatment comparison
+ k          - Number of studies providing direct evidence
+ prop       - Direct evidence proportion
+ nma        - Estimated treatment effect (OR) in network meta-analysis
+ direct     - Estimated treatment effect (OR) derived from direct evidence
+ indir.     - Estimated treatment effect (OR) derived from indirect evidence
+ RoR        - Ratio of Ratios (direct versus indirect)
+ z          - z-value of test for disagreement (direct versus indirect)
+ p-value    - p-value of test for disagreement (direct versus indirect)

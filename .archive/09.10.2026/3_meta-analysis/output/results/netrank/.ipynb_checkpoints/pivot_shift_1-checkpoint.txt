@@ -1,0 +1,9 @@
+      SUCRA
+BPTB 0.9351
+HT   0.6984
+AT   0.5554
+TA   0.4042
+PLT  0.3623
+QT   0.0445
+
+- based on 10000 repetitions

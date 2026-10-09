@@ -1,0 +1,42 @@
+
+nma.forest <- function(m.netmeta) {
+  x <- m.netmeta
+  forest(x,
+         pooled = ifelse(x$x$random, "random", "common"),
+         show = x$show,
+         subgroup = "comparison",
+         overall = x$overall,
+         direct = x$direct,
+         indirect = x$indirect,
+         prediction = x$prediction,
+         only.reference = x$only.reference,
+         sortvar = NULL,
+         subset = NULL,
+         text.overall = "Network estimate",
+         text.direct = "Direct estimate",
+         text.indirect = "Indirect estimate",
+         text.predict = "Prediction interval",
+         type.overall,
+         type.direct,
+         type.indirect,
+         col.square = "gray",
+         col.square.lines = col.square,
+         col.inside = "white",
+         col.diamond = "gray",
+         col.diamond.lines = "black",
+         col.predict = "red",
+         col.predict.lines = "black",
+         col.subgroup = "black",
+         equal.size = TRUE,
+         leftcols,
+         leftlabs,
+         rightcols = c("effect", "ci"),
+         rightlabs = NULL,
+         digits = gs("digits.forest"),
+         digits.prop = max(gs("digits.pval") - 2, 2),
+         backtransf = x$backtransf,
+         lab.NA = "",
+         smlab
+  )
+}
+         

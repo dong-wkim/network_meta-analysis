@@ -1,0 +1,1 @@
+((TMIC=(anterior cruciate ligament)) OR (TI=(anterior cruciate ligament reconstruction) OR AB=(anterior cruciate ligament reconstruction))) AND ((TS=(randomized controlled trial))) AND ((TI=(peroneus longus) OR AB=(peroneus longus)) OR (TI=(fibularis longus) OR AB=(fibularis longus)))

@@ -1,0 +1,1 @@
+((TMIC=(anterior cruciate ligament)) OR (TI=(anterior cruciate ligament reconstruction) OR AB=(anterior cruciate ligament reconstruction))) AND ((TS=(randomized controlled trial))) AND ((TI=(hamstring tendon) OR AB=(hamstring tendon)) OR (TI=(semitendinosus) OR AB=(semitendinosus)) OR (TI=(gracilis) OR AB=(gracilis)))

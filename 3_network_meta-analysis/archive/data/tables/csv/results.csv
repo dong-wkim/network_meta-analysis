@@ -1,0 +1,661 @@
+,id,study,subgroup,outcome,ni,TE,seTE,ci.lb,ci.ub
+434,1,"Ageberg et al., 2009",BPTB,tegner,16.0,4.17,0.352,3.48,4.86
+435,1,"Ageberg et al., 2009",HT,tegner,20.0,3.15,0.3,2.562,3.738
+0,1,"Ageberg et al., 2009",BPTB vs. HT,tegner,36.0,0.744,0.347,0.064,1.424
+124,2,"Aglietti et al., 2004",BPTB,instrumented_laxity,60.0,2.2,0.139,1.928,2.472
+548,2,"Aglietti et al., 2004",BPTB,pivot_shift_2,60.0,0.0,0.009,-0.018,0.018
+492,2,"Aglietti et al., 2004",BPTB,lachman_2,60.0,0.0,0.008,-0.016,0.016
+0,2,"Aglietti et al., 2004",BPTB vs. HT,instrumented_laxity,120.0,0.209,0.183,-0.15,0.568
+370,2,"Aglietti et al., 2004",BPTB,pivot_shift_1,60.0,10.0,0.009,9.982,10.018
+234,2,"Aglietti et al., 2004",BPTB,lachman_1,60.0,0.0,0.008,-0.016,0.016
+0,2,"Aglietti et al., 2004",BPTB vs. HT,pivot_shift_1,121.0,0.895,0.472,-0.03,1.82
+0,2,"Aglietti et al., 2004",BPTB vs. HT,lachman_2,121.0,1.0,2.008,-2.936,4.936
+493,2,"Aglietti et al., 2004",HT,lachman_2,60.0,0.0,0.008,-0.016,0.016
+235,2,"Aglietti et al., 2004",HT,lachman_1,60.0,0.0,0.008,-0.016,0.016
+549,2,"Aglietti et al., 2004",HT,pivot_shift_2,60.0,0.0,0.009,-0.018,0.018
+371,2,"Aglietti et al., 2004",HT,pivot_shift_1,60.0,11.0,0.009,10.982,11.018
+125,2,"Aglietti et al., 2004",HT,instrumented_laxity,60.0,1.95,0.168,1.621,2.279
+0,2,"Aglietti et al., 2004",BPTB vs. HT,pivot_shift_2,121.0,1.0,2.008,-2.936,4.936
+0,2,"Aglietti et al., 2004",BPTB vs. HT,lachman_1,121.0,1.0,2.008,-2.936,4.936
+436,3,"Ahldén et al., 2009",BPTB,tegner,25.0,4.87,0.458,3.972,5.768
+437,3,"Ahldén et al., 2009",HT,tegner,22.0,4.86,0.279,4.313,5.407
+127,3,"Ahldén et al., 2009",HT,instrumented_laxity,22.0,1.4,0.554,0.314,2.486
+291,3,"Ahldén et al., 2009",HT,lysholm,22.0,79.16,2.846,73.582,84.738
+290,3,"Ahldén et al., 2009",BPTB,lysholm,25.0,80.7,4.328,72.217,89.183
+0,3,"Ahldén et al., 2009",BPTB vs. HT,lysholm,47.0,0.084,0.292,-0.488,0.656
+126,3,"Ahldén et al., 2009",BPTB,instrumented_laxity,25.0,2.6,0.66,1.306,3.894
+1,3,"Ahldén et al., 2009",BPTB vs. HT,tegner,47.0,0.005,0.292,-0.567,0.577
+1,3,"Ahldén et al., 2009",BPTB vs. HT,instrumented_laxity,47.0,0.401,0.295,-0.177,0.979
+550,5,"Anderson et al., 2001",BPTB,pivot_shift_2,35.0,15.0,0.269,14.473,15.527
+2,5,"Anderson et al., 2001",BPTB vs. HT,instrumented_laxity,68.0,0.465,0.246,-0.017,0.947
+1,5,"Anderson et al., 2001",BPTB vs. HT,pivot_shift_2,69.0,0.169,0.564,-0.936,1.274
+1,5,"Anderson et al., 2001",BPTB vs. HT,pivot_shift_1,69.0,-0.089,,,
+373,5,"Anderson et al., 2001",HT,pivot_shift_1,33.0,36.0,0.339,35.336,36.664
+551,5,"Anderson et al., 2001",HT,pivot_shift_2,33.0,27.0,0.339,26.336,27.664
+372,5,"Anderson et al., 2001",BPTB,pivot_shift_1,35.0,18.0,0.269,17.473,18.527
+131,5,"Anderson et al., 2001",HT,instrumented_laxity,33.0,3.1,0.4,2.316,3.884
+130,5,"Anderson et al., 2001",BPTB,instrumented_laxity,35.0,2.1,0.338,1.438,2.762
+0,6,"Anz et al., 2023",BPTB vs. HT,graft_failure,17.0,1.0,2.062,-3.042,5.042
+0,6,"Anz et al., 2023",BPTB,graft_failure,8.0,0.0,0.064,-0.125,0.125
+1,6,"Anz et al., 2023",HT,graft_failure,8.0,0.0,0.064,-0.125,0.125
+3,7,"Aune et al., 2001",BPTB vs. HT,instrumented_laxity,61.0,0.16,0.257,-0.344,0.664
+133,7,"Aune et al., 2001",HT,instrumented_laxity,29.0,2.9,0.446,2.026,3.774
+132,7,"Aune et al., 2001",BPTB,instrumented_laxity,32.0,3.3,0.46,2.398,4.202
+292,9,"Barenius et al., 2010",BPTB,lysholm,78.0,85.82,1.339,83.196,88.444
+439,9,"Barenius et al., 2010",HT,tegner,75.0,4.07,0.217,3.645,4.495
+2,9,"Barenius et al., 2010",BPTB vs. HT,tegner,153.0,0.923,0.17,0.59,1.256
+1,9,"Barenius et al., 2010",BPTB vs. HT,lysholm,153.0,0.049,0.162,-0.269,0.367
+293,9,"Barenius et al., 2010",HT,lysholm,75.0,86.42,1.447,83.584,89.256
+438,9,"Barenius et al., 2010",BPTB,tegner,78.0,5.8,0.212,5.384,6.216
+2,10,"Barié et al., 2020",BPTB vs. QT,lysholm,86.0,0.055,0.216,-0.368,0.478
+0,10,"Barié et al., 2020",BPTB vs. QT,ikdc_subjective,86.0,0.104,0.216,-0.319,0.527
+137,10,"Barié et al., 2020",QT,instrumented_laxity,43.0,1.0,0.168,0.671,1.329
+4,10,"Barié et al., 2020",BPTB vs. QT,instrumented_laxity,86.0,0.04,0.216,-0.383,0.463
+3,10,"Barié et al., 2020",BPTB vs. QT,tegner,86.0,0.0,0.216,-0.423,0.423
+295,10,"Barié et al., 2020",QT,lysholm,43.0,95.6,1.189,93.27,97.93
+294,10,"Barié et al., 2020",BPTB,lysholm,43.0,95.2,1.006,93.228,97.172
+72,10,"Barié et al., 2020",BPTB,ikdc_subjective,43.0,91.0,1.113,88.819,93.181
+73,10,"Barié et al., 2020",QT,ikdc_subjective,43.0,92.0,1.754,88.562,95.438
+440,10,"Barié et al., 2020",BPTB,tegner,43.0,6.1,0.174,5.759,6.441
+136,10,"Barié et al., 2020",BPTB,instrumented_laxity,43.0,1.05,0.207,0.644,1.456
+441,10,"Barié et al., 2020",QT,tegner,43.0,6.1,0.174,5.759,6.441
+238,11,"Beynnon et al., 2002",BPTB,lachman_1,22.0,13.0,0.126,12.753,13.247
+377,11,"Beynnon et al., 2002",HT,pivot_shift_1,22.0,9.0,0.407,8.202,9.798
+497,11,"Beynnon et al., 2002",HT,lachman_2,22.0,7.0,1.501,4.058,9.942
+496,11,"Beynnon et al., 2002",BPTB,lachman_2,22.0,13.0,0.126,12.753,13.247
+1,11,"Beynnon et al., 2002",BPTB vs. HT,lachman_1,45.0,0.146,0.857,-1.534,1.826
+555,11,"Beynnon et al., 2002",HT,pivot_shift_2,22.0,1.0,0.407,0.202,1.798
+376,11,"Beynnon et al., 2002",BPTB,pivot_shift_1,22.0,3.0,0.023,2.955,3.045
+554,11,"Beynnon et al., 2002",BPTB,pivot_shift_2,22.0,6.0,0.023,5.955,6.045
+2,11,"Beynnon et al., 2002",BPTB vs. HT,pivot_shift_1,45.0,0.252,0.721,-1.161,1.665
+239,11,"Beynnon et al., 2002",HT,lachman_1,22.0,20.0,1.501,17.058,22.942
+2,11,"Beynnon et al., 2002",BPTB vs. HT,pivot_shift_2,45.0,5.688,0.965,3.797,7.579
+1,11,"Beynnon et al., 2002",BPTB vs. HT,lachman_2,45.0,3.0,0.621,1.783,4.217
+556,12,"Bi et al., 2018",HT,pivot_shift_2,62.0,1.0,0.008,0.984,1.016
+3,12,"Bi et al., 2018",HT vs. PLT,pivot_shift_1,125.0,0.804,0.662,-0.494,2.102
+5,12,"Bi et al., 2018",HT vs. PLT,instrumented_laxity,124.0,0.207,0.18,-0.146,0.56
+378,12,"Bi et al., 2018",HT,pivot_shift_1,62.0,4.0,0.008,3.984,4.016
+75,12,"Bi et al., 2018",PLT,ikdc_subjective,62.0,89.3,1.067,87.209,91.391
+141,12,"Bi et al., 2018",PLT,instrumented_laxity,62.0,1.85,0.098,1.658,2.042
+140,12,"Bi et al., 2018",HT,instrumented_laxity,62.0,1.71,0.072,1.569,1.851
+74,12,"Bi et al., 2018",HT,ikdc_subjective,62.0,90.4,0.902,88.632,92.168
+379,12,"Bi et al., 2018",PLT,pivot_shift_1,62.0,5.0,0.008,4.984,5.016
+557,12,"Bi et al., 2018",PLT,pivot_shift_2,62.0,0.0,0.008,-0.016,0.016
+1,12,"Bi et al., 2018",HT vs. PLT,ikdc_subjective,124.0,0.141,0.18,-0.212,0.494
+3,12,"Bi et al., 2018",HT vs. PLT,pivot_shift_2,125.0,3.049,1.643,-0.171,6.269
+558,13,"Björnsson et al., 2016",BPTB,pivot_shift_2,61.0,12.0,0.255,11.5,12.5
+240,13,"Björnsson et al., 2016",BPTB,lachman_1,61.0,31.0,0.14,30.726,31.274
+498,13,"Björnsson et al., 2016",BPTB,lachman_2,61.0,7.0,0.14,6.726,7.274
+77,13,"Björnsson et al., 2016",HT,ikdc_subjective,86.0,74.0,2.027,70.027,77.973
+380,13,"Björnsson et al., 2016",BPTB,pivot_shift_1,61.0,26.0,0.255,25.5,26.5
+444,13,"Björnsson et al., 2016",BPTB,tegner,61.0,4.1,0.218,3.673,4.527
+2,13,"Björnsson et al., 2016",BPTB vs. HT,lachman_2,148.0,0.42,0.462,-0.486,1.326
+4,13,"Björnsson et al., 2016",BPTB vs. HT,pivot_shift_2,148.0,1.379,0.434,0.528,2.23
+2,13,"Björnsson et al., 2016",BPTB vs. HT,lachman_1,148.0,0.276,0.368,-0.445,0.997
+2,13,"Björnsson et al., 2016",BPTB vs. HT,ikdc_subjective,147.0,0.341,0.169,0.01,0.672
+3,13,"Björnsson et al., 2016",BPTB vs. HT,lysholm,147.0,0.081,0.167,-0.246,0.408
+76,13,"Björnsson et al., 2016",BPTB,ikdc_subjective,61.0,67.3,2.663,62.081,72.519
+297,13,"Björnsson et al., 2016",HT,lysholm,86.0,80.7,1.65,77.466,83.934
+445,13,"Björnsson et al., 2016",HT,tegner,86.0,4.0,0.183,3.641,4.359
+381,13,"Björnsson et al., 2016",HT,pivot_shift_1,86.0,28.0,0.185,27.637,28.363
+559,13,"Björnsson et al., 2016",HT,pivot_shift_2,86.0,13.0,0.185,12.637,13.363
+241,13,"Björnsson et al., 2016",HT,lachman_1,86.0,68.0,0.311,67.39,68.61
+499,13,"Björnsson et al., 2016",HT,lachman_2,86.0,21.0,0.311,20.39,21.61
+4,13,"Björnsson et al., 2016",BPTB vs. HT,pivot_shift_1,148.0,1.541,0.344,0.867,2.215
+4,13,"Björnsson et al., 2016",BPTB vs. HT,tegner,147.0,0.059,0.167,-0.268,0.386
+296,13,"Björnsson et al., 2016",BPTB,lysholm,61.0,79.4,2.164,75.159,83.641
+79,14,"Bottoni et al., 2015",TA,ikdc_subjective,36.0,81.1,3.85,73.554,88.646
+78,14,"Bottoni et al., 2015",HT,ikdc_subjective,44.0,79.5,3.724,72.201,86.799
+447,14,"Bottoni et al., 2015",TA,tegner,36.0,5.1,0.333,4.447,5.753
+5,14,"Bottoni et al., 2015",HT vs. TA,tegner,80.0,0.0,0.225,-0.441,0.441
+446,14,"Bottoni et al., 2015",HT,tegner,44.0,5.1,0.332,4.449,5.751
+3,14,"Bottoni et al., 2015",HT vs. TA,ikdc_subjective,80.0,0.067,0.225,-0.374,0.508
+81,18,"Butt et al., 2024",PLT,ikdc_subjective,30.0,89.9,1.789,86.394,93.406
+299,18,"Butt et al., 2024",PLT,lysholm,30.0,94.5,1.168,92.211,96.789
+4,18,"Butt et al., 2024",HT vs. PLT,ikdc_subjective,60.0,0.025,0.258,-0.481,0.531
+80,18,"Butt et al., 2024",HT,ikdc_subjective,30.0,89.7,1.041,87.66,91.74
+298,18,"Butt et al., 2024",HT,lysholm,30.0,95.1,0.949,93.24,96.96
+4,18,"Butt et al., 2024",HT vs. PLT,lysholm,60.0,0.103,0.258,-0.403,0.609
+83,19,"Calvert et al., 2025",QT,ikdc_subjective,89.0,89.0,1.06,86.922,91.078
+82,19,"Calvert et al., 2025",HT,ikdc_subjective,92.0,92.0,0.834,90.365,93.635
+300,19,"Calvert et al., 2025",HT,lysholm,92.0,94.0,0.73,92.569,95.431
+301,19,"Calvert et al., 2025",QT,lysholm,89.0,93.0,0.848,91.338,94.662
+5,19,"Calvert et al., 2025",HT vs. QT,lysholm,181.0,0.133,0.149,-0.159,0.425
+5,19,"Calvert et al., 2025",HT vs. QT,ikdc_subjective,181.0,0.332,0.15,0.038,0.626
+147,23,"Ejerhed et al., 2003",HT,instrumented_laxity,34.0,2.47,0.595,1.304,3.636
+449,23,"Ejerhed et al., 2003",HT,tegner,34.0,6.39,0.245,5.91,6.87
+146,23,"Ejerhed et al., 2003",BPTB,instrumented_laxity,32.0,2.29,0.705,0.908,3.672
+302,23,"Ejerhed et al., 2003",BPTB,lysholm,32.0,89.96,2.309,85.434,94.486
+448,23,"Ejerhed et al., 2003",BPTB,tegner,32.0,5.77,0.343,5.098,6.442
+303,23,"Ejerhed et al., 2003",HT,lysholm,34.0,86.79,2.01,82.85,90.73
+502,23,"Ejerhed et al., 2003",BPTB,lachman_2,32.0,2.0,0.912,0.212,3.788
+244,23,"Ejerhed et al., 2003",BPTB,lachman_1,32.0,14.0,0.912,12.212,15.788
+6,23,"Ejerhed et al., 2003",BPTB vs. HT,instrumented_laxity,66.0,0.048,0.246,-0.434,0.53
+503,23,"Ejerhed et al., 2003",HT,lachman_2,34.0,0.0,0.725,-1.421,1.421
+245,23,"Ejerhed et al., 2003",HT,lachman_1,34.0,18.0,0.725,16.579,19.421
+6,23,"Ejerhed et al., 2003",BPTB vs. HT,lysholm,66.0,0.256,0.247,-0.228,0.74
+3,23,"Ejerhed et al., 2003",BPTB vs. HT,lachman_2,67.0,5.667,1.569,2.592,8.742
+3,23,"Ejerhed et al., 2003",BPTB vs. HT,lachman_1,67.0,0.697,0.491,-0.265,1.659
+6,23,"Ejerhed et al., 2003",BPTB vs. HT,tegner,66.0,0.366,0.248,-0.12,0.852
+7,25,"Eriksson et al., 2001",BPTB vs. HT,instrumented_laxity,89.0,0.161,0.213,-0.256,0.578
+5,25,"Eriksson et al., 2001",BPTB vs. HT,pivot_shift_2,90.0,1.119,2.011,-2.823,5.061
+148,25,"Eriksson et al., 2001",BPTB,instrumented_laxity,42.0,0.95,0.14,0.676,1.224
+384,25,"Eriksson et al., 2001",BPTB,pivot_shift_1,42.0,6.0,0.063,5.877,6.123
+562,25,"Eriksson et al., 2001",BPTB,pivot_shift_2,42.0,0.0,0.063,-0.123,0.123
+149,25,"Eriksson et al., 2001",HT,instrumented_laxity,47.0,1.1,0.139,0.828,1.372
+385,25,"Eriksson et al., 2001",HT,pivot_shift_1,47.0,19.0,0.249,18.512,19.488
+5,25,"Eriksson et al., 2001",BPTB vs. HT,pivot_shift_1,90.0,0.259,0.518,-0.756,1.274
+563,25,"Eriksson et al., 2001",HT,pivot_shift_2,47.0,0.0,0.249,-0.488,0.488
+150,26,"Feller & Webster, 2003",BPTB,instrumented_laxity,27.0,0.5,0.192,0.124,0.876
+564,26,"Feller & Webster, 2003",BPTB,pivot_shift_2,27.0,0.0,0.019,-0.037,0.037
+8,26,"Feller & Webster, 2003",BPTB vs. HT,instrumented_laxity,48.0,0.55,0.297,-0.032,1.132
+504,26,"Feller & Webster, 2003",BPTB,lachman_2,27.0,0.0,0.058,-0.114,0.114
+386,26,"Feller & Webster, 2003",BPTB,pivot_shift_1,27.0,2.0,0.019,1.963,2.037
+6,26,"Feller & Webster, 2003",BPTB vs. HT,pivot_shift_1,49.0,0.126,0.793,-1.428,1.68
+246,26,"Feller & Webster, 2003",BPTB,lachman_1,27.0,6.0,0.058,5.886,6.114
+4,26,"Feller & Webster, 2003",BPTB vs. HT,lachman_2,49.0,0.778,2.021,-3.183,4.739
+6,26,"Feller & Webster, 2003",BPTB vs. HT,pivot_shift_2,49.0,0.778,2.021,-3.183,4.739
+4,26,"Feller & Webster, 2003",BPTB vs. HT,lachman_1,49.0,0.032,0.868,-1.669,1.733
+565,26,"Feller & Webster, 2003",HT,pivot_shift_2,21.0,0.0,0.345,-0.676,0.676
+247,26,"Feller & Webster, 2003",HT,lachman_1,21.0,19.0,0.024,18.953,19.047
+151,26,"Feller & Webster, 2003",HT,instrumented_laxity,21.0,1.1,0.262,0.586,1.614
+387,26,"Feller & Webster, 2003",HT,pivot_shift_1,21.0,9.0,0.345,8.324,9.676
+505,26,"Feller & Webster, 2003",HT,lachman_2,21.0,0.0,0.024,-0.047,0.047
+506,30,"Gifstad et al., 2013",BPTB,lachman_2,41.0,1.0,0.037,0.927,1.073
+248,30,"Gifstad et al., 2013",BPTB,lachman_1,41.0,16.0,0.037,15.927,16.073
+154,30,"Gifstad et al., 2013",BPTB,instrumented_laxity,41.0,1.4,0.281,0.849,1.951
+507,30,"Gifstad et al., 2013",HT,lachman_2,36.0,1.0,0.043,0.916,1.084
+9,30,"Gifstad et al., 2013",BPTB vs. HT,instrumented_laxity,77.0,0.0,0.228,-0.447,0.447
+155,30,"Gifstad et al., 2013",HT,instrumented_laxity,36.0,1.4,0.233,0.943,1.857
+249,30,"Gifstad et al., 2013",HT,lachman_1,36.0,13.0,0.043,12.916,13.084
+5,30,"Gifstad et al., 2013",BPTB vs. HT,lachman_2,78.0,0.875,1.178,-1.434,3.184
+5,30,"Gifstad et al., 2013",BPTB vs. HT,lachman_1,78.0,1.124,0.467,0.209,2.039
+308,32,"Guglielmetti et al., 2021",BPTB,lysholm,31.0,89.87,1.647,86.642,93.098
+388,32,"Guglielmetti et al., 2021",BPTB,pivot_shift_1,31.0,7.0,0.086,6.831,7.169
+566,32,"Guglielmetti et al., 2021",BPTB,pivot_shift_2,31.0,2.0,0.086,1.831,2.169
+84,32,"Guglielmetti et al., 2021",BPTB,ikdc_subjective,31.0,88.75,1.665,85.487,92.013
+6,32,"Guglielmetti et al., 2021",BPTB vs. HT,lachman_1,63.0,1.0,0.549,-0.076,2.076
+7,32,"Guglielmetti et al., 2021",BPTB vs. HT,pivot_shift_2,63.0,1.724,1.065,-0.363,3.811
+7,32,"Guglielmetti et al., 2021",BPTB vs. HT,lysholm,62.0,0.15,0.254,-0.348,0.648
+6,32,"Guglielmetti et al., 2021",BPTB vs. HT,lachman_2,63.0,0.69,0.869,-1.013,2.393
+6,32,"Guglielmetti et al., 2021",BPTB vs. HT,ikdc_subjective,62.0,0.245,0.255,-0.255,0.745
+251,32,"Guglielmetti et al., 2021",HT,lachman_1,31.0,9.0,0.126,8.753,9.247
+509,32,"Guglielmetti et al., 2021",HT,lachman_2,31.0,3.0,0.126,2.753,3.247
+250,32,"Guglielmetti et al., 2021",BPTB,lachman_1,31.0,9.0,0.086,8.831,9.169
+7,32,"Guglielmetti et al., 2021",BPTB vs. HT,pivot_shift_1,63.0,0.625,0.564,-0.48,1.73
+85,32,"Guglielmetti et al., 2021",HT,ikdc_subjective,31.0,91.0,1.629,87.807,94.193
+309,32,"Guglielmetti et al., 2021",HT,lysholm,31.0,91.26,1.681,87.965,94.555
+389,32,"Guglielmetti et al., 2021",HT,pivot_shift_1,31.0,10.0,0.126,9.753,10.247
+567,32,"Guglielmetti et al., 2021",HT,pivot_shift_2,31.0,1.0,0.126,0.753,1.247
+508,32,"Guglielmetti et al., 2021",BPTB,lachman_2,31.0,2.0,0.086,1.831,2.169
+158,33,"Harilainen et al., 2006",BPTB,instrumented_laxity,37.0,1.5,0.493,0.534,2.466
+310,33,"Harilainen et al., 2006",BPTB,lysholm,37.0,89.11,2.553,84.106,94.114
+454,33,"Harilainen et al., 2006",BPTB,tegner,37.0,5.89,0.349,5.206,6.574
+159,33,"Harilainen et al., 2006",HT,instrumented_laxity,37.0,1.2,0.641,-0.056,2.456
+455,33,"Harilainen et al., 2006",HT,tegner,37.0,6.0,0.232,5.545,6.455
+568,33,"Harilainen et al., 2006",BPTB,pivot_shift_2,37.0,0.0,0.013,-0.025,0.025
+390,33,"Harilainen et al., 2006",BPTB,pivot_shift_1,37.0,4.0,0.013,3.975,4.025
+8,33,"Harilainen et al., 2006",BPTB vs. HT,lysholm,74.0,0.379,0.235,-0.082,0.84
+7,33,"Harilainen et al., 2006",BPTB vs. HT,lachman_1,75.0,1.398,0.582,0.257,2.539
+7,33,"Harilainen et al., 2006",BPTB vs. HT,lachman_2,75.0,0.324,1.65,-2.91,3.558
+10,33,"Harilainen et al., 2006",BPTB vs. HT,instrumented_laxity,74.0,0.086,0.233,-0.371,0.543
+252,33,"Harilainen et al., 2006",BPTB,lachman_1,37.0,8.0,0.013,7.975,8.025
+7,33,"Harilainen et al., 2006",BPTB vs. HT,tegner,74.0,0.061,0.233,-0.396,0.518
+311,33,"Harilainen et al., 2006",HT,lysholm,37.0,95.0,2.553,89.996,100.004
+510,33,"Harilainen et al., 2006",BPTB,lachman_2,37.0,0.0,0.013,-0.025,0.025
+511,33,"Harilainen et al., 2006",HT,lachman_2,37.0,1.0,0.041,0.92,1.08
+253,33,"Harilainen et al., 2006",HT,lachman_1,37.0,6.0,0.041,5.92,6.08
+569,33,"Harilainen et al., 2006",HT,pivot_shift_2,37.0,1.0,0.041,0.92,1.08
+391,33,"Harilainen et al., 2006",HT,pivot_shift_1,37.0,4.0,0.041,3.92,4.08
+8,33,"Harilainen et al., 2006",BPTB vs. HT,pivot_shift_2,75.0,0.324,1.65,-2.91,3.558
+8,33,"Harilainen et al., 2006",BPTB vs. HT,pivot_shift_1,75.0,1.0,0.711,-0.394,2.394
+392,34,"Heijne & Werner, 2010",BPTB,pivot_shift_1,30.0,13.0,0.13,12.745,13.255
+570,34,"Heijne & Werner, 2010",BPTB,pivot_shift_2,30.0,3.0,0.13,2.745,3.255
+8,34,"Heijne & Werner, 2010",BPTB vs. HT,tegner,59.0,0.869,0.273,0.334,1.404
+571,34,"Heijne & Werner, 2010",HT,pivot_shift_2,29.0,8.0,0.405,7.206,8.794
+393,34,"Heijne & Werner, 2010",HT,pivot_shift_1,29.0,22.0,0.405,21.206,22.794
+456,34,"Heijne & Werner, 2010",BPTB,tegner,30.0,6.64,0.403,5.85,7.43
+457,34,"Heijne & Werner, 2010",HT,tegner,29.0,5.0,0.275,4.461,5.539
+9,34,"Heijne & Werner, 2010",BPTB vs. HT,pivot_shift_2,60.0,0.32,0.699,-1.05,1.69
+9,34,"Heijne & Werner, 2010",BPTB vs. HT,pivot_shift_1,60.0,0.247,0.566,-0.862,1.356
+9,35,"Holm et al., 2010",BPTB vs. HT,lysholm,57.0,0.125,0.265,-0.394,0.644
+162,35,"Holm et al., 2010",BPTB,instrumented_laxity,28.0,3.0,0.605,1.814,4.186
+163,35,"Holm et al., 2010",HT,instrumented_laxity,29.0,2.0,0.65,0.726,3.274
+312,35,"Holm et al., 2010",BPTB,lysholm,28.0,84.2,2.91,78.496,89.904
+313,35,"Holm et al., 2010",HT,lysholm,29.0,86.1,2.804,80.604,91.596
+11,35,"Holm et al., 2010",BPTB vs. HT,instrumented_laxity,57.0,0.298,0.266,-0.223,0.819
+10,36,"Horstmann et al., 2022",HT vs. QT,pivot_shift_2,50.0,0.885,2.02,-3.074,4.844
+10,36,"Horstmann et al., 2022",HT vs. QT,pivot_shift_1,50.0,0.885,2.02,-3.074,4.844
+573,36,"Horstmann et al., 2022",QT,pivot_shift_2,23.0,0.0,0.021,-0.041,0.041
+395,36,"Horstmann et al., 2022",QT,pivot_shift_1,23.0,0.0,0.021,-0.041,0.041
+12,36,"Horstmann et al., 2022",HT vs. QT,instrumented_laxity,49.0,0.282,0.288,-0.282,0.846
+7,36,"Horstmann et al., 2022",HT vs. QT,ikdc_subjective,49.0,0.449,0.29,-0.119,1.017
+10,36,"Horstmann et al., 2022",HT vs. QT,lysholm,49.0,0.458,0.29,-0.11,1.026
+314,36,"Horstmann et al., 2022",HT,lysholm,26.0,83.5,3.412,76.812,90.188
+164,36,"Horstmann et al., 2022",HT,instrumented_laxity,26.0,0.2,0.431,-0.645,1.045
+394,36,"Horstmann et al., 2022",HT,pivot_shift_1,26.0,0.0,0.02,-0.039,0.039
+165,36,"Horstmann et al., 2022",QT,instrumented_laxity,23.0,0.7,0.229,0.251,1.149
+315,36,"Horstmann et al., 2022",QT,lysholm,23.0,90.4,2.481,85.537,95.263
+572,36,"Horstmann et al., 2022",HT,pivot_shift_2,26.0,0.0,0.02,-0.039,0.039
+87,36,"Horstmann et al., 2022",QT,ikdc_subjective,23.0,89.3,2.544,84.314,94.286
+86,36,"Horstmann et al., 2022",HT,ikdc_subjective,26.0,83.7,2.491,78.818,88.582
+11,37,"Ibrahim et al., 2005",BPTB vs. HT,lysholm,86.0,0.292,0.217,-0.133,0.717
+11,37,"Ibrahim et al., 2005",BPTB vs. HT,pivot_shift_2,86.0,1.125,2.012,-2.819,5.069
+11,37,"Ibrahim et al., 2005",BPTB vs. HT,pivot_shift_1,86.0,0.684,0.596,-0.484,1.852
+8,37,"Ibrahim et al., 2005",BPTB vs. HT,lachman_1,87.0,0.817,0.608,-0.375,2.009
+8,37,"Ibrahim et al., 2005",BPTB vs. HT,lachman_2,87.0,1.15,2.012,-2.794,5.094
+512,37,"Ibrahim et al., 2005",BPTB,lachman_2,40.0,0.0,0.157,-0.308,0.308
+317,37,"Ibrahim et al., 2005",HT,lysholm,46.0,92.7,0.534,91.653,93.747
+397,37,"Ibrahim et al., 2005",HT,pivot_shift_1,45.0,8.0,0.23,7.549,8.451
+575,37,"Ibrahim et al., 2005",HT,pivot_shift_2,45.0,0.0,0.23,-0.451,0.451
+316,37,"Ibrahim et al., 2005",BPTB,lysholm,40.0,91.6,0.623,90.379,92.821
+396,37,"Ibrahim et al., 2005",BPTB,pivot_shift_1,40.0,5.0,0.157,4.692,5.308
+574,37,"Ibrahim et al., 2005",BPTB,pivot_shift_2,40.0,0.0,0.157,-0.308,0.308
+254,37,"Ibrahim et al., 2005",BPTB,lachman_1,40.0,5.0,0.157,4.692,5.308
+513,37,"Ibrahim et al., 2005",HT,lachman_2,46.0,0.0,0.192,-0.376,0.376
+255,37,"Ibrahim et al., 2005",HT,lachman_1,46.0,7.0,0.192,6.624,7.376
+318,38,"Iliopoulos et al., 2017",BPTB,lysholm,45.0,95.8,0.358,95.098,96.502
+88,38,"Iliopoulos et al., 2017",BPTB,ikdc_subjective,45.0,83.2,0.417,82.383,84.017
+319,38,"Iliopoulos et al., 2017",HT,lysholm,45.0,94.0,0.537,92.947,95.053
+89,38,"Iliopoulos et al., 2017",HT,ikdc_subjective,45.0,82.78,0.417,81.963,83.597
+12,38,"Iliopoulos et al., 2017",BPTB vs. HT,lysholm,90.0,0.588,0.215,0.167,1.009
+8,38,"Iliopoulos et al., 2017",BPTB vs. HT,ikdc_subjective,90.0,0.15,0.211,-0.264,0.564
+13,41,"Jansson et al., 2003",BPTB vs. HT,instrumented_laxity,89.0,0.189,0.213,-0.228,0.606
+516,41,"Jansson et al., 2003",BPTB,lachman_2,43.0,0.0,0.242,-0.474,0.474
+9,41,"Jansson et al., 2003",BPTB vs. HT,lachman_2,90.0,1.07,2.011,-2.872,5.012
+9,41,"Jansson et al., 2003",BPTB vs. HT,lachman_1,90.0,1.086,0.539,0.03,2.142
+12,41,"Jansson et al., 2003",BPTB vs. HT,pivot_shift_1,90.0,1.075,0.787,-0.468,2.618
+12,41,"Jansson et al., 2003",BPTB vs. HT,pivot_shift_2,90.0,1.07,2.011,-2.872,5.012
+517,41,"Jansson et al., 2003",HT,lachman_2,46.0,0.0,0.224,-0.439,0.439
+259,41,"Jansson et al., 2003",HT,lachman_1,46.0,8.0,0.224,7.561,8.439
+579,41,"Jansson et al., 2003",HT,pivot_shift_2,46.0,0.0,0.081,-0.159,0.159
+401,41,"Jansson et al., 2003",HT,pivot_shift_1,46.0,3.0,0.081,2.841,3.159
+459,41,"Jansson et al., 2003",HT,tegner,46.0,5.82,0.333,5.167,6.473
+169,41,"Jansson et al., 2003",HT,instrumented_laxity,46.0,1.2,0.391,0.434,1.966
+168,41,"Jansson et al., 2003",BPTB,instrumented_laxity,43.0,1.7,0.401,0.914,2.486
+9,41,"Jansson et al., 2003",BPTB vs. HT,tegner,89.0,0.081,0.212,-0.335,0.497
+458,41,"Jansson et al., 2003",BPTB,tegner,43.0,5.98,0.244,5.502,6.458
+400,41,"Jansson et al., 2003",BPTB,pivot_shift_1,43.0,3.0,0.087,2.829,3.171
+258,41,"Jansson et al., 2003",BPTB,lachman_1,43.0,8.0,0.242,7.526,8.474
+578,41,"Jansson et al., 2003",BPTB,pivot_shift_2,43.0,0.0,0.087,-0.171,0.171
+6,43,"Kautzner et al., 2015",BPTB,graft_failure,74.0,0.0,0.007,-0.014,0.014
+171,43,"Kautzner et al., 2015",HT,instrumented_laxity,73.0,0.5,0.049,0.404,0.596
+1,43,"Kautzner et al., 2015",BPTB vs. HT,graft_failure,148.0,0.192,1.558,-2.862,3.246
+13,43,"Kautzner et al., 2015",BPTB vs. HT,lysholm,147.0,0.265,0.166,-0.06,0.59
+322,43,"Kautzner et al., 2015",BPTB,lysholm,74.0,88.0,0.872,86.291,89.709
+170,43,"Kautzner et al., 2015",BPTB,instrumented_laxity,74.0,0.6,0.024,0.553,0.647
+323,43,"Kautzner et al., 2015",HT,lysholm,73.0,90.0,0.89,88.256,91.744
+7,43,"Kautzner et al., 2015",HT,graft_failure,73.0,2.0,0.035,1.931,2.069
+14,43,"Kautzner et al., 2015",BPTB vs. HT,instrumented_laxity,147.0,0.302,0.166,-0.023,0.627
+14,44,"Komzak et al., 2022",BPTB vs. QT,lysholm,72.0,0.399,0.238,-0.067,0.865
+9,44,"Komzak et al., 2022",BPTB vs. QT,ikdc_subjective,72.0,0.396,0.238,-0.07,0.862
+324,44,"Komzak et al., 2022",BPTB,lysholm,36.0,93.4,1.6,90.264,96.536
+325,44,"Komzak et al., 2022",QT,lysholm,36.0,90.1,1.117,87.911,92.289
+91,44,"Komzak et al., 2022",QT,ikdc_subjective,36.0,78.3,1.75,74.87,81.73
+90,44,"Komzak et al., 2022",BPTB,ikdc_subjective,36.0,74.2,1.7,70.868,77.532
+460,45,"Konrads et al., 2016",BPTB,tegner,24.0,5.9,0.261,5.388,6.412
+173,45,"Konrads et al., 2016",HT,instrumented_laxity,23.0,2.2,0.163,1.881,2.519
+461,45,"Konrads et al., 2016",HT,tegner,23.0,5.1,0.217,4.675,5.525
+172,45,"Konrads et al., 2016",BPTB,instrumented_laxity,24.0,1.8,0.104,1.596,2.004
+15,45,"Konrads et al., 2016",BPTB vs. HT,instrumented_laxity,47.0,0.61,0.299,0.024,1.196
+10,45,"Konrads et al., 2016",BPTB vs. HT,tegner,47.0,0.684,0.301,0.094,1.274
+326,45,"Konrads et al., 2016",BPTB,lysholm,24.0,92.0,1.835,88.403,95.597
+10,45,"Konrads et al., 2016",BPTB vs. HT,lachman_1,48.0,0.554,0.592,-0.606,1.714
+10,45,"Konrads et al., 2016",BPTB vs. HT,lachman_2,48.0,0.175,1.578,-2.918,3.268
+518,45,"Konrads et al., 2016",BPTB,lachman_2,24.0,0.0,0.531,-1.041,1.041
+327,45,"Konrads et al., 2016",HT,lysholm,23.0,91.8,1.945,87.988,95.612
+519,45,"Konrads et al., 2016",HT,lachman_2,23.0,2.0,0.959,0.12,3.88
+261,45,"Konrads et al., 2016",HT,lachman_1,23.0,11.0,0.959,9.12,12.88
+15,45,"Konrads et al., 2016",BPTB vs. HT,lysholm,47.0,0.022,0.292,-0.55,0.594
+260,45,"Konrads et al., 2016",BPTB,lachman_1,24.0,8.0,0.531,6.959,9.041
+582,46,"Laoruengthana et al., 2009",BPTB,pivot_shift_2,15.0,0.0,0.194,-0.38,0.38
+404,46,"Laoruengthana et al., 2009",BPTB,pivot_shift_1,15.0,2.0,0.194,1.62,2.38
+13,46,"Laoruengthana et al., 2009",BPTB vs. HT,pivot_shift_1,29.0,0.846,0.984,-1.083,2.775
+175,46,"Laoruengthana et al., 2009",HT,instrumented_laxity,13.0,0.96,0.116,0.733,1.187
+405,46,"Laoruengthana et al., 2009",HT,pivot_shift_1,13.0,2.0,0.227,1.555,2.445
+13,46,"Laoruengthana et al., 2009",BPTB vs. HT,pivot_shift_2,29.0,0.867,2.036,-3.124,4.858
+16,46,"Laoruengthana et al., 2009",BPTB vs. HT,instrumented_laxity,28.0,0.447,0.384,-0.306,1.2
+174,46,"Laoruengthana et al., 2009",BPTB,instrumented_laxity,15.0,1.22,0.178,0.871,1.569
+583,46,"Laoruengthana et al., 2009",HT,pivot_shift_2,13.0,0.0,0.227,-0.445,0.445
+585,47,"Lawhorn et al., 2012",TA,pivot_shift_2,48.0,0.0,0.108,-0.212,0.212
+407,47,"Lawhorn et al., 2012",TA,pivot_shift_1,48.0,4.0,0.108,3.788,4.212
+584,47,"Lawhorn et al., 2012",HT,pivot_shift_2,44.0,1.0,0.161,0.684,1.316
+406,47,"Lawhorn et al., 2012",HT,pivot_shift_1,44.0,6.0,0.161,5.684,6.316
+14,47,"Lawhorn et al., 2012",HT vs. TA,pivot_shift_2,93.0,3.349,1.646,0.123,6.575
+14,47,"Lawhorn et al., 2012",HT vs. TA,pivot_shift_1,93.0,1.673,0.652,0.395,2.951
+2,49,"Laxdal et al., 2005",BPTB vs. HT,graft_failure,119.0,1.169,1.051,-0.891,3.229
+17,49,"Laxdal et al., 2005",BPTB vs. HT,instrumented_laxity,118.0,0.162,0.195,-0.22,0.544
+16,49,"Laxdal et al., 2005",BPTB vs. HT,lysholm,118.0,0.132,0.195,-0.25,0.514
+11,49,"Laxdal et al., 2005",BPTB vs. HT,tegner,118.0,1.165,0.209,0.755,1.575
+9,49,"Laxdal et al., 2005",HT,graft_failure,78.0,2.0,0.048,1.906,2.094
+179,49,"Laxdal et al., 2005",HT,instrumented_laxity,78.0,1.5,0.353,0.808,2.192
+330,49,"Laxdal et al., 2005",BPTB,lysholm,40.0,94.0,2.86,88.394,99.606
+462,49,"Laxdal et al., 2005",BPTB,tegner,40.0,6.0,0.294,5.424,6.576
+463,49,"Laxdal et al., 2005",HT,tegner,78.0,4.0,0.186,3.635,4.365
+331,49,"Laxdal et al., 2005",HT,lysholm,78.0,92.0,1.517,89.027,94.973
+178,49,"Laxdal et al., 2005",BPTB,instrumented_laxity,40.0,1.0,0.476,0.067,1.933
+8,49,"Laxdal et al., 2005",BPTB,graft_failure,40.0,1.0,0.038,0.926,1.074
+17,51,"Li et al., 2015",HT vs. TA,lysholm,64.0,0.256,0.251,-0.236,0.748
+12,51,"Li et al., 2015",HT vs. TA,tegner,64.0,0.172,0.25,-0.318,0.662
+15,51,"Li et al., 2015",HT vs. TA,pivot_shift_1,65.0,0.389,0.638,-0.861,1.639
+18,51,"Li et al., 2015",HT vs. TA,instrumented_laxity,64.0,0.99,0.265,0.471,1.509
+10,51,"Li et al., 2015",HT vs. TA,ikdc_subjective,64.0,0.688,0.258,0.182,1.194
+409,51,"Li et al., 2015",TA,pivot_shift_1,32.0,9.0,0.414,8.189,9.811
+465,51,"Li et al., 2015",TA,tegner,32.0,7.0,0.371,6.273,7.727
+183,51,"Li et al., 2015",TA,instrumented_laxity,32.0,3.5,0.212,3.084,3.916
+587,51,"Li et al., 2015",TA,pivot_shift_2,32.0,1.0,0.414,0.189,1.811
+265,51,"Li et al., 2015",TA,lachman_1,32.0,13.0,0.711,11.606,14.394
+523,51,"Li et al., 2015",TA,lachman_2,32.0,4.0,0.711,2.606,5.394
+15,51,"Li et al., 2015",HT vs. TA,pivot_shift_2,65.0,0.323,1.652,-2.915,3.561
+11,51,"Li et al., 2015",HT vs. TA,lachman_2,65.0,0.519,0.831,-1.11,2.148
+11,51,"Li et al., 2015",HT vs. TA,lachman_1,65.0,0.352,0.565,-0.755,1.459
+408,51,"Li et al., 2015",HT,pivot_shift_1,32.0,4.0,0.161,3.684,4.316
+586,51,"Li et al., 2015",HT,pivot_shift_2,32.0,0.0,0.161,-0.316,0.316
+264,51,"Li et al., 2015",HT,lachman_1,32.0,6.0,0.249,5.512,6.488
+522,51,"Li et al., 2015",HT,lachman_2,32.0,2.0,0.249,1.512,2.488
+333,51,"Li et al., 2015",TA,lysholm,32.0,88.7,1.52,85.721,91.679
+93,51,"Li et al., 2015",TA,ikdc_subjective,32.0,83.8,1.22,81.409,86.191
+464,51,"Li et al., 2015",HT,tegner,32.0,7.3,0.23,6.849,7.751
+182,51,"Li et al., 2015",HT,instrumented_laxity,32.0,2.1,0.283,1.545,2.655
+92,51,"Li et al., 2015",HT,ikdc_subjective,32.0,87.5,0.566,86.391,88.609
+332,51,"Li et al., 2015",HT,lysholm,32.0,91.3,2.033,87.315,95.285
+525,52,"Lidén et al., 2007",HT,lachman_2,32.0,2.0,3.643,-5.14,9.14
+266,52,"Lidén et al., 2007",BPTB,lachman_1,30.0,23.0,2.813,17.487,28.513
+466,52,"Lidén et al., 2007",BPTB,tegner,30.0,5.0,0.314,4.385,5.615
+467,52,"Lidén et al., 2007",HT,tegner,32.0,6.0,0.299,5.414,6.586
+185,52,"Lidén et al., 2007",HT,instrumented_laxity,32.0,2.7,0.599,1.526,3.874
+267,52,"Lidén et al., 2007",HT,lachman_1,32.0,26.0,3.643,18.86,33.14
+13,52,"Lidén et al., 2007",BPTB vs. HT,tegner,62.0,0.587,0.26,0.077,1.097
+19,52,"Lidén et al., 2007",BPTB vs. HT,instrumented_laxity,62.0,0.124,0.254,-0.374,0.622
+12,52,"Lidén et al., 2007",BPTB vs. HT,lachman_1,63.0,0.76,0.624,-0.463,1.983
+12,52,"Lidén et al., 2007",BPTB vs. HT,lachman_2,63.0,0.621,1.065,-1.466,2.708
+18,52,"Lidén et al., 2007",BPTB vs. HT,lysholm,62.0,0.582,0.26,0.072,1.092
+335,52,"Lidén et al., 2007",HT,lysholm,32.0,90.0,2.139,85.808,94.192
+334,52,"Lidén et al., 2007",BPTB,lysholm,30.0,81.0,3.356,74.422,87.578
+184,52,"Lidén et al., 2007",BPTB,instrumented_laxity,30.0,2.3,0.559,1.204,3.396
+524,52,"Lidén et al., 2007",BPTB,lachman_2,30.0,1.0,2.813,-4.513,6.513
+468,53,"Lind et al., 2020",HT,tegner,49.0,5.9,0.186,5.535,6.265
+20,53,"Lind et al., 2020",HT vs. QT,instrumented_laxity,96.0,0.071,0.204,-0.329,0.471
+16,53,"Lind et al., 2020",HT vs. QT,pivot_shift_1,97.0,1.389,0.507,0.395,2.383
+94,53,"Lind et al., 2020",HT,ikdc_subjective,49.0,78.0,2.571,72.961,83.039
+186,53,"Lind et al., 2020",HT,instrumented_laxity,49.0,1.9,0.243,1.424,2.376
+95,53,"Lind et al., 2020",QT,ikdc_subjective,47.0,82.0,2.042,77.998,86.002
+16,53,"Lind et al., 2020",HT vs. QT,pivot_shift_2,97.0,0.959,2.01,-2.981,4.899
+589,53,"Lind et al., 2020",QT,pivot_shift_2,47.0,0.0,0.217,-0.425,0.425
+469,53,"Lind et al., 2020",QT,tegner,47.0,6.0,0.219,5.571,6.429
+11,53,"Lind et al., 2020",HT vs. QT,ikdc_subjective,96.0,0.247,0.205,-0.155,0.649
+588,53,"Lind et al., 2020",HT,pivot_shift_2,49.0,0.0,0.303,-0.594,0.594
+410,53,"Lind et al., 2020",HT,pivot_shift_1,49.0,11.0,0.303,10.406,11.594
+14,53,"Lind et al., 2020",HT vs. QT,tegner,96.0,0.071,0.204,-0.329,0.471
+187,53,"Lind et al., 2020",QT,instrumented_laxity,47.0,1.8,0.146,1.514,2.086
+411,53,"Lind et al., 2020",QT,pivot_shift_1,47.0,8.0,0.217,7.575,8.425
+3,54,"Lucidi et al., 2025",BPTB vs. HT,graft_failure,40.0,3.036,0.749,1.568,4.504
+19,54,"Lucidi et al., 2025",BPTB vs. HT,lysholm,39.0,0.407,0.324,-0.228,1.042
+11,54,"Lucidi et al., 2025",HT,graft_failure,20.0,3.0,0.206,2.596,3.404
+12,54,"Lucidi et al., 2025",BPTB vs. HT,ikdc_subjective,39.0,0.25,0.322,-0.381,0.881
+15,54,"Lucidi et al., 2025",BPTB vs. HT,tegner,39.0,1.056,0.343,0.384,1.728
+471,54,"Lucidi et al., 2025",HT,tegner,20.0,4.0,0.179,3.649,4.351
+10,54,"Lucidi et al., 2025",BPTB,graft_failure,19.0,7.0,0.624,5.777,8.223
+97,54,"Lucidi et al., 2025",HT,ikdc_subjective,20.0,81.6,2.661,76.384,86.816
+337,54,"Lucidi et al., 2025",HT,lysholm,20.0,88.6,1.856,84.962,92.238
+21,54,"Lucidi et al., 2025",BPTB vs. HT,instrumented_laxity,39.0,1.136,0.347,0.456,1.816
+413,54,"Lucidi et al., 2025",HT,pivot_shift_1,20.0,5.0,0.367,4.281,5.719
+591,54,"Lucidi et al., 2025",HT,pivot_shift_2,20.0,5.0,0.367,4.281,5.719
+17,54,"Lucidi et al., 2025",BPTB vs. HT,pivot_shift_1,40.0,1.705,0.682,0.368,3.042
+189,54,"Lucidi et al., 2025",HT,instrumented_laxity,20.0,1.5,0.268,0.975,2.025
+17,54,"Lucidi et al., 2025",BPTB vs. HT,pivot_shift_2,40.0,1.705,0.682,0.368,3.042
+412,54,"Lucidi et al., 2025",BPTB,pivot_shift_1,19.0,7.0,0.624,5.777,8.223
+470,54,"Lucidi et al., 2025",BPTB,tegner,19.0,3.0,0.248,2.514,3.486
+96,54,"Lucidi et al., 2025",BPTB,ikdc_subjective,19.0,78.4,3.143,72.24,84.56
+590,54,"Lucidi et al., 2025",BPTB,pivot_shift_2,19.0,7.0,0.624,5.777,8.223
+336,54,"Lucidi et al., 2025",BPTB,lysholm,19.0,84.8,2.363,80.169,89.431
+188,54,"Lucidi et al., 2025",BPTB,instrumented_laxity,19.0,-0.1,0.367,-0.819,0.619
+20,55,"Lui et al., 2012",BPTB vs. HT,lysholm,31.0,0.273,0.363,-0.438,0.984
+99,55,"Lui et al., 2012",HT,ikdc_subjective,17.0,73.1,2.983,67.253,78.947
+338,55,"Lui et al., 2012",BPTB,lysholm,14.0,84.0,3.6,76.944,91.056
+527,55,"Lui et al., 2012",HT,lachman_2,17.0,0.0,0.25,-0.49,0.49
+22,55,"Lui et al., 2012",BPTB vs. HT,instrumented_laxity,31.0,0.396,0.365,-0.319,1.111
+191,55,"Lui et al., 2012",HT,instrumented_laxity,17.0,3.1,0.388,2.34,3.86
+269,55,"Lui et al., 2012",HT,lachman_1,17.0,6.0,0.25,5.51,6.49
+339,55,"Lui et al., 2012",HT,lysholm,17.0,80.0,3.781,72.589,87.411
+526,55,"Lui et al., 2012",BPTB,lachman_2,14.0,0.0,0.449,-0.88,0.88
+98,55,"Lui et al., 2012",BPTB,ikdc_subjective,14.0,71.9,4.062,63.938,79.862
+268,55,"Lui et al., 2012",BPTB,lachman_1,14.0,4.0,0.449,3.12,4.88
+13,55,"Lui et al., 2012",BPTB vs. HT,ikdc_subjective,31.0,0.088,0.361,-0.62,0.796
+13,55,"Lui et al., 2012",BPTB vs. HT,lachman_1,32.0,0.762,0.753,-0.714,2.238
+190,55,"Lui et al., 2012",BPTB,instrumented_laxity,14.0,3.7,0.374,2.967,4.433
+13,55,"Lui et al., 2012",BPTB vs. HT,lachman_2,32.0,1.214,2.032,-2.769,5.197
+415,56,"Lund et al., 2014",QT,pivot_shift_1,21.0,8.0,0.655,6.716,9.284
+14,56,"Lund et al., 2014",BPTB vs. QT,ikdc_subjective,39.0,0.068,0.321,-0.561,0.697
+101,56,"Lund et al., 2014",QT,ikdc_subjective,21.0,76.0,3.491,69.158,82.842
+193,56,"Lund et al., 2014",QT,instrumented_laxity,21.0,0.8,0.371,0.073,1.527
+592,56,"Lund et al., 2014",BPTB,pivot_shift_2,18.0,3.0,0.233,2.543,3.457
+593,56,"Lund et al., 2014",QT,pivot_shift_2,21.0,8.0,0.655,6.716,9.284
+100,56,"Lund et al., 2014",BPTB,ikdc_subjective,18.0,75.0,3.064,68.995,81.005
+192,56,"Lund et al., 2014",BPTB,instrumented_laxity,18.0,1.1,0.33,0.453,1.747
+414,56,"Lund et al., 2014",BPTB,pivot_shift_1,18.0,3.0,0.233,2.543,3.457
+23,56,"Lund et al., 2014",BPTB vs. QT,instrumented_laxity,39.0,0.191,0.322,-0.44,0.822
+18,56,"Lund et al., 2014",BPTB vs. QT,pivot_shift_1,40.0,0.357,0.74,-1.093,1.807
+18,56,"Lund et al., 2014",BPTB vs. QT,pivot_shift_2,40.0,0.357,0.74,-1.093,1.807
+19,58,"Malik et al., 2026",HT vs. PLT,pivot_shift_2,51.0,1.347,0.775,-0.172,2.866
+19,58,"Malik et al., 2026",HT vs. PLT,pivot_shift_1,51.0,1.347,0.775,-0.172,2.866
+14,58,"Malik et al., 2026",HT vs. PLT,lachman_2,51.0,1.464,0.88,-0.261,3.189
+14,58,"Malik et al., 2026",HT vs. PLT,lachman_1,51.0,1.464,0.88,-0.261,3.189
+15,58,"Malik et al., 2026",HT vs. PLT,ikdc_subjective,50.0,0.538,0.288,-0.026,1.102
+21,58,"Malik et al., 2026",HT vs. PLT,lysholm,50.0,0.704,0.292,0.132,1.276
+594,58,"Malik et al., 2026",HT,pivot_shift_2,25.0,4.0,0.214,3.581,4.419
+270,58,"Malik et al., 2026",HT,lachman_1,25.0,3.0,0.16,2.686,3.314
+528,58,"Malik et al., 2026",HT,lachman_2,25.0,3.0,0.16,2.686,3.314
+103,58,"Malik et al., 2026",PLT,ikdc_subjective,25.0,82.6,1.26,80.13,85.07
+343,58,"Malik et al., 2026",PLT,lysholm,25.0,89.4,1.16,87.126,91.674
+475,58,"Malik et al., 2026",PLT,tegner,25.0,5.6,0.18,5.247,5.953
+197,58,"Malik et al., 2026",PLT,instrumented_laxity,25.0,1.8,0.18,1.447,2.153
+417,58,"Malik et al., 2026",PLT,pivot_shift_1,25.0,3.0,0.16,2.686,3.314
+595,58,"Malik et al., 2026",PLT,pivot_shift_2,25.0,3.0,0.16,2.686,3.314
+271,58,"Malik et al., 2026",PLT,lachman_1,25.0,2.0,0.108,1.788,2.212
+529,58,"Malik et al., 2026",PLT,lachman_2,25.0,2.0,0.108,1.788,2.212
+342,58,"Malik et al., 2026",HT,lysholm,25.0,85.1,1.28,82.591,87.609
+474,58,"Malik et al., 2026",HT,tegner,25.0,5.1,0.2,4.708,5.492
+24,58,"Malik et al., 2026",HT vs. PLT,instrumented_laxity,50.0,0.315,0.285,-0.244,0.874
+196,58,"Malik et al., 2026",HT,instrumented_laxity,25.0,2.1,0.2,1.708,2.492
+416,58,"Malik et al., 2026",HT,pivot_shift_1,25.0,4.0,0.214,3.581,4.419
+16,58,"Malik et al., 2026",HT vs. PLT,tegner,50.0,0.526,0.288,-0.038,1.09
+102,58,"Malik et al., 2026",HT,ikdc_subjective,25.0,78.9,1.48,75.999,81.801
+25,62,"Matsumoto et al., 2006",BPTB vs. HT,instrumented_laxity,72.0,0.279,0.237,-0.186,0.744
+199,62,"Matsumoto et al., 2006",HT,instrumented_laxity,35.0,1.7,0.237,1.235,2.165
+105,62,"Matsumoto et al., 2006",HT,ikdc_subjective,35.0,86.8,1.403,84.05,89.55
+104,62,"Matsumoto et al., 2006",BPTB,ikdc_subjective,37.0,84.3,1.808,80.756,87.844
+198,62,"Matsumoto et al., 2006",BPTB,instrumented_laxity,37.0,1.2,0.345,0.524,1.876
+16,62,"Matsumoto et al., 2006",BPTB vs. HT,ikdc_subjective,72.0,0.256,0.237,-0.209,0.721
+12,66,"Mohtadi et al., 2016",BPTB,graft_failure,110.0,19.0,0.215,18.579,19.421
+13,66,"Mohtadi et al., 2016",HT,graft_failure,110.0,24.0,0.285,23.441,24.559
+4,66,"Mohtadi et al., 2016",BPTB vs. HT,graft_failure,221.0,0.752,0.339,0.088,1.416
+22,68,"Moraiti et al., 2010",BPTB vs. HT,lysholm,12.0,0.243,0.58,-0.894,1.38
+344,68,"Moraiti et al., 2010",BPTB,lysholm,6.0,96.0,1.225,93.599,98.401
+17,68,"Moraiti et al., 2010",BPTB vs. HT,ikdc_subjective,12.0,0.232,0.58,-0.905,1.369
+345,68,"Moraiti et al., 2010",HT,lysholm,6.0,95.0,2.041,91.0,99.0
+106,68,"Moraiti et al., 2010",BPTB,ikdc_subjective,6.0,92.0,2.858,86.398,97.602
+107,68,"Moraiti et al., 2010",HT,ikdc_subjective,6.0,90.0,4.082,81.999,98.001
+17,70,"Noh et al., 2011",HT vs. AT,tegner,65.0,0.0,0.248,-0.486,0.486
+420,70,"Noh et al., 2011",HT,pivot_shift_1,33.0,6.0,0.24,5.53,6.47
+478,70,"Noh et al., 2011",HT,tegner,33.0,6.0,0.167,5.673,6.327
+20,70,"Noh et al., 2011",HT vs. AT,pivot_shift_1,66.0,0.44,0.57,-0.677,1.557
+15,70,"Noh et al., 2011",HT vs. AT,lachman_2,66.0,0.388,1.009,-1.59,2.366
+20,70,"Noh et al., 2011",HT vs. AT,pivot_shift_2,66.0,0.388,1.009,-1.59,2.366
+23,70,"Noh et al., 2011",HT vs. AT,lysholm,65.0,0.276,0.249,-0.212,0.764
+15,70,"Noh et al., 2011",HT vs. AT,lachman_1,66.0,0.963,0.619,-0.25,2.176
+537,70,"Noh et al., 2011",AT,lachman_2,32.0,3.0,0.548,1.926,4.074
+598,70,"Noh et al., 2011",HT,pivot_shift_2,33.0,1.0,0.24,0.53,1.47
+599,70,"Noh et al., 2011",AT,pivot_shift_2,32.0,3.0,0.249,2.512,3.488
+421,70,"Noh et al., 2011",AT,pivot_shift_1,32.0,11.0,0.249,10.512,11.488
+347,70,"Noh et al., 2011",AT,lysholm,32.0,99.0,0.642,97.742,100.258
+479,70,"Noh et al., 2011",AT,tegner,32.0,6.0,0.214,5.581,6.419
+346,70,"Noh et al., 2011",HT,lysholm,33.0,98.0,0.628,96.769,99.231
+278,70,"Noh et al., 2011",HT,lachman_1,33.0,6.0,0.24,5.53,6.47
+279,70,"Noh et al., 2011",AT,lachman_1,32.0,6.0,0.548,4.926,7.074
+536,70,"Noh et al., 2011",HT,lachman_2,33.0,1.0,0.24,0.53,1.47
+24,73,"Papalia et al., 2015",BPTB vs. HT,lysholm,40.0,0.474,0.321,-0.155,1.103
+351,73,"Papalia et al., 2015",HT,lysholm,20.0,93.17,2.303,88.656,97.684
+109,73,"Papalia et al., 2015",HT,ikdc_subjective,20.0,90.97,1.14,88.736,93.204
+108,73,"Papalia et al., 2015",BPTB,ikdc_subjective,20.0,86.9,2.616,81.773,92.027
+18,73,"Papalia et al., 2015",BPTB vs. HT,ikdc_subjective,40.0,0.451,0.32,-0.176,1.078
+350,73,"Papalia et al., 2015",BPTB,lysholm,20.0,87.4,3.086,81.351,93.449
+16,76,"Pinczewski et al., 2007",BPTB vs. HT,lachman_2,112.0,0.358,1.644,-2.864,3.58
+20,76,"Pinczewski et al., 2007",BPTB,graft_failure,90.0,7.0,0.091,6.822,7.178
+538,76,"Pinczewski et al., 2007",BPTB,lachman_2,53.0,0.0,0.245,-0.48,0.48
+280,76,"Pinczewski et al., 2007",BPTB,lachman_1,53.0,10.0,0.245,9.52,10.48
+600,76,"Pinczewski et al., 2007",BPTB,pivot_shift_2,53.0,0.0,0.114,-0.223,0.223
+422,76,"Pinczewski et al., 2007",BPTB,pivot_shift_1,53.0,5.0,0.114,4.777,5.223
+423,76,"Pinczewski et al., 2007",HT,pivot_shift_1,58.0,8.0,0.171,7.665,8.335
+26,76,"Pinczewski et al., 2007",BPTB vs. HT,instrumented_laxity,112.0,0.247,0.19,-0.125,0.619
+210,76,"Pinczewski et al., 2007",BPTB,instrumented_laxity,54.0,1.2,0.23,0.749,1.651
+601,76,"Pinczewski et al., 2007",HT,pivot_shift_2,58.0,0.0,0.171,-0.335,0.335
+281,76,"Pinczewski et al., 2007",HT,lachman_1,58.0,12.0,0.272,11.467,12.533
+16,76,"Pinczewski et al., 2007",BPTB vs. HT,lachman_1,112.0,0.899,0.469,-0.02,1.818
+21,76,"Pinczewski et al., 2007",BPTB vs. HT,pivot_shift_2,112.0,1.094,2.009,-2.844,5.032
+5,76,"Pinczewski et al., 2007",BPTB vs. HT,graft_failure,181.0,0.564,0.488,-0.392,1.52
+21,76,"Pinczewski et al., 2007",HT,graft_failure,90.0,12.0,0.16,11.686,12.314
+211,76,"Pinczewski et al., 2007",HT,instrumented_laxity,58.0,1.6,0.204,1.2,2.0
+539,76,"Pinczewski et al., 2007",HT,lachman_2,58.0,1.0,0.272,0.467,1.533
+21,76,"Pinczewski et al., 2007",BPTB vs. HT,pivot_shift_1,112.0,0.674,0.583,-0.469,1.817
+425,77,"Popovic et al., 2024",HT,pivot_shift_1,33.0,3.0,0.016,2.969,3.031
+17,77,"Popovic et al., 2024",BPTB vs. HT,lachman_1,72.0,0.067,1.498,-2.869,3.003
+603,77,"Popovic et al., 2024",HT,pivot_shift_2,33.0,3.0,0.016,2.969,3.031
+6,77,"Popovic et al., 2024",BPTB vs. HT,graft_failure,72.0,0.644,0.756,-0.838,2.126
+23,77,"Popovic et al., 2024",HT,graft_failure,33.0,4.0,0.155,3.696,4.304
+541,77,"Popovic et al., 2024",HT,lachman_2,33.0,5.0,0.016,4.969,5.031
+17,77,"Popovic et al., 2024",BPTB vs. HT,lachman_2,72.0,1.668,0.598,0.496,2.84
+22,77,"Popovic et al., 2024",BPTB vs. HT,pivot_shift_1,72.0,0.347,1.006,-1.625,2.319
+22,77,"Popovic et al., 2024",BPTB vs. HT,pivot_shift_2,72.0,0.347,1.006,-1.625,2.319
+355,77,"Popovic et al., 2024",HT,lysholm,33.0,85.0,2.554,79.994,90.006
+22,77,"Popovic et al., 2024",BPTB,graft_failure,38.0,3.0,0.101,2.802,3.198
+283,77,"Popovic et al., 2024",HT,lachman_1,33.0,5.0,0.016,4.969,5.031
+424,77,"Popovic et al., 2024",BPTB,pivot_shift_1,38.0,1.0,0.101,0.802,1.198
+282,77,"Popovic et al., 2024",BPTB,lachman_1,38.0,0.0,0.013,-0.025,0.025
+540,77,"Popovic et al., 2024",BPTB,lachman_2,38.0,9.0,0.013,8.975,9.025
+213,77,"Popovic et al., 2024",HT,instrumented_laxity,33.0,1.5,0.574,0.375,2.625
+481,77,"Popovic et al., 2024",HT,tegner,33.0,5.0,0.376,4.263,5.737
+18,77,"Popovic et al., 2024",BPTB vs. HT,tegner,71.0,0.527,0.242,0.053,1.001
+27,77,"Popovic et al., 2024",BPTB vs. HT,instrumented_laxity,71.0,0.072,0.238,-0.394,0.538
+480,77,"Popovic et al., 2024",BPTB,tegner,38.0,4.0,0.266,3.479,4.521
+212,77,"Popovic et al., 2024",BPTB,instrumented_laxity,38.0,1.3,0.357,0.6,2.0
+354,77,"Popovic et al., 2024",BPTB,lysholm,38.0,82.0,2.506,77.088,86.912
+25,77,"Popovic et al., 2024",BPTB vs. HT,lysholm,71.0,0.199,0.239,-0.269,0.667
+602,77,"Popovic et al., 2024",BPTB,pivot_shift_2,38.0,1.0,0.101,0.802,1.198
+23,82,"Sajovic et al., 2018",BPTB vs. HT,pivot_shift_1,49.0,0.802,0.666,-0.503,2.107
+543,82,"Sajovic et al., 2018",HT,lachman_2,24.0,0.0,0.29,-0.568,0.568
+18,82,"Sajovic et al., 2018",BPTB vs. HT,lachman_1,49.0,1.0,0.685,-0.343,2.343
+284,82,"Sajovic et al., 2018",BPTB,lachman_1,24.0,5.0,0.29,4.432,5.568
+18,82,"Sajovic et al., 2018",BPTB vs. HT,lachman_2,49.0,1.0,2.021,-2.961,4.961
+23,82,"Sajovic et al., 2018",BPTB vs. HT,pivot_shift_2,49.0,1.0,2.021,-2.961,4.961
+285,82,"Sajovic et al., 2018",HT,lachman_1,24.0,5.0,0.29,4.432,5.568
+427,82,"Sajovic et al., 2018",HT,pivot_shift_1,24.0,6.0,0.29,5.432,6.568
+426,82,"Sajovic et al., 2018",BPTB,pivot_shift_1,24.0,5.0,0.361,4.292,5.708
+604,82,"Sajovic et al., 2018",BPTB,pivot_shift_2,24.0,0.0,0.361,-0.708,0.708
+605,82,"Sajovic et al., 2018",HT,pivot_shift_2,24.0,0.0,0.29,-0.568,0.568
+542,82,"Sajovic et al., 2018",BPTB,lachman_2,24.0,0.0,0.29,-0.568,0.568
+110,84,"Sinding et al., 2020",HT,ikdc_subjective,43.0,76.0,2.287,71.517,80.483
+19,84,"Sinding et al., 2020",HT vs. QT,ikdc_subjective,85.0,0.0,0.217,-0.425,0.425
+111,84,"Sinding et al., 2020",QT,ikdc_subjective,42.0,76.0,2.623,70.859,81.141
+112,85,"Smith et al., 2020",BPTB,ikdc_subjective,32.0,89.4,1.626,86.213,92.587
+214,85,"Smith et al., 2020",BPTB,instrumented_laxity,32.0,0.0,0.141,-0.276,0.276
+24,85,"Smith et al., 2020",BPTB,graft_failure,32.0,0.0,0.016,-0.031,0.031
+7,85,"Smith et al., 2020",BPTB vs. HT,graft_failure,65.0,0.188,1.57,-2.889,3.265
+215,85,"Smith et al., 2020",HT,instrumented_laxity,32.0,0.3,0.124,0.057,0.543
+113,85,"Smith et al., 2020",HT,ikdc_subjective,32.0,94.8,1.131,92.583,97.017
+25,85,"Smith et al., 2020",HT,graft_failure,32.0,2.0,0.083,1.837,2.163
+20,85,"Smith et al., 2020",BPTB vs. HT,ikdc_subjective,64.0,0.681,0.257,0.177,1.185
+28,85,"Smith et al., 2020",BPTB vs. HT,instrumented_laxity,64.0,0.399,0.253,-0.097,0.895
+8,87,"Sonnery-cottet et al., 2026",BPTB vs. HT,graft_failure,557.0,1.038,0.409,0.236,1.84
+29,87,"Sonnery-cottet et al., 2026",BPTB vs. HT,instrumented_laxity,593.0,0.247,0.082,0.086,0.408
+19,87,"Sonnery-cottet et al., 2026",BPTB vs. HT,tegner,593.0,0.061,0.082,-0.1,0.222
+26,87,"Sonnery-cottet et al., 2026",BPTB vs. HT,lysholm,593.0,0.173,0.082,0.012,0.334
+21,87,"Sonnery-cottet et al., 2026",BPTB vs. HT,ikdc_subjective,593.0,0.151,0.082,-0.01,0.312
+482,87,"Sonnery-cottet et al., 2026",BPTB,tegner,296.0,6.6,0.093,6.418,6.782
+27,87,"Sonnery-cottet et al., 2026",HT,graft_failure,283.0,12.0,0.046,11.91,12.09
+357,87,"Sonnery-cottet et al., 2026",HT,lysholm,297.0,91.1,0.691,89.746,92.454
+114,87,"Sonnery-cottet et al., 2026",BPTB,ikdc_subjective,296.0,89.4,0.634,88.157,90.643
+356,87,"Sonnery-cottet et al., 2026",BPTB,lysholm,296.0,89.0,0.721,87.587,90.413
+483,87,"Sonnery-cottet et al., 2026",HT,tegner,297.0,6.7,0.099,6.506,6.894
+217,87,"Sonnery-cottet et al., 2026",HT,instrumented_laxity,297.0,0.9,0.058,0.786,1.014
+115,87,"Sonnery-cottet et al., 2026",HT,ikdc_subjective,297.0,91.0,0.598,89.828,92.172
+26,87,"Sonnery-cottet et al., 2026",BPTB,graft_failure,273.0,12.0,0.048,11.906,12.094
+216,87,"Sonnery-cottet et al., 2026",BPTB,instrumented_laxity,296.0,1.2,0.081,1.041,1.359
+22,89,"Tang et al., 2023",HT vs. QT,ikdc_subjective,33.0,0.443,0.353,-0.249,1.135
+116,89,"Tang et al., 2023",HT,ikdc_subjective,16.0,90.13,1.748,86.704,93.556
+359,89,"Tang et al., 2023",QT,lysholm,17.0,90.0,1.033,87.975,92.025
+358,89,"Tang et al., 2023",HT,lysholm,16.0,90.06,1.832,86.469,93.651
+117,89,"Tang et al., 2023",QT,ikdc_subjective,17.0,87.12,1.603,83.978,90.262
+27,89,"Tang et al., 2023",HT vs. QT,lysholm,33.0,0.01,0.348,-0.672,0.692
+28,90,"Taylor et al., 2009",BPTB,graft_failure,32.0,3.0,0.12,2.765,3.235
+485,90,"Taylor et al., 2009",HT,tegner,24.0,5.3,0.731,3.867,6.733
+9,90,"Taylor et al., 2009",BPTB vs. HT,graft_failure,65.0,0.751,0.76,-0.739,2.241
+20,90,"Taylor et al., 2009",BPTB vs. HT,tegner,44.0,0.436,0.306,-0.164,1.036
+28,90,"Taylor et al., 2009",BPTB vs. HT,lysholm,44.0,0.008,0.302,-0.584,0.6
+484,90,"Taylor et al., 2009",BPTB,tegner,20.0,6.8,0.731,5.367,8.233
+360,90,"Taylor et al., 2009",BPTB,lysholm,21.0,90.3,2.66,85.086,95.514
+29,90,"Taylor et al., 2009",HT,graft_failure,32.0,4.0,0.161,3.684,4.316
+361,90,"Taylor et al., 2009",HT,lysholm,23.0,90.4,2.659,85.188,95.612
+29,93,"Vilchez-cavazos et al., 2020",BPTB vs. QT,lysholm,28.0,0.24,0.379,-0.503,0.983
+23,93,"Vilchez-Cavazos et al., 2020",HT vs. QT,ikdc_subjective,28.0,0.849,0.396,0.073,1.625
+119,93,"Vilchez-Cavazos et al., 2020",QT,ikdc_subjective,14.0,88.17,0.665,86.867,89.473
+363,93,"Vilchez-cavazos et al., 2020",QT,lysholm,14.0,95.33,0.706,93.946,96.714
+118,93,"Vilchez-Cavazos et al., 2020",HT,ikdc_subjective,14.0,90.0,0.47,89.079,90.921
+362,93,"Vilchez-cavazos et al., 2020",BPTB,lysholm,14.0,96.0,0.783,94.465,97.535
+30,95,"Webster et al., 2001",BPTB vs. HT,instrumented_laxity,54.0,0.706,0.284,0.149,1.263
+225,95,"Webster et al., 2001",HT,instrumented_laxity,31.0,1.7,0.174,1.359,2.041
+224,95,"Webster et al., 2001",BPTB,instrumented_laxity,23.0,1.1,0.136,0.833,1.367
+364,96,"Wipfler et al., 2011",BPTB,lysholm,29.0,87.28,0.327,86.639,87.921
+24,96,"Wipfler et al., 2011",BPTB vs. HT,ikdc_subjective,54.0,2.904,0.394,2.132,3.676
+30,96,"Wipfler et al., 2011",BPTB vs. HT,lysholm,54.0,2.614,0.374,1.881,3.347
+30,96,"Wipfler et al., 2011",BPTB,graft_failure,29.0,3.0,0.134,2.737,3.263
+121,96,"Wipfler et al., 2011",HT,ikdc_subjective,25.0,92.95,0.398,92.17,93.73
+120,96,"Wipfler et al., 2011",BPTB,ikdc_subjective,29.0,86.72,0.422,85.893,87.547
+21,96,"Wipfler et al., 2011",BPTB vs. HT,tegner,54.0,0.167,0.273,-0.368,0.702
+10,96,"Wipfler et al., 2011",BPTB vs. HT,graft_failure,55.0,0.846,0.81,-0.742,2.434
+31,96,"Wipfler et al., 2011",BPTB vs. HT,instrumented_laxity,54.0,0.826,0.285,0.267,1.385
+488,96,"Wipfler et al., 2011",BPTB,tegner,29.0,6.2,0.065,6.073,6.327
+226,96,"Wipfler et al., 2011",BPTB,instrumented_laxity,29.0,0.9,0.05,0.802,0.998
+227,96,"Wipfler et al., 2011",HT,instrumented_laxity,25.0,0.64,0.072,0.499,0.781
+31,96,"Wipfler et al., 2011",HT,graft_failure,25.0,3.0,0.16,2.686,3.314
+365,96,"Wipfler et al., 2011",HT,lysholm,25.0,91.82,0.342,91.15,92.49
+489,96,"Wipfler et al., 2011",HT,tegner,25.0,6.14,0.074,5.995,6.285
+24,97,"Yadav et al., 2025",HT vs. QT,pivot_shift_2,70.0,2.829,1.651,-0.407,6.065
+229,97,"Yadav et al., 2025",QT,instrumented_laxity,33.0,2.73,0.285,2.171,3.289
+367,97,"Yadav et al., 2025",QT,lysholm,33.0,88.2,0.0,88.2,88.2
+32,97,"Yadav et al., 2025",HT,graft_failure,36.0,1.0,0.043,0.916,1.084
+31,97,"Yadav et al., 2025",HT vs. QT,lysholm,69.0,inf,inf,,inf
+24,97,"Yadav et al., 2025",HT vs. QT,pivot_shift_1,70.0,11.71,1.498,8.774,14.646
+11,97,"Yadav et al., 2025",HT vs. QT,graft_failure,70.0,2.829,1.651,-0.407,6.065
+32,97,"Yadav et al., 2025",HT vs. QT,instrumented_laxity,69.0,0.564,0.246,0.082,1.046
+609,97,"Yadav et al., 2025",QT,pivot_shift_2,33.0,0.0,0.016,-0.031,0.031
+33,97,"Yadav et al., 2025",QT,graft_failure,33.0,0.0,0.016,-0.031,0.031
+608,97,"Yadav et al., 2025",HT,pivot_shift_2,36.0,1.0,0.178,0.651,1.349
+366,97,"Yadav et al., 2025",HT,lysholm,36.0,92.4,0.0,92.4,92.4
+430,97,"Yadav et al., 2025",HT,pivot_shift_1,36.0,5.0,0.178,4.651,5.349
+228,97,"Yadav et al., 2025",HT,instrumented_laxity,36.0,3.77,0.335,3.113,4.427
+431,97,"Yadav et al., 2025",QT,pivot_shift_1,33.0,0.0,0.016,-0.031,0.031
+368,98,"Yoo et al., 2017",HT,lysholm,68.0,96.0,0.848,94.338,97.662
+25,98,"Yoo et al., 2017",HT vs. TA,pivot_shift_2,133.0,0.66,0.847,-1.0,2.32
+22,98,"Yoo et al., 2017",HT vs. TA,tegner,132.0,0.0,0.174,-0.341,0.341
+25,98,"Yoo et al., 2017",HT vs. TA,pivot_shift_1,133.0,0.584,0.352,-0.106,1.274
+32,98,"Yoo et al., 2017",HT vs. TA,lysholm,132.0,0.466,0.177,0.119,0.813
+432,98,"Yoo et al., 2017",HT,pivot_shift_1,68.0,26.0,0.038,25.926,26.074
+610,98,"Yoo et al., 2017",HT,pivot_shift_2,68.0,2.0,0.038,1.926,2.074
+547,98,"Yoo et al., 2017",TA,lachman_2,64.0,6.0,0.112,5.78,6.22
+289,98,"Yoo et al., 2017",TA,lachman_1,64.0,35.0,0.112,34.78,35.22
+611,98,"Yoo et al., 2017",TA,pivot_shift_2,64.0,3.0,0.058,2.886,3.114
+433,98,"Yoo et al., 2017",TA,pivot_shift_1,64.0,33.0,0.058,32.886,33.114
+288,98,"Yoo et al., 2017",HT,lachman_1,68.0,36.0,0.07,35.863,36.137
+490,98,"Yoo et al., 2017",HT,tegner,68.0,5.0,0.179,4.649,5.351
+369,98,"Yoo et al., 2017",TA,lysholm,64.0,93.0,0.722,91.585,94.415
+491,98,"Yoo et al., 2017",TA,tegner,64.0,5.0,0.134,4.737,5.263
+19,98,"Yoo et al., 2017",HT vs. TA,lachman_1,133.0,0.932,0.348,0.25,1.614
+546,98,"Yoo et al., 2017",HT,lachman_2,68.0,4.0,0.07,3.863,4.137
+19,98,"Yoo et al., 2017",HT vs. TA,lachman_2,133.0,0.627,0.639,-0.625,1.879
+232,100,"Zaffagnini et al., 2011",BPTB,instrumented_laxity,40.0,0.4,0.095,0.214,0.586
+123,100,"Zaffagnini et al., 2011",HT,ikdc_subjective,39.0,88.0,1.441,85.176,90.824
+233,100,"Zaffagnini et al., 2011",HT,instrumented_laxity,39.0,1.1,0.304,0.504,1.696
+33,100,"Zaffagnini et al., 2011",BPTB vs. HT,instrumented_laxity,79.0,0.5,0.229,0.051,0.949
+25,100,"Zaffagnini et al., 2011",BPTB vs. HT,ikdc_subjective,79.0,0.385,0.227,-0.06,0.83
+122,100,"Zaffagnini et al., 2011",BPTB,ikdc_subjective,40.0,82.0,3.162,75.802,88.198

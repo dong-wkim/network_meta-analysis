@@ -1,0 +1,1 @@
+('anterior cruciate ligament'/exp OR 'anterior cruciate ligament reconstruction':ti,ab) AND ('randomized controlled trial':it,ti,ab) AND ('hamstring tendon':ti,ab OR 'semitendinosus':ti,ab OR 'gracilis':ti,ab)

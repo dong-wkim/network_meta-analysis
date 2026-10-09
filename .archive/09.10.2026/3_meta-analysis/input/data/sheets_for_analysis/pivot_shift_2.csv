@@ -1,0 +1,26 @@
+,id,study,outcome,treat1,treat2,n1,n2,y1,y2,sd1,sd2,TE,seTE,subgroup
+0,2,"Aglietti et al., 2004",pivot_shift_2,BPTB,HT,60.5,60.5,0.5,0.5,0.07,0.07,0.0,2.008,BPTB vs. HT
+1,5,"Anderson et al., 2001",pivot_shift_2,BPTB,HT,35.5,68.5,15.5,27.5,1.59,1.95,0.14410034397375687,0.419,BPTB vs. HT
+2,11,"Beynnon et al., 2002",pivot_shift_2,BPTB,HT,22.5,22.5,6.5,1.5,0.11,1.91,1.7383586925009398,0.965,BPTB vs. HT
+3,12,"Bi et al., 2018",pivot_shift_2,HT,PLT,62.5,62.5,1.5,0.5,0.06,0.06,1.1148136680061178,1.643,HT vs. PLT
+4,25,"Eriksson et al., 2001",pivot_shift_2,BPTB,HT,42.5,47.5,0.5,0.5,0.41,1.71,0.11243542932978817,2.011,BPTB vs. HT
+5,26,"Feller & Webster, 2003",pivot_shift_2,BPTB,HT,27.5,21.5,0.5,0.5,0.1,1.58,-0.2510287548037454,2.021,BPTB vs. HT
+6,32,"Guglielmetti et al., 2021",pivot_shift_2,BPTB,HT,31.5,31.5,2.5,1.5,0.48,0.7,0.5446471722415014,1.065,BPTB vs. HT
+7,33,"Harilainen et al., 2006",pivot_shift_2,BPTB,HT,37.5,37.5,0.5,1.5,0.08,0.25,-1.1270117631898076,1.65,BPTB vs. HT
+8,34,"Heijne & Werner, 2010",pivot_shift_2,BPTB,HT,30.5,29.5,3.5,8.5,0.71,2.18,-1.1394342831883648,0.699,BPTB vs. HT
+9,36,"Horstmann et al., 2022",pivot_shift_2,HT,QT,26.5,23.5,0.5,0.5,0.1,0.1,-0.12216763397420753,2.02,HT vs. QT
+10,37,"Ibrahim et al., 2005",pivot_shift_2,BPTB,HT,40.5,45.5,0.5,0.5,0.99,1.54,0.11778303565638346,2.012,BPTB vs. HT
+11,41,"Jansson et al., 2003",pivot_shift_2,BPTB,HT,43.5,46.5,0.5,0.5,0.57,0.55,0.06765864847381486,2.011,BPTB vs. HT
+12,46,"Laoruengthana et al., 2009",pivot_shift_2,BPTB,HT,15.5,13.5,0.5,0.5,0.75,0.82,-0.1427163022015952,2.036,BPTB vs. HT
+13,47,"Lawhorn et al., 2012",pivot_shift_2,HT,TA,44.5,48.5,1.5,0.5,1.07,0.75,1.2086617938120676,1.646,HT vs. TA
+14,51,"Li et al., 2015",pivot_shift_2,HT,TA,32.5,32.5,0.5,1.5,0.91,2.34,-1.1301029557594804,1.652,HT vs. TA
+15,53,"Lind et al., 2020",pivot_shift_2,HT,QT,49.5,47.5,0.5,0.5,2.12,1.49,-0.04186420409869887,2.01,HT vs. QT
+16,54,"Lucidi et al., 2025",pivot_shift_2,BPTB,HT,19.5,20.5,7.5,5.5,2.72,1.64,0.5335651107354802,0.682,BPTB vs. HT
+17,56,"Lund et al., 2014",pivot_shift_2,BPTB,QT,18.5,21.5,3.5,8.5,0.99,3.0,-1.030019497202498,0.74,BPTB vs. QT
+18,58,"Malik et al., 2026",pivot_shift_2,HT,PLT,25.5,25.5,4.5,3.5,1.07,0.8,0.2978798974282269,0.775,HT vs. PLT
+19,70,"Noh et al., 2011",pivot_shift_2,HT,AT,33.5,32.5,1.5,3.5,1.38,1.41,-0.9467499393588635,1.009,HT vs. AT
+20,76,"Pinczewski et al., 2007",pivot_shift_2,BPTB,HT,53.5,58.5,0.5,0.5,0.83,1.3,0.08984070399978954,2.009,BPTB vs. HT
+21,77,"Popovic et al., 2024",pivot_shift_2,BPTB,HT,38.5,33.5,1.5,3.5,0.62,0.09,-1.058430499035278,1.006,BPTB vs. HT
+22,82,"Sajovic et al., 2018",pivot_shift_2,BPTB,HT,24.5,24.5,0.5,0.5,1.77,1.42,0.0,2.021,BPTB vs. HT
+23,97,"Yadav et al., 2025",pivot_shift_2,HT,QT,36.5,33.5,1.5,0.5,1.07,0.09,1.0399232923194301,1.651,HT vs. QT
+24,98,"Yoo et al., 2017",pivot_shift_2,HT,TA,68.5,64.5,2.5,3.5,0.31,0.46,-0.4155154439616658,0.847,HT vs. TA

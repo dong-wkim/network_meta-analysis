@@ -1,0 +1,18 @@
+Q statistics to assess homogeneity / consistency
+
+                   Q df p-value
+Total           7.06 15  0.9560
+Within designs  7.06 15  0.9560
+Between designs 0.00  0      --
+
+Design-specific decomposition of within-designs Q statistic
+
+      Design    Q df p-value
+   HT vs. TA 0.03  1  0.8569
+ BPTB vs. HT 7.03 14  0.9337
+
+Q statistic to assess consistency under the assumption of
+a full design-by-treatment interaction random effects model
+
+                   Q df p-value tau.within tau2.within
+Between designs 0.00  0      --          0           0

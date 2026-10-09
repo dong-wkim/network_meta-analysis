@@ -1,0 +1,7 @@
+,subgroup,ikdc_subjective.rank,ikdc_subjective.SUCRA,lysholm.rank,lysholm.SUCRA,tegner.rank,tegner.SUCRA,instrumented_laxity.rank,instrumented_laxity.SUCRA,pivot_shift_1.rank,pivot_shift_1.SUCRA,pivot_shift_2.rank,pivot_shift_2.SUCRA,lachman_1.rank,lachman_1.SUCRA,lachman_2.rank,lachman_2.SUCRA,graft_failure.rank,graft_failure.SUCRA
+0,BPTB,1,0.9927,1,0.982,1,0.9332,1,0.9996,1,0.9345,1,0.9555,1,0.9983,1,0.9898,1,0.9943
+1,HT,2,0.6502,2,0.7107,4,0.4426,2,0.6923,2,0.6985,2,0.6332,2,0.7228,2,0.6047,2,0.4784
+2,QT,3,0.3511,3,0.4035,2,0.6467,3,0.4825,6,0.0441,4,0.4762,,,,,3,0.0273
+3,PLT,4,0.3188,6,0.257,6,0.1154,4,0.3236,5,0.3591,6,0.1512,5,0.1461,5,0.1269,,
+4,AT,,,4,0.3859,3,0.4662,,,3,0.5594,3,0.5078,4,0.2854,3,0.4356,,
+5,TA,5,0.1872,5,0.261,5,0.3961,5,0.002,4,0.4044,5,0.2761,3,0.3474,4,0.3429,,

@@ -1,0 +1,2 @@
+Redo all analyses. League tables should match netmeta, and replace the top diagonal with Pairwise results from meta.
+Figure out why analyses are different using sheets_for_analysis and reformatted datasets.

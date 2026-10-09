@@ -1,0 +1,44 @@
+Number of studies: k = 26
+Number of pairwise comparisons: m = 26
+Number of treatments: n = 5
+Number of designs: d = 5
+
+Random effects model
+
+Treatment estimate (sm = 'SMD'):
+        BPTB      HT     PLT      QT     TA
+BPTB       .  0.4542  0.6867  0.6025 0.9016
+HT   -0.4542       .  0.2324  0.1483 0.4473
+PLT  -0.6867 -0.2324       . -0.0841 0.2149
+QT   -0.6025 -0.1483  0.0841       . 0.2990
+TA   -0.9016 -0.4473 -0.2149 -0.2990      .
+
+Lower 95%-confidence limit:
+        BPTB      HT     PLT      QT      TA
+BPTB       .  0.2123  0.1279  0.2718  0.2384
+HT   -0.6961       . -0.2713 -0.1666 -0.1701
+PLT  -1.2454 -0.7361       . -0.6782 -0.5820
+QT   -0.9333 -0.4633 -0.5099       . -0.3941
+TA   -1.5647 -1.0648 -1.0118 -0.9922       .
+
+Upper 95%-confidence limit:
+        BPTB     HT    PLT     QT     TA
+BPTB       . 0.6961 1.2454 0.9333 1.5647
+HT   -0.2123      . 0.7361 0.4633 1.0648
+PLT  -0.1279 0.2713      . 0.5099 1.0118
+QT   -0.2718 0.1666 0.6782      . 0.9922
+TA   -0.2384 0.1701 0.5820 0.3941      .
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 0.1395; tau = 0.3735; I^2 = 72.9% [58.9%; 82.1%]
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                    Q d.f.  p-value
+Total           81.05   22 < 0.0001
+Within designs  77.97   21 < 0.0001
+Between designs  3.08    1   0.0792
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- DerSimonian-Laird estimator for tau^2
+- Calculation of I^2 based on Q

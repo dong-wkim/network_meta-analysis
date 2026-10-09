@@ -1,0 +1,20 @@
+,id,study,outcome,treat1,treat2,n1,n2,y1,y2,sd1,sd2,TE,seTE,subgroup
+0,2,"Aglietti et al., 2004",lachman_1,BPTB,HT,60.5,60.5,0.5,0.5,0.06,0.06,0.0,2.008,BPTB vs. HT
+1,11,"Beynnon et al., 2002",lachman_1,BPTB,HT,22.5,22.5,13.5,20.5,0.59,7.04,-1.9241486572738007,0.857,BPTB vs. HT
+2,23,"Ejerhed et al., 2003",lachman_1,BPTB,HT,32.5,34.5,14.5,18.5,5.16,4.23,-0.36096986822161325,0.491,BPTB vs. HT
+3,26,"Feller & Webster, 2003",lachman_1,BPTB,HT,27.5,21.5,6.5,19.5,0.3,0.11,-3.4420193761824103,0.868,BPTB vs. HT
+4,30,"Gifstad et al., 2013",lachman_1,BPTB,HT,41.5,36.5,16.5,13.5,0.24,0.26,0.11689375147149943,0.467,BPTB vs. HT
+5,32,"Guglielmetti et al., 2021",lachman_1,BPTB,HT,31.5,31.5,9.5,9.5,0.48,0.7,0.0,0.549,BPTB vs. HT
+6,33,"Harilainen et al., 2006",lachman_1,BPTB,HT,37.5,37.5,8.5,6.5,0.08,0.25,0.33504264381161847,0.582,BPTB vs. HT
+7,37,"Ibrahim et al., 2005",lachman_1,BPTB,HT,40.5,46.5,5.5,7.5,0.99,1.3,-0.20211618412213422,0.608,BPTB vs. HT
+8,41,"Jansson et al., 2003",lachman_1,BPTB,HT,43.5,46.5,8.5,8.5,1.59,1.52,0.08250122151174377,0.539,BPTB vs. HT
+9,45,"Konrads et al., 2016",lachman_1,BPTB,HT,24.5,23.5,8.5,11.5,2.6,4.6,-0.5905905922348531,0.592,BPTB vs. HT
+10,51,"Li et al., 2015",lachman_1,HT,TA,32.5,32.5,6.5,13.5,1.41,4.02,-1.04412410338404,0.565,HT vs. TA
+11,52,"Lidén et al., 2007",lachman_1,BPTB,HT,30.5,32.5,23.5,26.5,15.41,20.61,-0.2744368457017603,0.624,BPTB vs. HT
+12,55,"Lui et al., 2012",lachman_1,BPTB,HT,14.5,17.5,4.5,6.5,1.68,1.03,-0.2718087232954908,0.753,BPTB vs. HT
+13,58,"Malik et al., 2026",lachman_1,HT,PLT,25.5,25.5,3.5,2.5,0.8,0.54,0.3811724155391198,0.88,HT vs. PLT
+14,70,"Noh et al., 2011",lachman_1,HT,AT,33.5,32.5,6.5,6.5,1.38,3.1,-0.03770186718401153,0.619,HT vs. AT
+15,76,"Pinczewski et al., 2007",lachman_1,BPTB,HT,53.5,58.5,10.5,12.5,1.78,2.07,-0.10647224451051676,0.469,BPTB vs. HT
+16,77,"Popovic et al., 2024",lachman_1,BPTB,HT,38.5,33.5,0.5,5.5,0.08,0.09,-2.703062659591171,1.498,BPTB vs. HT
+17,82,"Sajovic et al., 2018",lachman_1,BPTB,HT,24.5,24.5,5.5,5.5,1.42,1.42,0.0,0.685,BPTB vs. HT
+18,98,"Yoo et al., 2017",lachman_1,HT,TA,68.5,64.5,36.5,35.5,0.58,0.9,-0.07042246429654582,0.348,HT vs. TA

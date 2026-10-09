@@ -1,0 +1,19 @@
+[project]
+name = "phd"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "dong-wkim",email = "admin@dongwkim.org"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter-book (>=2.1.6,<3.0.0)",
+    "ipykernel (>=7.3.0,<8.0.0)",
+    "ghp-import (>=2.1.0,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

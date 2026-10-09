@@ -1,0 +1,28 @@
+Number of studies: k = 26
+Number of pairwise comparisons: m = 26
+Number of treatments: n = 5
+Number of designs: d = 5
+
+Random effects model
+
+Treatment estimate (other treatments vs 'BPTB'):
+         SMD             95% CI     z p-value
+BPTB       .                  .     .       .
+HT   -0.3551 [-0.5741; -0.1360] -3.18  0.0015
+PLT  -0.5738 [-1.0776; -0.0700] -2.23  0.0256
+QT   -0.5280 [-0.8341; -0.2218] -3.38  0.0007
+TA   -0.7172 [-1.3152; -0.1193] -2.35  0.0187
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 0.1030; tau = 0.3209; I^2 = 66.6% [48.4%; 78.4%]
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                    Q d.f.  p-value
+Total           65.95   22 < 0.0001
+Within designs  61.20   21 < 0.0001
+Between designs  4.74    1   0.0294
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- DerSimonian-Laird estimator for tau^2
+- Calculation of I^2 based on Q

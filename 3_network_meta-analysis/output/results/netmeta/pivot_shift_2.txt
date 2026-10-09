@@ -1,0 +1,47 @@
+Number of studies: k = 25
+Number of pairwise comparisons: m = 25
+Number of treatments: n = 6
+Number of designs: d = 6
+
+Random effects model
+
+Treatment estimate (sm = 'OR'):
+         AT   BPTB     HT    PLT     QT     TA
+AT        . 2.6287 2.5773 4.0282 1.4723 1.9933
+BPTB 0.3804      . 0.9805 1.5324 0.5601 0.7583
+HT   0.3880 1.0199      . 1.5629 0.5713 0.7734
+PLT  0.2483 0.6526 0.6398      . 0.3655 0.4948
+QT   0.6792 1.7854 1.7505 2.7360      . 1.3539
+TA   0.5017 1.3188 1.2930 2.0209 0.7386      .
+
+Lower 95%-confidence limit:
+         AT   BPTB     HT    PLT     QT     TA
+AT        . 0.3424 0.3567 0.3625 0.1425 0.1825
+BPTB 0.0495      . 0.5984 0.3559 0.1676 0.1813
+HT   0.0537 0.6225      . 0.3956 0.1649 0.2019
+PLT  0.0223 0.1516 0.1620      . 0.0573 0.0725
+QT   0.0657 0.5343 0.5055 0.4293      . 0.2173
+TA   0.0459 0.3153 0.3375 0.2959 0.1185      .
+
+Upper 95%-confidence limit:
+         AT    BPTB      HT     PLT      QT      TA
+AT        . 20.1821 18.6222 44.7581 15.2140 21.7667
+BPTB 2.9207       .  1.6065  6.5974  1.8715  3.1719
+HT   2.8035  1.6711       .  6.1741  1.9784  2.9629
+PLT  2.7584  2.8095  2.5275       .  2.3295  3.3796
+QT   7.0186  5.9658  6.0626 17.4377       .  8.4357
+TA   5.4783  5.5163  4.9534 13.8019  4.6023       .
+
+Quantifying heterogeneity / inconsistency:
+tau^2 = 0; tau = 0; I^2 = 0% [0.0%; 47.0%]
+
+Tests of heterogeneity (within designs) and inconsistency (between designs):
+                    Q d.f. p-value
+Total           11.26   20  0.9393
+Within designs  10.05   19  0.9516
+Between designs  1.20    1  0.2729
+
+Details of network meta-analysis methods:
+- Frequentist graph-theoretical approach
+- DerSimonian-Laird estimator for tau^2
+- Calculation of I^2 based on Q

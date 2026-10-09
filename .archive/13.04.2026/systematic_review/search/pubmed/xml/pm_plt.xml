@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>39714511</Id>
+	<Item Name="PubDate" Type="Date">2024 Dec 23</Item>
+	<Item Name="EPubDate" Type="Date">2024 Dec 23</Item>
+	<Item Name="Source" Type="String">Arch Orthop Trauma Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Butt U</Item>
+		<Item Name="Author" Type="String">Vuletic F</Item>
+		<Item Name="Author" Type="String">Shaikh MAA</Item>
+		<Item Name="Author" Type="String">Amanullah</Item>
+		<Item Name="Author" Type="String">Rehman GU</Item>
+		<Item Name="Author" Type="String">Shah IA</Item>
+		<Item Name="Author" Type="String">Stålman A</Item>
+		<Item Name="Author" Type="String">Khan ZA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Khan ZA</Item>
+	<Item Name="Title" Type="String">5-years outcomes following arthroscopic anterior cruciate ligament reconstruction comparing quadruple hamstring and peroneus longus tendon autografts: a randomized control trial.</Item>
+	<Item Name="Volume" Type="String">145</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">85</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9011043</Item>
+	<Item Name="ISSN" Type="String">0936-8051</Item>
+	<Item Name="ESSN" Type="String">1434-3916</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Randomized Controlled Trial</Item>
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39714511</Item>
+		<Item Name="pmc" Type="String">PMC11666688</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC11666688;</Item>
+		<Item Name="doi" Type="String">10.1007/s00402-024-05639-1</Item>
+		<Item Name="pii" Type="String">10.1007/s00402-024-05639-1</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00402-024-05639-1</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/08/03 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/10/29 00:00</Item>
+		<Item Name="medline" Type="Date">2024/12/23 12:22</Item>
+		<Item Name="pubmed" Type="Date">2024/12/23 12:21</Item>
+		<Item Name="entrez" Type="Date">2024/12/23 11:05</Item>
+		<Item Name="pmc-release" Type="Date">2024/12/23 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">34</Item>
+	<Item Name="FullJournalName" Type="String">Archives of orthopaedic and trauma surgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00402-024-05639-1</Item>
+	<Item Name="SO" Type="String">2024 Dec 23;145(1):85</Item>
+</DocSum>
+
+<DocSum>
+	<Id>29421837</Id>
+	<Item Name="PubDate" Type="Date">2018 Nov</Item>
+	<Item Name="EPubDate" Type="Date">2018 Feb 8</Item>
+	<Item Name="Source" Type="String">J Knee Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Bi M</Item>
+		<Item Name="Author" Type="String">Zhao C</Item>
+		<Item Name="Author" Type="String">Zhang S</Item>
+		<Item Name="Author" Type="String">Yao B</Item>
+		<Item Name="Author" Type="String">Hong Z</Item>
+		<Item Name="Author" Type="String">Bi Q</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Bi Q</Item>
+	<Item Name="Title" Type="String">All-Inside Single-Bundle Reconstruction of the Anterior Cruciate Ligament with the Anterior Half of the Peroneus Longus Tendon Compared to the Semitendinosus Tendon: A Two-Year Follow-Up Study.</Item>
+	<Item Name="Volume" Type="String">31</Item>
+	<Item Name="Issue" Type="String">10</Item>
+	<Item Name="Pages" Type="String">1022-1030</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101137599</Item>
+	<Item Name="ISSN" Type="String">1538-8506</Item>
+	<Item Name="ESSN" Type="String">1938-2480</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Randomized Controlled Trial</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">29421837</Item>
+		<Item Name="doi" Type="String">10.1055/s-0038-1627466</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1055/s-0038-1627466</Item>
+	<Item Name="History" Type="List">
+		<Item Name="pubmed" Type="Date">2018/02/09 06:00</Item>
+		<Item Name="medline" Type="Date">2019/01/01 06:00</Item>
+		<Item Name="entrez" Type="Date">2018/02/09 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The journal of knee surgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1055/s-0038-1627466</Item>
+	<Item Name="SO" Type="String">2018 Nov;31(10):1022-1030</Item>
+</DocSum>
+
+</eSummaryResult>

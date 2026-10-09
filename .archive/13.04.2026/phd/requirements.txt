@@ -1,0 +1,6 @@
+pandas
+biopython
+ipython
+ipywidgets
+tabulate
+jupyterlab-spreadsheet-editor
